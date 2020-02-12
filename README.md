@@ -9,4 +9,4 @@ Just to make sure at least in every 10 hours, they will get
 4) FREE Meat
 5) At least 1 hour rest after 10 hours work
 
-And at least 24 hours enough sleep and rest every single week.
+And at least 24 hours enough sleep and rest every single week, strong mental health, in a very good state of mind, in every beginning of the month in the Gregorian calendar.
