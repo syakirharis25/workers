@@ -1,6 +1,8 @@
 # workers
 In a mission to hire at least 500,000 workers around the world.
 
+<img src="work-hard.jpg" height="200"> 
+
 ## Table of Contents
 1. [Goals.](#goals)
 2. [Official references websites.](#references)
