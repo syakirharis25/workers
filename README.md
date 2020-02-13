@@ -10,9 +10,9 @@ In a mission to hire at least 500,000 workers around the world.
 
 <a name="introduction"></a>
 ## 1. Goals.
-Just to make sure at least in every 10 hours, they will get at least
-1) FREE Bath (25 liters per capita)
-2) FREE Drink (2.5 liters per capita)
+Just to make sure in every 10 hours, they will get at least
+1) FREE Bath (25 liters, per capita)
+2) FREE Drink (2.5 liters, per capita)
 3) FREE Bread (1/4 of single plate, per capita)
 4) FREE Meat (1/4 of single plate, per capita)
 5) FREE Fruits (1/4 of single plate, per capita)
