@@ -14,11 +14,13 @@ In a mission to hire at least 500,000 workers around the world.
 Just to make sure in every 10 hours, they will get at least
 1) FREE Bath (150 liters, per capita)
 2) FREE Drink (2.5 liters, per capita)
-3) FREE Bread (1/4 of single dinner plate, per capita) | dinner plate : at least 13 inches in size
-4) FREE Meat || Vegetables for Vegetarian worker (1/4 of single dinner plate, per capita) | dinner plate : at least 13 inches in size
-5) FREE Fruits (1/4 of single dinner plate, per capita) | dinner plate : at least 13 inches in size
-6) FREE Rice (1/4 of single dinner plate, per capita) | dinner plate : at least 13 inches in size
+3) FREE Bread (1/4 of single dinner plate, per capita) 
+4) FREE Meat || Vegetables for Vegetarian worker (1/4 of single dinner plate, per capita) 
+5) FREE Fruits (1/4 of single dinner plate, per capita) 
+6) FREE Rice (1/4 of single dinner plate, per capita)
 7) 1 hour rest after 10 hours work
+
+** a single dinner plate is at least 13 inches in size
 
 And at least 24 hours enough sleep and rest every single week, continuously without any interruption or any disturbance, having very strong mental health, in a very good state of mind, in every beginning of the month in the Gregorian calendar.
 
