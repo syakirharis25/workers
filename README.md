@@ -6,9 +6,10 @@ In a mission to hire at least 500,000 workers around the world.
 ## Table of Contents
 1. [Goals.](#goals)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
+3. [Benchmarks.](#benchmarks) 
+4. [GitHub notes.](#github)
 
-<a name="introduction"></a>
+<a name="goals"></a>
 ## 1. Goals.
 Just to make sure in every 10 hours, they will get at least
 1) FREE Bath (150 liters, per capita)
@@ -25,8 +26,12 @@ And at least 24 hours enough sleep and rest every single week, continuously with
 ## 2. Official references websites. <br />
 In the process of building the official website for this mission.
 
+<a name="benchmarks"></a>
+## 3. Benchmarks.
+At least go as big as `Armed Forces of the Islamic Republic of Iran`(around 500,000 workers), if possible as big as `Russian Armed Forces` (around 2,000,000 workers), better if can match the number of `United States Armed Forces`(almost near to 10,000,000 workers).
+
 <a name="github"></a>
-## 3. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/workers.git
