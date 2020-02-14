@@ -15,7 +15,7 @@ Just to make sure in every 10 hours, they will get at least
 1) FREE Bath (150 liters, per capita)
 2) FREE Drink (2.5 liters, per capita)
 3) FREE Bread (1/4 of single dinner plate, per capita) | a single dinner plate is at least 13 inches in size
-4) FREE Meat (1/4 of single dinner plate, per capita) | a single dinner plate is at least 13 inches in size
+4) FREE Meat or Vegetables (1/4 of single dinner plate, per capita) | a single dinner plate is at least 13 inches in size
 5) FREE Fruits (1/4 of single dinner plate, per capita) | a single dinner plate is at least 13 inches in size
 6) FREE Rice (1/4 of single dinner plate, per capita) | a single dinner plate is at least 13 inches in size
 7) 1 hour rest after 10 hours work
