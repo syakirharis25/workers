@@ -28,7 +28,7 @@ In the process of building the official website for this mission.
 
 <a name="benchmarks"></a>
 ## 3. Benchmarks.
-At least go as big as `Armed Forces of the Islamic Republic of Iran`(around 500,000 workers), if possible as big as `Russian Armed Forces` (around 2,000,000 workers), better if can match the number of `United States Armed Forces`(almost near to 10,000,000 workers).
+At least go as big as `Armed Forces of the Islamic Republic of Iran`(around 500,000 workers), better as big as `Russian Armed Forces` (around 2,000,000 workers), then try to aim the total number of `United States Armed Forces`(almost near to 10,000,000 workers).
 
 <a name="github"></a>
 ## 4. GitHub notes.
