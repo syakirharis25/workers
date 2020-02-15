@@ -28,8 +28,8 @@ And at least 24 hours enough sleep and rest every single week, continuously with
 ## 2. Official references websites. <br />
 
 **_survival references_** <br />
-Raymond Paul Mears  : https://www.raymears.com <br />
-Edward Michael Grylls : https://www.beargrylls.com/<br />
+Raymond Paul Mears of United Kingdom : https://www.raymears.com <br />
+Edward Michael Grylls of United Kingdom : https://www.beargrylls.com/<br />
 The Royal Marines of United Kingdom : https://www.royalnavy.mod.uk/our-organisation/the-fighting-arms/royal-marines, https://twitter.com/RoyalMarines <br />
 
 <a name="benchmarks"></a>
