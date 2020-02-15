@@ -26,7 +26,11 @@ And at least 24 hours enough sleep and rest every single week, continuously with
 
 <a name="references"></a>
 ## 2. Official references websites. <br />
-In the process of building the official website for this mission.
+
+**_survival references_**
+Raymond Paul Mears  : https://www.raymears.com <br />
+Edward Michael Grylls : https://www.beargrylls.com/<br />
+The Royal Marines of United Kingdom : https://www.royalnavy.mod.uk/our-organisation/the-fighting-arms/royal-marines, https://twitter.com/RoyalMarines <br />
 
 <a name="benchmarks"></a>
 ## 3. Benchmarks.
