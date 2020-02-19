@@ -8,6 +8,7 @@ In a mission to hire at least 500,000 workers around the world.
 2. [Official references websites.](#references)
 3. [Benchmarks.](#benchmarks) 
 4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="goals"></a>
 ## 1. Goals.
@@ -49,3 +50,15 @@ $ git clone https://github.com/syakirharis25/workers.git
 $ cd workers/
 $ git remote -v
 $ git status
+```
+
+<a name="calculation"></a>
+## 5. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Markdown                         1              5              0             26
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
