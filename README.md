@@ -31,6 +31,7 @@ And at least 24 hours enough sleep and rest every single week, continuously with
 **_survival references_** <br />
 Raymond Paul Mears of United Kingdom : https://www.raymears.com <br />
 Edward Michael Grylls of United Kingdom : https://www.beargrylls.com/<br />
+Colonel Thomas Edward Lawrence of United Kingdom : https://www.smithsonianmag.com/history/true-story-lawrence-arabia-180951857/ <br />
 The Royal Marines of United Kingdom : https://www.royalnavy.mod.uk/our-organisation/the-fighting-arms/royal-marines, https://twitter.com/RoyalMarines <br />
 
 **_business references_** <br />
