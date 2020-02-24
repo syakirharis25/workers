@@ -22,7 +22,7 @@ Just to make sure in every 10 hours, they will get at least
 7) 1 hour rest after 10 hours work
 
 * a single dinner plate is at least 13 inches in size <br />
-* since animals, livestock like cattle, cow, that needs years to multiply, goat, sheep, that needs half of a single year to multiply, it needs a very good management, give it some time to multiply, among the solution is the birds like chicken also only take couple of months to multiply, and the water-based animals like fish that usually take weeks to multiply <br />
+* since animals, livestock like cattle, cow, that needs years to multiply, goat, sheep, that needs half of a single year to multiply, it needs a very good management, give it some time to multiply, among the solution is the bird type of meat like chicken also only take couple of months to multiply, and the water-based animals like fish that usually take weeks to multiply <br />
 * 1 cup of wild rice need to cook between	45 to 55 minutes before serve it to workers, some workers may need to chase their time for their other tasks or jobs they need to do in their life, therefore should give them other cereal option that can help with the workers time management <br />
 
 And at least 24 hours enough sleep and rest every single week, continuously without any interruption or any disturbance, having very strong mental health, in a very good state of mind, in every beginning of the month in the Gregorian calendar.
