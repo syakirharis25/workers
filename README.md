@@ -16,12 +16,14 @@ Just to make sure in every 10 hours, they will get at least
 1) FREE Bath (150 liters, per capita)
 2) FREE Drink (2.5 liters, per capita)
 3) FREE Bread (1/4 of single dinner plate, per capita) 
-4) FREE Meat || Vegetables for Vegetarian worker (1/4 of single dinner plate, per capita) 
+4) FREE Meat or Fish : depends on the available livestock || Vegetables for Vegetarian worker (1/4 of single dinner plate, per capita) 
 5) FREE Fruits (1/4 of single dinner plate, per capita) 
-6) FREE Rice (1/4 of single dinner plate, per capita)
+6) FREE Rice || Buckwheat or Millet for workers that need to chase their time (1/4 of single dinner plate, per capita)
 7) 1 hour rest after 10 hours work
 
-** a single dinner plate is at least 13 inches in size
+* a single dinner plate is at least 13 inches in size
+** since animals, livestock cannot multiply as fast as human can consume it, need years to multiply, it needs a very good management
+*** 1 cup of wild rice need to cook between	45 to 55 minutes before serve it to workers, some workers may need to chase their time for their other tasks or jobs they need to do in their life, therefore should give them other cereal option that can help with the workers time management
 
 And at least 24 hours enough sleep and rest every single week, continuously without any interruption or any disturbance, having very strong mental health, in a very good state of mind, in every beginning of the month in the Gregorian calendar.
 
