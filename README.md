@@ -22,8 +22,8 @@ Just to make sure in every 10 hours, they will get at least
 7) 1 hour rest after 10 hours work
 
 * a single dinner plate is at least 13 inches in size <br />
-** since animals, livestock cannot multiply as fast as human can consume it, need years to multiply, it needs a very good management <br />
-*** 1 cup of wild rice need to cook between	45 to 55 minutes before serve it to workers, some workers may need to chase their time for their other tasks or jobs they need to do in their life, therefore should give them other cereal option that can help with the workers time management <br />
+* since animals, livestock cannot multiply as fast as human can consume it, need years to multiply, it needs a very good management <br />
+* 1 cup of wild rice need to cook between	45 to 55 minutes before serve it to workers, some workers may need to chase their time for their other tasks or jobs they need to do in their life, therefore should give them other cereal option that can help with the workers time management <br />
 
 And at least 24 hours enough sleep and rest every single week, continuously without any interruption or any disturbance, having very strong mental health, in a very good state of mind, in every beginning of the month in the Gregorian calendar.
 
