@@ -31,6 +31,8 @@ Just to make sure in every 10 hours, they will get at least
 
 And at least 24 hours enough sleep and rest every single week, continuously without any interruption or any disturbance, having very strong mental health, in a very good state of mind, in every beginning of the month in the Gregorian calendar.
 
+There is always a room for impovement for every human beings, they just need a good education and the time of their own to be a better person, everything begins inside the inner working of human minds, what he or she do or did will define him or her in the future.
+
 <a name="references"></a>
 ## 2. Official references websites. <br />
 
