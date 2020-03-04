@@ -46,8 +46,11 @@ The Royal Marines of United Kingdom : https://www.royalnavy.mod.uk/our-organisat
 **_business references_** <br />
 Sir Richard Charles Nicholas Branson of United Kingdom : https://www.virgin.com/richard-branson <br />
 
-**_government references_** >br />
+**_government references_** <br />
 HM Government of Gibraltar : https://www.gibraltar.gov.gi <br />
+
+**_statistics references_** <br />
+The world's 50 largest companies based on number of employees in 2018 : https://www.statista.com/statistics/264671/top-20-companies-based-on-number-of-employees/ <br />
 
 <a name="benchmarks"></a>
 ## 3. Benchmarks.
