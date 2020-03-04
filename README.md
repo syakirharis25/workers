@@ -13,13 +13,14 @@ In a mission to hire at least 500,000 workers around the world.
 <a name="goals"></a>
 ## 1. Goals.
 Just to make sure in every 10 hours, they will get at least
-1) FREE Bath (150 liters, per capita)
-2) FREE Drink (2.5 liters, per capita)
-3) FREE Bread (1/4 of single dinner plate, per capita) 
-4) FREE Meat or Fish : depends on available livestock || Vegetables for Vegetarians (1/4 of single dinner plate, per capita) 
-5) FREE Fruits (1/4 of single dinner plate, per capita) 
-6) FREE Rice || Buckwheat or Millet for workers that need to chase their time (1/4 of single dinner plate, per capita)
-7) 1 hour rest after 10 hours work
+1) FREE Accomodation ((length : 250 inches) x (width : 250 inches) x (height : 250 inches), per capita)
+2) FREE Bath (150 liters, per capita)
+3) FREE Drink (2.5 liters, per capita)
+4) FREE Bread (1/4 of single dinner plate, per capita) 
+5) FREE Meat or Fish : depends on available livestock || Vegetables for Vegetarians (1/4 of single dinner plate, per capita) 
+6) FREE Fruits (1/4 of single dinner plate, per capita) 
+7) FREE Rice || Buckwheat or Millet for workers that need to chase their time (1/4 of single dinner plate, per capita)
+8) 1 hour rest after 10 hours work
 
 * a single dinner plate is at least 13 inches in size <br />
 * since animals, livestock like cattle, cow, that needs years to multiply, goat, sheep, that needs half of a single year to multiply, it needs a very good management, give it some time to multiply, among the solution is the bird type of meat like chicken also only take couple of months to multiply, and the water-based animals like fish that usually take weeks to multiply <br />
