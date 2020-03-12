@@ -20,7 +20,8 @@ Just to make sure in every 10 hours, they will get at least
 5) FREE Meat or Fish : depends on available livestock || Vegetables for Vegetarians (1/4 of single dinner plate, per capita) 
 6) FREE Fruits (1/4 of single dinner plate, per capita) 
 7) FREE Rice || Buckwheat or Millet for workers that need to chase their time (1/4 of single dinner plate, per capita)
-8) 1 hour rest after 10 hours work
+8) FREE Toilet Paper (1 roll : 4.5 inches long x 4.5 inches wide, at least 200 sheets per roll, per capita)
+9) 1 hour rest after 10 hours work
 
 * a single dinner plate is at least 13 inches in size <br />
 * since animals, livestock like cattle, cow, that needs years to multiply, goat, sheep, that needs half of a single year to multiply, it needs a very good management, give it some time to multiply, among the solution is the bird type of meat like chicken also only take couple of months to multiply, and the water-based animals like fish that usually take weeks to multiply <br />
