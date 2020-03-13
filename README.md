@@ -31,6 +31,8 @@ Just to make sure in every 10 hours, they will get at least
 * bread is at least a loaf of baguette, a loaf of brioche, a loaf of fougasse, a loaf of michetta
 * fruit is at least one cavendish banana, one watermelon, one pineapple, one papaya, one guava
 
+Every 2 days, make sure everyone can get at least 8 hours sleep and rest, do rotation of workers if any of them is not enough of rest. Allocate enough resources for at least 5 subtitute workers for one week of work, in any case of emergencies.
+
 And at least 24 hours enough sleep and rest every single week, continuously without any interruption or any disturbance, having very strong mental health, in a very good state of mind, in every beginning of the month in the Gregorian calendar.
 
 And every time I see a full moon appears on the sky, every single worker must receive at least 1 gantang Negeri of rice, which is equals to 2.751 kg of rice following the rules in my own mother tongue language "ada padi semua kerja jadi, ada beras semua kerja deras", and every leap year on Gregorian Calendar, on every 29 February, which happens only every 4 years on this earth, every century of workers which is equals to 10 contubernium with a total of 80 men commanded by a centurion, a total of 81 workers, must receive at least a 4 year old healthy cow following the standard of Etruscan Emilia-Romagna, which means every cow must be a weight of at least 1,000 kg for each century of workers.
