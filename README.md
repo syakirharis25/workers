@@ -31,7 +31,7 @@ Just to make sure in every 10 hours, they will get at least
 * bread is at least a loaf of baguette, a loaf of brioche, a loaf of fougasse, a loaf of michetta
 * fruit is at least one cavendish banana, one watermelon, one pineapple, one papaya, one guava
 
-Every 2 days, make sure everyone can get at least 8 hours sleep and rest, do rotation of workers if any of them is not enough of rest. Allocate enough resources for at least 5 subtitute workers for one week of work, in any case of emergencies.
+Every 2 days, make sure everyone can get at least 8 hours sleep and rest, do rotation of workers if any of them is not enough of rest. Allocate enough resources for at least 5 subtitute workers for one week of work, in any case of emergencies occurs.
 
 And at least 24 hours enough sleep and rest every single week, continuously without any interruption or any disturbance, having very strong mental health, in a very good state of mind, in every beginning of the month in the Gregorian calendar.
 
