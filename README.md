@@ -12,6 +12,9 @@ In a mission to hire at least 500,000 workers around the world.
 
 <a name="goals"></a>
 ## 1. Goals.
+
+EVERY SINGLE DAY
+---
 Just to make sure in every 10 hours, they will get at least
 1) FREE Accomodation ((length : 250 inches) x (width : 250 inches) x (height : 250 inches), per capita)
 2) FREE Bath (150 liters, per capita)
