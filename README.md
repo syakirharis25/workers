@@ -25,8 +25,10 @@ Just to make sure in every 10 hours, they will get at least
 7) FREE Rice || Buckwheat or Millet for workers that need to chase their time (1/4 of single dinner plate, per capita)
 8) FREE Toilet Paper (1 roll : 4.5 inches long x 4.5 inches wide, at least 200 sheets per roll, per capita)
 9) FREE Soap (1 US fluid ounce or 29.5735 milliliters, per capita)
-10) FREE Land Transportation (for those who needs to march and hit ground more than 1,000 paces, per capita)
-11) 1 hour rest after 10 hours work
+10) FREE Toothpaste (2 gram, per capita)
+11) FREE Land Transportation (for those who needs to march and hit ground more than 1,000 paces, per capita)
+12) FREE Land, Sea, Air Transportation (for those who needs to move more than 200,000 paces, priority for those needs to cross the sea, per capita)
+13) 1 hour rest after 10 hours work
 
 * a single dinner plate is at least 13 inches in size <br />
 * since animals, livestock like cattle, cow, that needs years to multiply, goat, sheep, that needs half of a single year to multiply, it needs a very good management, give it some time to multiply, among the solution is the bird type of meat like chicken also only take couple of months to multiply, and the water-based animals like fish that usually take weeks to multiply <br />
