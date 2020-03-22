@@ -58,7 +58,7 @@ And every time I see a full moon appears on the sky, every single worker must re
 
 EVERY 13 MONTHS
 ---
-At least 5 days break for Aidilfitri, at least 5 days break for Aidiladha, 10 days break from 24 December to 2 January every 13 months. 10 days break for yearly travel and pilgrimage of Israk Mikraj, to travel with the workers and family members to Masjidil Haram in Mecca and Masjidil Aqsa in Palestine, travel by land, air and sea, mostly by walking on land when already arrived on Masjidil Haram in Mecca and Masjidil Aqsa in Palestine land area.
+At least 5 days break for Aidilfitri, at least 5 days break for Aidiladha, 20 days break from 23 December to 11 January every 13 months. 10 days break for yearly travel and pilgrimage of Israk Mikraj, to travel with the workers and family members to Masjidil Haram in Mecca and Masjidil Aqsa in Palestine, travel by land, air and sea, mostly by walking on land when already arrived on Masjidil Haram in Mecca and Masjidil Aqsa in Palestine land area.
 
 There is always a room for improvement for every human beings, they just need a good education and the time of their own to be a better person, everything begins inside the inner working of human minds, what he or she do or did will define him or her in the future.
 
