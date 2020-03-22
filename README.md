@@ -50,9 +50,15 @@ EVERY 7 DAYS
 ---
 At least 24 hours enough sleep and rest every single week, continuously without any interruption or any disturbance, having very strong mental health, in a very good state of mind, in every beginning of the month in the Gregorian calendar.
 
+At least 5 hours break for Friday prayer, starting from 12pm to 5pm.
+
 EVERY FULL MOON
 ---
 And every time I see a full moon appears on the sky, every single worker must receive at least 1 gantang Negeri of rice, which is equals to 2.751 kg of rice following the rules in my own mother tongue language "ada padi semua kerja jadi, ada beras semua kerja deras", and every leap year on Gregorian Calendar, on every 29 February, which happens only every 4 years on this earth, every century of workers which is equals to 10 contubernium with a total of 80 men commanded by a centurion, a total of 81 workers, must receive at least a 4 year old healthy cow following the standard of Etruscan Emilia-Romagna, which means every cow must be a weight of at least 1,000 kg for each century of workers.
+
+EVERY 13 MONTHS
+---
+At least 5 days break for Aidilfitri, at least 5 days break for Aidiladha, 10 days break from 24 December to 2 January every single year. 10 days break for yearly travel and pilgrimage of Israk Mikraj, to travel with the workers and family members to Masjidil Haram in Mecca and Masjidil Aqsa in Palestine, travel by land, air and sea, mostly by walking when already arrived on both Masjid land area.
 
 There is always a room for improvement for every human beings, they just need a good education and the time of their own to be a better person, everything begins inside the inner working of human minds, what he or she do or did will define him or her in the future.
 
