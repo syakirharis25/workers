@@ -65,6 +65,12 @@ There is always a room for improvement for every human beings, they just need a 
 <a name="references"></a>
 ## 2. Official references websites. <br />
 
+**_Masjidil Haram related references_**
+Haramain : https://www.haramain.com <br />
+
+**_Masjidil Aqsa related references_**
+UNICEF State of Palestine : https://www.unicef.org/sop/ <br />
+
 **_survival references_** <br />
 Raymond Paul Mears of United Kingdom : https://www.raymears.com <br />
 Edward Michael Grylls of United Kingdom : https://www.beargrylls.com/<br />
