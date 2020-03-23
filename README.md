@@ -65,10 +65,10 @@ There is always a room for improvement for every human beings, they just need a 
 <a name="references"></a>
 ## 2. Official references websites. <br />
 
-**_Masjidil Haram related references_**
+**_Masjidil Haram related references_** <br />
 Haramain : https://www.haramain.com <br />
 
-**_Masjidil Aqsa related references_**
+**_Masjidil Aqsa related references_** <br />
 UNICEF State of Palestine : https://www.unicef.org/sop/ <br />
 
 **_survival references_** <br />
