@@ -66,7 +66,7 @@ There is always a room for improvement for every human beings, they just need a 
 ## 2. Official references websites. <br />
 
 **_Masjidil Haram related references_** <br />
-Haramain : https://www.haramain.com <br />
+Haramain : https://www.haramain.com, http://www.haramain.info <br />
 
 **_Masjidil Aqsa related references_** <br />
 UNICEF State of Palestine : https://www.unicef.org/sop/ <br />
