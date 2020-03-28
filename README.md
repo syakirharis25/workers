@@ -42,10 +42,6 @@ EVERY 2 DAYS
 ---
 Make sure everyone can get at least 8 hours sleep and rest, do rotation of workers if any of them is not enough of rest. Allocate enough resources for at least 5 subtitute workers for one week of work, in any case of emergencies occurs.
 
-EVERY 5 DAYS
----
-Make sure everyone can get at least 2 soaps with a dimension of at least 3.75 x 3 x 1
-
 EVERY 7 DAYS
 ---
 At least 24 hours enough sleep and rest every single week, continuously without any interruption or any disturbance, having very strong mental health, in a very good state of mind, in every beginning of the month in the Gregorian calendar.
