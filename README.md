@@ -55,7 +55,7 @@ At least 5 hours break for Friday prayer, starting from 12pm to 5pm.
 1) FREE Salt (1 US table spoon equivalent to 14.7868 millilitres, per capita)
 2) FREE Citrus (1 citrus of at least  3 centimetres in diameter, per capita)
 
-* There are at least 110 species of citrus in this world to choose from for the workers, to make sure they are always in a good health every weekend to do their daily works. Every week make sure to check their teeth and tongue, give them at least 1 citrus if found anything strange on their teeth and tongue, and give them rest of at least 24 hours, 1 day off to give them enough time for recovery.  
+* There are at least 110 species of citrus on planet Earth to choose from for the workers, to make sure they are always in a good health every weekend to do their daily works. Every week make sure to check their teeth and tongue, give them at least 1 citrus if found anything strange on their teeth and tongue, and give them rest of at least 24 hours, 1 day off to give them enough time for recovery.  
 
 EVERY FULL MOON
 ---
