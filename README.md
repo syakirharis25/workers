@@ -68,7 +68,7 @@ EVERY 25 YEARS
 A secure, protected family house for the workers of at least 1,600 square feet on land, per capita, that consists of;
 * Fully functioning water hydraulic system to build their own sauna, their own swimming pool
 * Indoor gym equipment based on their knowledge, their own desire to stay healthy
-* Personal library that can consist of at least 1,000 engineering theme books from any discipline in the world engineering of their own choice, so the workers can always try to sharpen their mind and soul, to always stay productive in their lifetime
+* Personal library that can consist of at least 25 engineering theme books from any discipline in the world engineering of their own choice, so the workers can always try to sharpen their mind and soul, to always stay productive in their lifetime
 * At least 1kg of gold for every household, after the workers completed the service for the company for more than 25 years, they may use the gold to do the trades with other human being in almost all part of the planet Earth to complete their other needs and desires since it is proven as one of the most stable commodity in the human world for more than thousand of years since the era of Egyptian Pharaohs rules the planet Earth
 
 <a name="references"></a>
