@@ -61,8 +61,6 @@ EVERY 13 MONTHS
 ---
 At least 5 days break for Aidil-fitri (2 last days in Ramadhan and 3 first days in Shawwal, from 29 Ramadhan to 3 Shawwal following at-taqwīm al-hijrī calendar), at least 7 days break for Aidil-adha (from 8 Zulhijjah to 14 Zulhijjah following at-taqwīm al-hijrī calendar), 20 days break from 23 December to 11 January every 13 months. 25 days break for yearly travel and pilgrimage of Israk Mi'raj, to travel with the workers and family members to Masjidil Haram in Mecca and Masjidil Aqsa in Palestine, travel by land, air and sea, mostly by walking on land when already arrived on Masjidil Haram in Mecca and Masjidil Aqsa in Palestine land area, starting from 22 Rejab to 17 Sha'ban following at-taqwīm al-hijrī calendar, must arrived on Masjidil Haram in Mecca before Subuh, before 5am on 25 Rejab, must arrived on Masjidil Aqsa before the Maghrib, before 6pm on 27 Rejab, must arrived on Masjidil Haram in Mecca before Subuh, before 5am on 15 Sha'ban. Annual break for every 13 months must be at least 37 days or equivalent to 888 hours, or equivalent to 53,280 minutes, or equivalent to 53,280 minutes, ‪or equivalent to 3,196,800‬ seconds, or equivalent to ‪3,196,800,000‬ miliseconds, or equivalent to ‭‪3,196,800,000,000‬‬ microseconds, combining the breaks in the months of Ramadhan, Shawwal, Zulhijjah, Rejab and Sha'ban following at-taqwīm al-hijrī calendar.
 
-There is always a room for improvement for every human beings, they just need a good education and the time of their own to be a better person, everything begins inside the inner working of human minds, what he or she do or did will define him or her in the future.
-
 EVERY 25 YEARS
 ---
 A secure, protected family house for the workers of at least 1,600 square feet on land, per capita, that consists of;
@@ -70,6 +68,8 @@ A secure, protected family house for the workers of at least 1,600 square feet o
 * Indoor gym equipment based on their knowledge, their own desire to stay healthy
 * Personal library that can consist of at least 25 engineering theme books from any discipline in the engineering world of their own choice, so the workers can always try to sharpen their mind and soul, to always stay productive in their lifetime
 * At least 1kg of gold for every household, after the workers completed the service for the company for more than 25 years, they may use the gold to do the trades with other human being in almost all part of the planet Earth to complete their other needs and desires since it is proven as one of the most stable commodity in the human world for more than thousand of years since the era of Egyptian Pharaohs rules the planet Earth
+
+*** There is always a room for improvement for every human beings, they just need a good education and the time of their own to be a better person, everything begins inside the inner working of human minds, what he or she do or did will define him or her in the future.
 
 <a name="references"></a>
 ## 2. Official references websites. <br />
