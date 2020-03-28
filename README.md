@@ -55,7 +55,7 @@ At least 5 hours break for Friday prayer, starting from 12pm to 5pm.
 
 EVERY FULL MOON
 ---
-And every time I see a full moon appears on the sky, every single worker must receive at least 1 gantang Negeri of rice, which is equals to 2.751 kg of rice following the rules in my own mother tongue language "ada padi semua kerja jadi, ada beras semua kerja deras", and every leap year on Gregorian Calendar, on every 29 February, which happens only every 4 years on this earth, every century of workers which is equals to 10 contubernium with a total of 80 men commanded by a centurion, a total of 81 workers, must receive at least a 4 year old healthy cow following the standard of Etruscan Emilia-Romagna, which means every cow must be a weight of at least 1,000 kg for each century of workers.
+Every time I see a full moon appears on the sky, every single worker must receive at least 1 gantang Negeri of rice, which is equals to 2.751 kg of rice following the rules in my own mother tongue language "ada padi semua kerja jadi, ada beras semua kerja deras", and every leap year on Gregorian Calendar, on every 29 February, which happens only every 4 years on this earth, every century of workers which is equals to 10 contubernium with a total of 80 men commanded by a centurion, a total of 81 workers, must receive at least a 4 year old healthy cow following the standard of Etruscan Emilia-Romagna, which means every cow must be a weight of at least 1,000 kg for each century of workers.
 
 EVERY 13 MONTHS
 ---
