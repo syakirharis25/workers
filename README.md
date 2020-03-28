@@ -63,6 +63,10 @@ At least 5 days break for Aidil-fitri (2 last days in Ramadhan and 3 first days 
 
 There is always a room for improvement for every human beings, they just need a good education and the time of their own to be a better person, everything begins inside the inner working of human minds, what he or she do or did will define him or her in the future.
 
+EVERY 25 YEARS
+---
+A secure, protected family house for the worker of at least 1,600 square feet, per capita, complete with good functioning water hydraulic system to build their own sauna, swimming pool, indoor gym equipment, personal library, based on their knowledge, their desire, that can consist of at least 1,000 engineering theme books of their own choice, so the workers can always try to sharpen their mind and soul, to always stay productive in their lifetime, and also receive at least 1kg of gold for every household every 13 months after doing the service for the company for more than 25 years, they may use the gold to do the trades to almost all part of planet Earth to complete their other needs since it is proven as one of the most stable commodity in the human world for more than thousand years since the era of Egyptian Pharaoh rules the planet Earth.
+
 <a name="references"></a>
 ## 2. Official references websites. <br />
 
