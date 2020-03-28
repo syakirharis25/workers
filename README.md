@@ -84,6 +84,8 @@ Sir Richard Charles Nicholas Branson of United Kingdom : https://www.virgin.com/
 
 **_government references_** <br />
 HM Government of Gibraltar : https://www.gibraltar.gov.gi <br />
+States of Guernsey official website : https://www.gov.gg <br />
+The Parliament of Guernsey : http://www.cpahq.org/cpahq/core/parliamentInfo.aspx?Committee=GUERNSEY <br />
 
 **_statistics references_** <br />
 The world's 50 largest companies based on number of employees in 2018 : https://www.statista.com/statistics/264671/top-20-companies-based-on-number-of-employees/ <br />
