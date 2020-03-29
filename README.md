@@ -71,13 +71,13 @@ At least 5 days break for Aidil-fitri (2 last days in Ramadhan and 3 first days 
 
 *** Every worker that reached the level of the centurion, meaning a commander of 100 men or women, a leader of a company or a tribe will be given at least 25,000 kupang, in order to ease their work as the leader of his or her company or tribe.
 
-*** The workers that reached the level of the centurion, successfully managed their own 100 men or women, ask them if they are interested in becoming a **Legion** for at least 25 years of service, commanding at least 5,000 men or women under them, grant them a title of **Lord** if they successfully managed 5,000 men or women under them, become the main **Legend** of his or her own people, his or her own tribe, the real master of food and drink supply chain for his or her own people, his or her own tribe, then at the end of his or her 25 years of service for the company, that worker will own some piece of land and building under their complete control and authority under special ceremony by the company.
+*** The workers that reached the level of the centurion, successfully managed their own 100 men or women, ask them if they are interested in becoming a **Legion** for at least 25 years of service, commanding at least 5,000 men or women under them, grant them a title of **Lord** if they successfully managed 5,000 men or women under them, become the main **Legend** of his or her own people, his or her own tribe, the real master of food and drink supply chain flow for his or her own people, his or her own tribe, then at the end of his or her 25 years of service for the company, that worker will own some piece of land and building under their complete control and authority under special ceremony by the company.
 
 EVERY 25 YEARS
 ---
 A secure, protected family house for the workers of at least 1,600 square feet on land, per capita, that consists of;
-* Fully functioning water hydraulic system to build their own sauna, their own swimming pool
-* Indoor gym equipment based on their knowledge, their own desire to stay healthy
+* Fully functioning water hydraulic system to build their own sauna, their own swimming pool, their own efficient sanitation system
+* Indoor gym equipment based on their knowledge, their own health medical record and performance, their own desire to stay healthy
 * Personal library that can consist of at least 25 engineering theme books from any discipline in the engineering world of their own choice, so the workers can always try to sharpen their mind and soul, to always stay productive in their lifetime
 * At least 1kg of 24 karat gold grade, finest quality raw and solid gold volume, which equals to 5,000.00 ct ( carat (Metric / mass) for every household, after that worker completed the service for the company for more than 25 years, they may use the gold to do the trades with other human being in almost all part of the planet Earth to complete their other needs and desires since it is proven as one of the most stable commodity in the human world for more than thousand of years since the era of Egyptian Pharaohs rule the planet Earth
 
