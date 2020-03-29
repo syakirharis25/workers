@@ -93,6 +93,9 @@ Haramain : https://www.haramain.com, http://www.haramain.info <br />
 UNICEF State of Palestine : https://www.unicef.org/sop/ <br />
 The United Nations Children's Fund : https://www.unicef.org <br />
 
+**_culinary Chef references_** <br />
+International Chef Salaries by glassdoor : https://www.glassdoor.com/Salaries/international-chef-salary-SRCH_KO0,18.htm <br />
+
 **_survival references_** <br />
 Raymond Paul Mears of United Kingdom : https://www.raymears.com <br />
 Edward Michael Grylls of United Kingdom : https://www.beargrylls.com/<br />
