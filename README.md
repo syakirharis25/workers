@@ -6,9 +6,10 @@ In a mission to hire at least 500,000 workers around the world.
 ## Table of Contents
 1. [Goals.](#goals)
 2. [Official references websites.](#references)
-3. [Benchmarks.](#benchmarks) 
-4. [GitHub notes.](#github)
-5. [GitHub repository calculation.](#calculation)
+3. [Benchmarks.](#benchmarks)
+4. [Unit of measurement.](#unit)
+5. [GitHub notes.](#github)
+6. [GitHub repository calculation.](#calculation)
 
 <a name="goals"></a>
 ## 1. Goals.
@@ -106,8 +107,67 @@ At least go as big as `Armed Forces of the Islamic Republic of Iran`(around 500,
 
 There are on average about 250 human babies born every minute, more than 130 million in a year on planet Earth. It is estimated a human female can have around 15 to 30 children in a lifetime, taking pregnancy and recovery time into account. Mrs. Feodor Vassilyev in 19th century Russia is said to have given birth to 69 children over 27 pregnancies. Augustus II the Strong also known in Saxony as Frederick Augustus I, who was king of 18th century Poland and Grand Duke of Lithuania is fathering, a rumored 370 children, Sultan Moulay Ismail ibn Sharif, the second ruler of the Alaouite dynasty, popularly known as "Warrior King" in Morocco, is reported to have had at least 1,171 children, and Genghis Khan, Emperor of the Mongol Empire, notorious for conquering large areas of 13th century Asia, which became the largest contiguous empire in history of planet Earth, is estimated to have had between 1,000-2,000 human children. Therefore 500 men can reach into 500,000 humans if they really want it to happen in their life. On planet Earth right now, usually the Arab female like to give birth to more than 10 human babies in their lifetime, in the case of Malaysia country, the father of current 8th Malaysia Prime Minister, Yang Amat Berhormat Tan Sri Dato' Haji Muhyiddin bin Haji Muhammad Yassin father, Tuan Guru Haji Muhammad Yassin bin Muhammad, on average each of his wife gave birth to at least 11 children. Female humans usually having 2 million to 4 million of eggs when they were born, therefore a single female human has a minimum 4x chances to produce more than 500,000 humans on planet Earth.
 
+<a name="unit"></a>
+## 4. Unit of measurement.
+A unit of measurement is a definite magnitude of a quantity, defined and adopted by convention or by law, that is used as a standard for measurement of the same kind of quantity. Any other quantity of that kind can be expressed as a multiple of the unit of measurement. Measurement is a process of determining how large or small a physical quantity is as compared to a basic reference quantity of the same kind.
+<br /><br />
+The definition, agreement, and practical use of units of measurement have played a crucial role in human endeavour from early ages up to the present. A multitude of systems of units used to be very common. Now there is a global standard, the International System of Units (SI), the modern form of the metric system.
+<br /><br />
+In trade, weights and measures is often a subject of governmental regulation, to ensure fairness and transparency. The International Bureau of Weights and Measures (BIPM) is tasked with ensuring worldwide uniformity of measurements and their traceability to the International System of Units (SI).
+<br /><br />
+Metrology is the science of developing nationally and internationally accepted units of measurement. In physics and metrology, units are standards for measurement of physical quantities that need clear definitions to be useful. Reproducibility of experimental results is central to the scientific method. A standard system of units facilitates this. Scientific systems of units are a refinement of the concept of weights and measures historically developed for commercial purposes.
+<br /><br />
+Science, medicine, and engineering often use larger and smaller units of measurement than those used in everyday life. The judicious selection of the units of measurement can aid researchers in problem solving.
+
+```
+Unit of measurement used in this mission.
+---
+at-taqwīm al-hijrī
+book
+capita
+carat
+centimetre
+citrus
+contubernium
+day
+gantang
+gram
+Gregorian
+hour
+inch
+karat
+kilogram
+leap year
+liter
+mass
+metric
+mililitre
+million
+minute
+month
+ounce
+pace
+plate
+Ramadhan
+Rejab
+roll
+Sha'ban
+Shawwal
+species
+square feet
+worker
+year
+Zulhijjah
+```
+
+| Counter | Unit          | Explanation  |
+| --------|:-------------:| -----:|
+| 1       | right-aligned | $1600 |
+| 2       | centered      |   $12 |
+| 3       | are neat      |    $1 |
+
 <a name="github"></a>
-## 4. GitHub notes.
+## 5. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/workers.git
@@ -117,7 +177,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 5. GitHub repository calculation.
+## 6. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
