@@ -44,7 +44,7 @@ EVERY 2 DAYS
 ---
 Make sure everyone can get at least 8 hours sleep and rest, do rotation of workers if any of them is not enough of rest. Allocate enough resources for at least 5 subtitute workers for one week of work, in any case of emergencies occurs.
 
-Make sure to count everything is enough for every worker, make use of the unit of measurement and commodity used for the mission, always make calculation on the differences of the supply, take notes of anything happening in the supply chain.
+Make sure to count everything is enough for every worker, make use of the unit of measurement and commodity used for the mission, always make calculation on the differences of the supply between the current day and previous day, take notes of anything happening in the supply chain.
 
 EVERY 7 DAYS
 ---
