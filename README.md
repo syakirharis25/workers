@@ -130,18 +130,22 @@ centimetre
 citrus
 contubernium
 day
+December
 gantang
 gram
 Gregorian
 hour
 inch
+January
 karat
 kilogram
 leap year
 liter
 mass
 metric
+microsecond
 mililitre
+milisecond
 million
 minute
 month
@@ -151,6 +155,7 @@ plate
 Ramadhan
 Rejab
 roll
+second
 Sha'ban
 Shawwal
 species
