@@ -1,0 +1,46 @@
+accomodation
+air transportation
+baguette
+bath
+bread
+brioche
+buckwheat
+cattle
+cavendish banana
+chicken
+chocolate
+citrus
+cow
+dinner plate
+drink
+engineering book
+fish
+fougasse
+fruit
+gold
+guava
+house
+hydraulic system
+indoor gym
+land
+land transportation
+meat
+michetta
+millet
+papaya
+personal library
+pineapple
+rice
+rice 
+salt 
+sauna
+sea transportation
+soap
+swimming pool
+tea 
+toilet paper
+toothpaste
+vegetable
+water
+watermelon
+wild rice
