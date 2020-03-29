@@ -71,6 +71,8 @@ At least 5 days break for Aidil-fitri (2 last days in Ramadhan and 3 first days 
 
 *** Every worker that reached the level of centurion, meaning a commander of 100 men or women, a leader of a company or a tribe will be given at least 25,000 kupang, in order to ease their work as the leader of his or her company or tribe.
 
+*** The workers that reached the level of centurion, successfully managed their own 100 men or women, ask them if they are interested in becoming a **Legion** for at least 25 years of service, commanding at least 5,000 men or women under them, grant them a title of **Lord** if they successfully managed 5,000 men or women under them, which means in the end of their 25 years of service for the company, they will own some piece of land and building under their complete control and authority.
+
 EVERY 25 YEARS
 ---
 A secure, protected family house for the workers of at least 1,600 square feet on land, per capita, that consists of;
