@@ -8,8 +8,9 @@ In a mission to hire at least 500,000 workers around the world.
 2. [Official references websites.](#references)
 3. [Benchmarks.](#benchmarks)
 4. [Unit of measurement.](#unit)
-5. [GitHub notes.](#github)
-6. [GitHub repository calculation.](#calculation)
+5. [Commodity.](#commodity)
+6. [GitHub notes.](#github)
+7. [GitHub repository calculation.](#calculation)
 
 <a name="goals"></a>
 ## 1. Goals.
@@ -43,6 +44,8 @@ EVERY 2 DAYS
 ---
 Make sure everyone can get at least 8 hours sleep and rest, do rotation of workers if any of them is not enough of rest. Allocate enough resources for at least 5 subtitute workers for one week of work, in any case of emergencies occurs.
 
+Make sure to count everything is enough for every worker, make use of the unit of measurement and commodity used for the mission, always make calculation on the differences of the supply, take notes of anything happening in the supply chain.
+
 EVERY 7 DAYS
 ---
 At least 24 hours enough sleep and rest every single week, continuously without any interruption or any disturbance, having very strong mental health, in a very good state of mind, in every beginning of the month in the Gregorian calendar.
@@ -52,11 +55,15 @@ At least 5 hours break for Friday prayer, starting from 12pm to 5pm.
 1) FREE Salt (1 US table spoon equivalent to 14.7868 millilitres, per capita)
 2) FREE Citrus (1 citrus of at least  3 centimetres in diameter, per capita)
 
-* There are at least 110 species of citrus on planet Earth to choose from for the workers, to make sure they are always in a good health every weekend to do their daily works. Every week make sure to check their teeth and tongue, give them at least 1 citrus if found anything strange on their teeth and tongue, and give them rest of at least 24 hours, 1 full day off, to give them enough time for health recovery.  
+* There are at least 110 species of citrus on planet Earth to choose from for the workers, to make sure they are always in a good health every weekend to do their daily works. Every week make sure to check their teeth and tongue, give them at least 1 citrus if found anything strange on their teeth and tongue, and give them rest of at least 24 hours, 1 full day off, to give them enough time for health recovery.
+
+Make sure to count everything is enough for every worker, make use of the unit of measurement and commodity used for the mission, always make calculation on the differences of the supply, take notes of anything happening in the supply chain. Plot a simple weekly graph about it to read what is happening to it.
 
 EVERY FULL MOON
 ---
 Every time I see a full moon appears on the sky, every single worker must receive at least 1 gantang Negeri of rice, which is equals to 2.751 kg of rice following the rules in my own mother tongue language "ada padi semua kerja jadi, ada beras semua kerja deras", and every leap year on Gregorian Calendar, on every 29 February, which happens only every 4 years on this earth, every century of workers which is equals to 10 contubernium with a total of 80 men commanded by a centurion, a total of 81 workers, must receive at least a 4 year old healthy cow following the standard of Etruscan Emilia-Romagna, which means every cow must be a weight of at least 1,000 kg for each century of workers.
+
+Make sure to count everything is enough for every worker, make use of the unit of measurement and commodity used for the mission, always make calculation on the differences of the supply, take notes of anything happening in the supply chain. Gather all the weekly graph and make a comparison to better understand what is happening with the workers. Call for a general meeting with the workers who already reached the level of centurion to reorganize the strategy, tactic and plan for all the workers under their command.
 
 EVERY 13 MONTHS
 ---
@@ -165,8 +172,63 @@ Unit of measurement used in this mission.
 41:  Zulhijjah
 ```
 
+<a name="commodity"></a>
+## 5. Commodity.
+The word commodity came into use in English in the 15th century, from the French commodité, "amenity, convenience". Going further back, the French word derives from the Latin commoditas, meaning "suitability, convenience, advantage". The Latin word commodus (from which English gets other words including commodious and accommodate) meant variously "appropriate", "proper measure, time, or condition", and "advantage, benefit". In short, commodity means **_a useful or valuable thing_**.
+
+```
+Commodity used in this mission
+---
+ 1:  accomodation
+ 2:  air transportation
+ 3:  baguette
+ 4:  bath
+ 5:  bread
+ 6:  brioche
+ 7:  buckwheat
+ 8:  cattle
+ 9:  cavendish banana
+10:  chicken
+11:  chocolate
+12:  citrus
+13:  cow
+14:  dinner plate
+15:  drink
+16:  engineering book
+17:  fish
+18:  fougasse
+19:  fruit
+20:  gold
+21:  guava
+22:  house
+23:  hydraulic system
+24:  indoor gym
+25:  land
+26:  land transportation
+27:  meat
+28:  michetta
+29:  millet
+30:  papaya
+31:  personal library
+32:  pineapple
+33:  rice
+34:  rice 
+35:  salt 
+36:  sauna
+37:  sea transportation
+38:  soap
+39:  swimming pool
+40:  tea 
+41:  toilet paper
+42:  toothpaste
+43:  vegetable
+44:  water
+45:  watermelon
+46:  wild rice
+```
+
 <a name="github"></a>
-## 5. GitHub notes.
+## 6. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/workers.git
@@ -176,7 +238,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 6. GitHub repository calculation.
+## 7. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
