@@ -106,7 +106,7 @@ Legion Entrangere : https://www.legion-etrangere.com <br />
 French Foreign Legion recruitment official website : https://en.legion-recrute.com <br />
 Joining the French Foreign Legion : http://foreignlegion.info/joining <br />
 'Confetti of an empire': A look at France's overseas territories : https://www.thelocal.fr/20181031/confetti-of-an-empire-a-look-at-frances-overseas-territories <br />
-Melinda Ann French, wife of Bill Gates by French Family Association : http://www.frenchfamilyassoc.com/FFA/FAMOUSFRENCHES/MelindaFrench.htm <br />
+Melinda Ann French, wife of Bill Gates, the founder of Microsoft Corporatio by French Family Association : http://www.frenchfamilyassoc.com/FFA/FAMOUSFRENCHES/MelindaFrench.htm <br />
 
 **_culinary Chef references_** <br />
 International Chef Salaries by glassdoor : https://www.glassdoor.com/Salaries/international-chef-salary-SRCH_KO0,18.htm <br />
