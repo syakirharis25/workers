@@ -40,6 +40,8 @@ Just to make sure in every 10 hours, they will get at least
 * bread is at least a loaf of baguette, a loaf of brioche, a loaf of fougasse, a loaf of michetta
 * fruit is at least one cavendish banana, one watermelon, one pineapple, one papaya, one guava
 
+Every night, before 11pm, do a daily check-up on the kitchens and bathrooms, make sure everything is working fine, in good order, in a good arrangement, clean and tidy, without any mess. If everything is strange or broken, take some simple notes of it, try to fix it within 24 hours, the clean working environment creates a clean mind for everyone, easy to reach meaning easier access for everyone.
+
 EVERY 2 DAYS
 ---
 Make sure everyone can get at least 8 hours sleep and rest, do rotation of workers if any of them is not enough of rest. Allocate enough resources for at least 5 subtitute workers for one week of work, in any case of emergencies occurs.
