@@ -69,9 +69,15 @@ EVERY 13 MONTHS
 ---
 At least 5 days break for Aidil-fitri (2 last days in Ramadhan and 3 first days in Shawwal, from 29 Ramadhan to 3 Shawwal following at-taqwīm al-hijrī calendar), at least 7 days break for Aidil-adha (from 8 Zulhijjah to 14 Zulhijjah following at-taqwīm al-hijrī calendar), 20 days break from 23 December to 11 January every 13 months. 25 days break for yearly travel and pilgrimage of Israk Mi'raj, to travel with the workers and family members to Masjidil Haram in Mecca and Masjidil Aqsa in Palestine, travel by land, air and sea, mostly by walking on land when already arrived on Masjidil Haram in Mecca and Masjidil Aqsa in Palestine land area, starting from 22 Rejab to 17 Sha'ban following at-taqwīm al-hijrī calendar, must arrived on Masjidil Haram in Mecca before Subuh, before 5am on 25 Rejab, must arrived on Masjidil Aqsa before the Maghrib, before 6pm on 27 Rejab, must arrived on Masjidil Haram in Mecca before Subuh, before 5am on 15 Sha'ban. Annual break for every 13 months must be at least 37 days or equivalent to 888 hours, or equivalent to 53,280 minutes, or equivalent to 53,280 minutes, ‪or equivalent to 3,196,800‬ seconds, or equivalent to ‪3,196,800,000‬ miliseconds, or equivalent to ‭‪3,196,800,000,000‬‬ microseconds, combining the breaks in the months of Ramadhan, Shawwal, Zulhijjah, Rejab and Sha'ban following at-taqwīm al-hijrī calendar.
 
-*** Every worker that reached the level of the centurion, meaning a commander of 100 men or women, a leader of a company or a tribe will be given at least 25,000 kupang, in order to ease their work as the leader of his or her company or tribe.
+*** Every worker that reached the level of the **Centurion**, meaning a commander of 100 men or women, a leader of a company or a tribe will be given at least 25,000 kupang, in order to ease their work as the leader of his or her company or tribe.
 
-*** Every worker that reached the level of the centurion, successfully managed their own 100 men or women, ask him or her, if he or she is interested in becoming a **Legion** for at least 25 years of service, commanding at least 5,000 men or women under him or her, grant him or her a title of **Lord** if he or she successfully managed 5,000 men or women under him or her, become the main **Legend** of his or her own people, his or her own tribe, the real master of food and drink supply chain and its flow for his or her own people, his or her own tribe, then at the end of his or her 25 years of service for the company, that worker will own some piece of land and building under his or her complete control and authority with a special ceremony by the company will be held for him or her, and a special tribute and respect, from at least, all of his or her minimum 5,000 men or women, under his or her command, supervision, within his or her 25 years of service to the company. 
+*** Every worker that reached the level of the **Centurion**, successfully managed their own 100 men or women, ask him or her, if he or she is interested in becoming a **Legion** for at least 25 years of service, commanding at least 5,000 men or women under him or her, grant him or her a title of **Lord** if he or she successfully managed 5,000 men or women under him or her, become the main **Legend** of his or her own people, his or her own tribe, the real master of food and drink supply chain and its flow for his or her own people, his or her own tribe, then at the end of his or her 25 years of service for the company, that worker will own some piece of land and building under his or her complete control and authority with a special ceremony by the company will be held for him or her, and a special tribute and respect, from at least, all of his or her minimum 5,000 men or women, under his or her command, supervision, within his or her 25 years of service to the company. 
+
+EVERY 5 YEARS
+---
+Produce a well-craft hardcover book that consists of at least 25,000 words with the aim on how to hire more than 500,00 workers around the world into the company, priorities for the first 5 years is to Centurions, the commander of at least 100 workers, that are determined to become the leader of a **Legion**, a group of workers that consists of at least 5,000 workers. Try to ease their path to become a **Legion**, give them a guarantee of the future of their children, their family members, their relatives, their friends, anyone they want from the entire universe to be absorbed into their own **Legion**.
+
+Make sure to make a good introduction, a proper table of contents of that book so it can become a good reference, good guidance for myself and the Centurions. Try to gather all of the obstacles and challenges from the Centurions, before produce that hardcover book, in the mission to hire more than 500,000 workers around the world.
 
 EVERY 25 YEARS
 ---
@@ -139,7 +145,7 @@ Unit of measurement used in this mission.
  3:  capita
  4:  carat
  5:  centimetre
- 6:  centurion
+ 6:  Centurion
  7:  citrus
  8:  contubernium
  9:  day
