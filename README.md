@@ -75,7 +75,7 @@ At least 5 days break for Aidil-fitri (2 last days in Ramadhan and 3 first days 
 
 EVERY 5 YEARS
 ---
-Produce a well-craft hardcover book that consists of at least 25,000 words with the aim on how to hire more than 500,00 workers around the world into the company, priorities for the first 5 years is to Centurions, the commander of at least 100 workers, that are determined to become the leader of a **Legion**, a group of workers that consists of at least 5,000 workers. Try to ease their path to become a **Legion**, give them a guarantee of the future of their children, their family members, their relatives, their friends, anyone they want from the entire universe to be absorbed into their own **Legion**.
+Produce a well-crafted hardcover book that consists of at least 25,000 words with the aim on how to hire more than 500,00 workers around the world into the company, priorities for the first 5 years is to Centurions, the commander of at least 100 workers, that are determined to become the leader of a **Legion**, a group of workers that consists of at least 5,000 workers. Try to ease their path to become a **Legion**, give them a guarantee of the future of their children, their family members, their relatives, their friends, anyone they want from the entire universe to be absorbed into their own **Legion**.
 
 Make sure to make a good introduction, a proper table of contents of that book so it can become a good reference, good guidance for myself and the Centurions. Try to gather all of the obstacles and challenges from the Centurions, before produce that hardcover book, in the mission to hire more than 500,000 workers around the world.
 
