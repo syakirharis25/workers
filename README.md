@@ -101,7 +101,7 @@ The United Nations Children's Fund : https://www.unicef.org <br />
 
 **_Legion references_** <br />
 Legion Entrangere : https://www.legion-etrangere.com <br />
-French Foreign Legion official website : https://en.legion-recrute.com/ <br />
+French Foreign Legion recruitment official website : https://en.legion-recrute.com/ <br />
 
 **_culinary Chef references_** <br />
 International Chef Salaries by glassdoor : https://www.glassdoor.com/Salaries/international-chef-salary-SRCH_KO0,18.htm <br />
