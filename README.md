@@ -83,13 +83,17 @@ Make sure to make a good introduction, a proper table of contents of that book s
 
 EVERY 25 YEARS
 ---
-A secure, protected family house for the workers of at least 1,600 square feet on land, per capita, that consists of;
+A secure, protected family house for the workers that already reached the level of a **Lord** of at least 1,600 square feet on land, per capita, that consists of;
 * Fully functioning water hydraulic system to build their own sauna, their own swimming pool, their own efficient sanitation system
 * Indoor gym equipment based on their knowledge, their own health medical record and performance, their own desire to stay healthy
 * Personal library that can consist of at least 25 engineering theme books from any discipline in the engineering world of their own choice, so the workers can always try to sharpen their mind and soul, to always stay productive in their lifetime
 * At least 1kg of 24 karat gold grade, finest quality raw and solid gold volume, which equals to 5,000.00 ct ( carat (Metric / mass) for every household, after that worker completed the service for the company for more than 25 years, they may use the gold to do the trades with other human being in almost all part of the planet Earth to complete their other needs and desires since it is proven as one of the most stable commodity in the human world for more than thousand of years since the era of Egyptian Pharaohs rule the planet Earth
 
 *** There is always a room for improvement for every human beings, they just need a good education and the time of their own to be a better person, everything begins inside the inner working of human minds, what he or she do or did will define him or her in the future.
+
+EVERY 50 YEARS
+---
+Sending at least 1 Lord, those that commanding at least 5,000 men or women under him or her, successfully commanding a Legion to lead any nation in this world, to solve humans main problems in their life especially in food and drinks supply, healthcare system, civil engineering related works to engineer and develop an efficient system for that nation and also to recruit more workers into the company.
 
 <a name="references"></a>
 ## 2. Official references websites. <br />
