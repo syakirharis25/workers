@@ -125,6 +125,9 @@ Joining the French Foreign Legion : http://foreignlegion.info/joining <br />
 Melinda Ann French, wife of Bill Gates, the founder of Microsoft Corporation by French Family Association : http://www.frenchfamilyassoc.com/FFA/FAMOUSFRENCHES/MelindaFrench.htm <br />
 THE 12 FRENCH OVERSEAS TERRITORIES AND THEIR POPULATIONS | The “Trajectoire Outre-mer 5.0” (Overseas Trajectory 5.0) strategy by Government of France : https://www.gouvernement.fr/en/overseas-trajectory-50-strategy-following-in-the-footsteps-of-cop-21-in-the-overseas-territories <br />
 
+**_writing references_** <br />
+International English Language Testing System : https://www.ielts.org <br />
+
 **_culinary Chef references_** <br />
 International Chef Salaries by glassdoor : https://www.glassdoor.com/Salaries/international-chef-salary-SRCH_KO0,18.htm <br />
 
