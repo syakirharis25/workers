@@ -80,7 +80,7 @@ EVERY 5 YEARS
 ---
 Produce a well-crafted hardcover book that consists of at least 25,000 words with the aim on how to hire more than 500,00 workers around the world into the company, priorities for the first 5 years is to Centurions, the commander of at least 100 workers, that are determined to become the leader of a **Legion**, a group of workers that consist of at least 5,000 workers. Try to ease their path to become a **Legion**, give them a guarantee of the future of their children, their family members, their relatives, their friends, anyone they want from the entire universe to be absorbed into their own **Legion**.
 
-Make sure to make a good introduction, a proper table of contents of that book so it can become a good reference, good guidance for myself and the Centurions. Try to gather all the obstacles and challenges from the Centurions, before writing that hardcover book, in the mission to hire more than 500,000 workers around the world.
+Make sure to make a good introduction, a proper table of contents of that book so it can become a good reference, good guidance for myself and the Centurions. Try to gather all the obstacles and challenges from the Centurions, before writing that hardcover book, in the mission to hire more than 500,000 workers around the world. On every page, on every side of that book, make sure to leave a blank space of at least 1 inch equivalent to 2.54 centimetre, so that everybody that read that book can write down their thought, or leave some brief note about the writings, on every new chapter, leave a full blank space of a single page to ease and clear the reader's mind before entering a new chapter of that book.
 
 EVERY 25 YEARS
 ---
@@ -96,7 +96,7 @@ A secure, protected family house for the workers that already reached the level 
 
 EVERY 50 YEARS
 ---
-Sending at least 1 **Lord**, those that commanding at least 5,000 men or women under him or her, successfully commanding a Legion to lead any nation in this world, to solve humans main problems in their life especially in food and drinks supply, healthcare system, civil engineering related works, to engineer and develop an efficient system for that nation and also to recruit more workers into the company.
+Send at least 1 **Lord**, those that commanding at least 5,000 men or women under him or her, successfully commanding a Legion to lead any nation in this world, to solve humans main problems in their life especially in food and drinks supply, healthcare system, civil engineering related works, to engineer and develop an efficient system for that nation and also to recruit more workers into the company.
 
 A secure, protected home state of government for the workers that already reached the level of a **Rex** of at least 5,000 square feet on land, per capita, that is suitable for farming and consists of;
 * Fully functioning water hydraulic system to build their own sauna, their own swimming pool, their own efficient sanitation system
