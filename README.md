@@ -7,10 +7,11 @@ In a mission to hire at least 500,000 workers around the world.
 1. [Goals.](#goals)
 2. [Official references websites.](#references)
 3. [Benchmarks.](#benchmarks)
-4. [Unit of measurement.](#unit)
-5. [Commodity.](#commodity)
-6. [GitHub notes.](#github)
-7. [GitHub repository calculation.](#calculation)
+4. [Worker flow.](#workerflow)
+5. [Unit of measurement.](#unit)
+6. [Commodity.](#commodity)
+7. [GitHub notes.](#github)
+8. [GitHub repository calculation.](#calculation)
 
 <a name="goals"></a>
 ## 1. Goals.
@@ -149,8 +150,28 @@ At least go as big as `Armed Forces of the Islamic Republic of Iran`(around 500,
 
 There are on average about 250 human babies born every minute, more than 130 million in a year on planet Earth. It is estimated a human female can have around 15 to 30 children in a lifetime, taking pregnancy and recovery time into account. Mrs. Feodor Vassilyev in 19th century Russia is said to have given birth to 69 children over 27 pregnancies. Augustus II the Strong also known in Saxony as Frederick Augustus I, who was king of 18th century Poland and Grand Duke of Lithuania is fathering, a rumored 370 children, Sultan Moulay Ismail ibn Sharif, the second ruler of the Alaouite dynasty, popularly known as "Warrior King" in Morocco, is reported to have had at least 1,171 children, and Genghis Khan, Emperor of the Mongol Empire, notorious for conquering large areas of 13th century Asia, which became the largest contiguous empire in history of planet Earth, is estimated to have had between 1,000-2,000 human children. Therefore 500 men can reach into 500,000 humans if they really want it to happen in their life. On planet Earth right now, usually the Arab female like to give birth to more than 10 human babies in their lifetime, in the case of Malaysia country, the father of current 8th Malaysia Prime Minister, Yang Amat Berhormat Tan Sri Dato' Haji Muhyiddin bin Haji Muhammad Yassin father, Tuan Guru Haji Muhammad Yassin bin Muhammad, on average each of his wife gave birth to at least 11 children. Female humans usually having 2 million to 4 million of eggs when they were born, therefore a single female human has a minimum 4x chances to produce more than 500,000 humans on planet Earth.
 
+<a name="workerflow"></a>
+## 4. Worker flow.
+LEVEL
+--
+[ Fresh Worker ] --> [ Centurion ] --> [ Lord ] --> [ Rex ]
+
+RATIO
+--
+[ 1:1 ] --> [ 1:100 ] --> [ 1:5,000 ] --> [ 1:500,000 ]
+
+DURATION
+--
+[ 0 -> 13 months ] --> [ 13 months -> 5 years ] --> [ 25 years -> 50 years ] --> [ 50 years -> infinity ]
+
+REALM
+--
+[ Person ] --> [ Tribe ] --> [ Legion ] --> [ Government ] 
+
+*** Nothing is really impossible in the world of engineering, the word engineer (Latin : ingeniator) is derived from the Latin words ingeniare ("to create, generate, contrive, devise") and ingenium ("cleverness"). If the worker, he or she want to reach the Rex status, to rule his or her own kingdom, his or her own government, nothing is really impossible if he or she really believe that he or she can do it in his or her lifetime.
+
 <a name="unit"></a>
-## 4. Unit of measurement.
+## 5. Unit of measurement.
 A unit of measurement is a definite magnitude of a quantity, defined and adopted by convention or by law, that is used as a standard for measurement of the same kind of quantity. Any other quantity of that kind can be expressed as a multiple of the unit of measurement. Measurement is a process of determining how large or small a physical quantity is as compared to a basic reference quantity of the same kind.
 <br /><br />
 The definition, agreement, and practical use of units of measurement have played a crucial role in human endeavour from early ages up to the present. A multitude of systems of units used to be very common. Now there is a global standard, the International System of Units (SI), the modern form of the metric system.
@@ -210,7 +231,7 @@ Unit of measurement used in this mission.
 ```
 
 <a name="commodity"></a>
-## 5. Commodity.
+## 6. Commodity.
 The word commodity came into use in English in the 15th century, from the French commodité, "amenity, convenience". Going further back, the French word derives from the Latin commoditas, meaning "suitability, convenience, advantage". The Latin word commodus (from which English gets other words including commodious and accommodate) meant variously "appropriate", "proper measure, time, or condition", and "advantage, benefit". In short, commodity means **_a useful or valuable thing_**.
 
 ```
@@ -265,7 +286,7 @@ Commodity used in this mission
 ```
 
 <a name="github"></a>
-## 6. GitHub notes.
+## 7. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/workers.git
@@ -275,7 +296,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 7. GitHub repository calculation.
+## 8. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
