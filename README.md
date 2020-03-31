@@ -152,21 +152,17 @@ There are on average about 250 human babies born every minute, more than 130 mil
 
 <a name="workerflow"></a>
 ## 4. Worker flow.
-LEVEL
---
-[ Fresh Worker ] --> [ Centurion ] --> [ Lord ] --> [ Rex ]
+**_LEVEL_**
+**[ Fresh Worker ]** --> **[ Centurion ]** --> **[ Lord ]** --> **[ Rex ]**
 
-RATIO
---
-[ 1:1 ] --> [ 1:100 ] --> [ 1:5,000 ] --> [ 1:500,000 ]
+**_RATIO_**
+**[ 1:1 ]** --> **[ 1:100 ]** --> **[ 1:5,000 ]** --> **[ 1:500,000 ]**
 
-DURATION
---
-[ 0 -> 13 months ] --> [ 13 months -> 5 years ] --> [ 25 years -> 50 years ] --> [ 50 years -> infinity ]
+**_DURATION_**
+**[ 0 -> 13 months ]** --> **[ 13 months -> 5 years ]** --> **[ 25 years -> 50 years ]** --> **[ 50 years -> infinity ]**
 
-REALM
---
-[ Person ] --> [ Tribe ] --> [ Legion ] --> [ Government ] 
+**_REALM_**
+**[ Person ]** --> **[ Tribe ]** --> **[ Legion ]** --> **[ Government ]** 
 
 *** Nothing is really impossible in the world of engineering, the word engineer (Latin : ingeniator) is derived from the Latin words ingeniare ("to create, generate, contrive, devise") and ingenium ("cleverness"). If the worker, he or she want to reach the Rex status, to rule his or her own kingdom, his or her own government, nothing is really impossible if he or she really believe that he or she can do it in his or her lifetime.
 
