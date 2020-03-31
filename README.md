@@ -93,9 +93,9 @@ A secure, protected family house for the workers that already reached the level 
 
 EVERY 50 YEARS
 ---
-Sending at least 1 Lord, those that commanding at least 5,000 men or women under him or her, successfully commanding a Legion to lead any nation in this world, to solve humans main problems in their life especially in food and drinks supply, healthcare system, civil engineering related works, to engineer and develop an efficient system for that nation and also to recruit more workers into the company.
+Sending at least 1 **Lord**, those that commanding at least 5,000 men or women under him or her, successfully commanding a Legion to lead any nation in this world, to solve humans main problems in their life especially in food and drinks supply, healthcare system, civil engineering related works, to engineer and develop an efficient system for that nation and also to recruit more workers into the company.
 
-A secure, protected state of government for the workers that already reached the level of a **Rex** of at least 5,000 square feet on land, per capita, that is suitable for farming and consists of;
+A secure, protected home state of government for the workers that already reached the level of a **Rex** of at least 5,000 square feet on land, per capita, that is suitable for farming and consists of;
 * Fully functioning water hydraulic system to build their own sauna, their own swimming pool, their own efficient sanitation system
 * Indoor and outdoor gym equipment based on their knowledge, their own health medical record and performance, their own desire to stay healthy
 * A state library that can consist of at least 1,000 engineering theme books from any discipline in the engineering world of their own choice, so the workers can always try to sharpen their mind and soul, to always stay productive in their lifetime, capable of solving as many problems as they can in this world
