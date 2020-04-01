@@ -215,49 +215,78 @@ Science, medicine, and engineering often use larger and smaller units of measure
 ```
 Unit of measurement used in this mission.
 ---
- 1:  at-taqwīm al-hijrī
- 2:  book
- 3:  capita
- 4:  carat
- 5:  centimetre
- 6:  Centurion
- 7:  citrus
- 8:  contubernium
- 9:  day
-10:  December
-11:  Etruscan Emilia-Romagna
-12:  gantang
-13:  gram
-14:  Gregorian
-15:  hour
-16:  inch
-17:  January
-18:  karat
-19:  kilogram
-20:  leap year
-21:  liter
-22:  mass
-23:  metric
-24:  microsecond
-25:  mililitre
-26:  milisecond
-27:  million
-28:  minute
-29:  month
-30:  ounce
-31:  pace
-32:  plate
-33:  Ramadhan
-34:  Rejab
-35:  roll
-36:  second
-37:  Sha'ban
-38:  Shawwal
-39:  species
-40:  square feet
-41:  worker
-42:  year
-43:  Zulhijjah
+ 1:  acre
+ 2:  activity
+ 3:  angel
+ 4:  at-taqwīm al-hijrī
+ 5:  book
+ 6:  breath
+ 7:  capita
+ 8:  carat
+ 9:  centimetre
+10:  centurion
+11:  chain
+12:  challenge
+13:  chapter
+14:  citrus
+15:  command
+16:  company
+17:  contubernium
+18:  creature
+19:  day
+20:  December
+21:  Etruscan Emilia-Romagna
+22:  family
+23:  galaxy
+24:  gantang
+25:  government
+26:  gram
+27:  Gregorian
+28:  heaven
+29:  home
+30:  hour
+31:  inch
+32:  January
+33:  karat
+34:  kilogram
+35:  kingdom
+36:  leap year
+37:  legion
+38:  liter
+39:  mass
+40:  metric
+41:  microsecond
+42:  mililitre
+43:  milisecond
+44:  million
+45:  minute
+46:  month
+47:  obstacle
+48:  operation
+49:  ounce
+50:  pace
+51:  page
+52:  person
+53:  plant
+54:  plate
+55:  Ramadhan
+56:  Rejab
+57:  roll
+58:  room
+59:  route
+60:  second
+61:  Sha'ban
+62:  Shawwal
+63:  species
+64:  square feet
+65:  throne
+66:  tribe
+67:  universe
+68:  word
+69:  worker
+70:  workforce
+71:  year
+72:  Zulhijjah
 ```
 
 <a name="commodity"></a>
