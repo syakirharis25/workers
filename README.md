@@ -115,6 +115,8 @@ Minimum : 10,000,000 / 500,000 = 20 Rex / Government / Kingdom
 
 As a reference, currently `United States Armed Forces` under United States Department of Defense (DoD, USDOD, or DOD) owned at least 561,975 facilities on over 4,800 areas, over 25 million acres of land, owned at least 250,000 land vehicles, at least 5,285 aircrafts, at least 293 sea ships and billions of global supply chain for their workers and their international operations around the clock.
 
+Make sure to make a good introduction, a proper table of contents of that book so it can become a good reference, good guidance for myself and the Rex, and all the governments and kingdoms under the guidance of the company. Try to gather all the obstacles and challenges from the Rex, before writing that grand book celebrating 100 years of the achievements by the company. On every page, on every side of that book, make sure to leave a blank space of at least 1 inch equivalent to 2.54 centimetre, so that everybody who read that book can write down their chain of thought, or leave some brief note about the writings of that book, on every new chapter, leave a full blank space of a single page to ease, clear the reader's mind, taking a new fresh breath, take some brief break, before entering a new chapter of that book.
+
 EVERY 1,000 YEARS
 ---
 Explore new planet to recruit more workers into the company. Tell any creature I found on any planet in this world "join the workforce, may the force be with you". Bring all the best fruits from planet Earth produced by human workers that the company recruited in planet Earth.
