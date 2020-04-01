@@ -118,7 +118,7 @@ Make sure to make a good introduction, a proper table of contents of that book s
 
 EVERY 1,000 YEARS
 ---
-Explore new planet to recruit more workers into the company. Tell any creature I found on any planet in this world "join the workforce, may the force be with you". Bring all the best fruits from planet Earth produced by human workers that the company recruited in planet Earth.
+Explore new planet to recruit more workers into the company. Tell any creature I found on any planet in the universe, "join the workforce, may the force be with you". Bring all the best fruits from planet Earth produced by human workers that the company recruited in planet Earth.
 
 The flowering plants, also known as angiosperms, Angiospermae, or Magnoliophyta, are the most diverse group of land plants, with 64 orders, 416 families, approximately 13,000 known genera and 300,000 known species. Like gymnosperms, angiosperms are seed-producing plants. They are distinguished from gymnosperms by characteristics including flowers, endosperm within the seeds, and the production of fruits that contain the seeds. Etymologically, angiosperm means a plant that produces seeds within an enclosure; in other words, a fruiting plant. The term comes from the Greek words angeion ("case" or "casing") and sperma ("seed").
 
