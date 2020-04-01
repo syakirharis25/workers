@@ -113,6 +113,8 @@ Count all the assets of the company on land, sea, water, space and company stati
 
 Minimum : 10,000,000 / 500,000 = 20 Rex / Government / Kingdom
 
+As a reference, currently `United States Armed Forces` owned at least 561,975 fasilities on over 4,800 areas, over 25 million acres of land, owned at least 250,000 land vehicles, at least 5,285 aircrafts, at least 293 sea ships and bilions of global supply chain for their workers and their international operations around the clock.
+
 *** There is always a room for improvement for every human beings, they just need a good education and the time of their own to be a better person, everything begins inside the inner working of human minds, what he or she do or did will define him or her in the future.
 
 <a name="references"></a>
