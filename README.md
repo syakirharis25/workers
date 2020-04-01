@@ -107,7 +107,7 @@ A secure, protected home state of government for the workers that already reache
 
 EVERY 100 YEARS
 ---
-Produce a well-crafted hardcover grand book that consists of at least 25,000 words with all the **Rex** developed by the company, that owned and ruled the governments, kingdoms around the world with at least 500,000 workers in a single **Rex** rulership around the universe with the master plan set up by the company, gather all the success stories, the challenges it takes to defeat the company benchmark, the total number of the current biggest employer on planet Earth, `United States Armed Forces`(almost near to 10,000,000 workers) which holds the current superpower status on planet Earth.
+Produce a well-crafted hardcover grand book that consists of at least 25,000 words with all the **Rex** developed by the company, that owned and ruled the governments, kingdoms around the world with at least 500,000 workers in a single **Rex** rulership around the universe with the master plan set up by the company, gather all the success stories, the challenges it takes to defeat the company main benchmark, the total number of the current biggest employer on planet Earth, `United States Armed Forces`(almost near to 10,000,000 workers) which holds the current superpower status on planet Earth.
 
 Count all the assets of the company on land, sea, water, space and company statistics before produce that grand book of 100 years of company achievement in producing as many Rex as possible to rule the governments around the world, and also to hire as many workers as possible around the world.
 
