@@ -117,7 +117,11 @@ As a reference, currently `United States Armed Forces` under United States Depar
 
 EVERY 1,000 YEARS
 ---
-Explore new planet to recruit more workers into the company. Tell any creature I found on any planet in this world "join the workforce, may the force be with you". Bring all the best fruits from planet Earth produced by humans that company recruited in planet Earth, there are at least 416 families, approximately 13,000 known genera and 300,000 known species that can produce fruits around the world on planet Earth, there are at least 7,500 types of apples all across the world, each is different according to their natives, there are at least 1,600 types of bananas alone. Do farming activities on that planet, so there will always be enough fruits, enough food and drink supply for every human who wants need to explore all the planets in the Solar System. 
+Explore new planet to recruit more workers into the company. Tell any creature I found on any planet in this world "join the workforce, may the force be with you". Bring all the best fruits from planet Earth produced by humans that the company recruited in planet Earth.
+
+The flowering plants, also known as angiosperms, Angiospermae, or Magnoliophyta, are the most diverse group of land plants, with 64 orders, 416 families, approximately 13,000 known genera and 300,000 known species. Like gymnosperms, angiosperms are seed-producing plants. They are distinguished from gymnosperms by characteristics including flowers, endosperm within the seeds, and the production of fruits that contain the seeds. Etymologically, angiosperm means a plant that produces seeds within an enclosure; in other words, a fruiting plant. The term comes from the Greek words angeion ("case" or "casing") and sperma ("seed").
+
+There are at least 7,500 types of apples all across the world, each is different according to their natives, there are at least 1,600 types of bananas alone. Do farming activities on that planet, so there will always be enough fruits, enough food and drink supply for every human and any living creatures on any planet in the Solar System.
 
 *** There is always a room for improvement for every human being, they just need a good education and the time of their own to be a better person, everything begins inside the inner working of human minds, what he or she does will define him or her in the future.
 
