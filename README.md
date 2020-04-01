@@ -84,7 +84,7 @@ Make sure to make a good introduction, a proper table of contents of that book s
 
 EVERY 25 YEARS
 ---
-Create own financial, monetary system, unit of measurement to use by the **Lord**, try to ease their path and the flow to become the **Rex**, commanding at least 500,000 men or women under him or her, for his or her own home state of government.
+Create own financial, monetary system, unit of measurement to be use by the **Lord**, try to ease their path and the flow to become the **Rex**, commanding at least 500,000 men or women under him or her, for his or her own home state of government.
 
 A secure, protected family house for the workers that already reached the level of a **Lord** of at least 1,600 square feet on land, per capita, that consists of;
 * Fully functioning water hydraulic system to build their own sauna, their own swimming pool, their own efficient sanitation system
