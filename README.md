@@ -119,12 +119,22 @@ Make sure to make a good introduction, a proper table of contents of that book s
 EVERY 1,000 YEARS
 ---
 Explore new planet to recruit more workers into the company. Tell any creature I found on any planet in the universe, "join the workforce, may the force be with you". Bring all the best fruits from planet Earth produced by human workers that the company recruited in planet Earth.
-
+<br /><br />
 The flowering plants, also known as angiosperms, Angiospermae, or Magnoliophyta, are the most diverse group of land plants, with 64 orders, 416 families, approximately 13,000 known genera and 300,000 known species. Like gymnosperms, angiosperms are seed-producing plants. They are distinguished from gymnosperms by characteristics including flowers, endosperm within the seeds, and the production of fruits that contain the seeds. Etymologically, angiosperm means a plant that produces seeds within an enclosure; in other words, a fruiting plant. The term comes from the Greek words angeion ("case" or "casing") and sperma ("seed").
-
+<br /><br />
 There are at least 7,500 types of apples all across the world, each is different according to their natives, there are at least 1,600 types of bananas alone. Do farming activities on that planet, so there will always be enough fruits, enough food and drink supply for every human and any living creatures on any planet in the Solar System.
 
 *** There is always a room for improvement for every human being, they just need a good education and the time of their own to be a better person, everything begins inside the inner working of human minds, what he or she does will define him or her in the future.
+
+EVERY 5,000 YEARS
+---
+Explore new planet on the new galaxy to recruit more workers into the company. Tell any creature I found on any planet in the universe, "join the workforce, may the force be with you". Bring all the best fruits from planet Earth produced by human workers that the company recruited in planet Earth.
+
+Align all the workers in all the planets in the Solar System in perfect order, perfect command. Try to read properly every stars on the sky to create efficient route into another galaxy, in order to recruit more workers into the company.
+
+EVERY 50,000 YEARS
+---
+By this time, Masjidil Al-Aqsa in Jerusalem must be secured by the company, by all the workers recruited by the company, there must at least one worker who have the knowledge to create the route from Masjidil Al-Aqsa into the heaven. Bring back all the angels from the heaven to be the workers in the company. The throne of the company, all the kingdoms and the governments, must be completed, in perfect order, in perfect arrangement by this time.
 
 <a name="references"></a>
 ## 2. Official references websites. <br />
