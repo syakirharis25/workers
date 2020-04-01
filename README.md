@@ -130,11 +130,11 @@ EVERY 5,000 YEARS
 ---
 Explore new planet on the new galaxy to recruit more workers into the company. Tell any creature I found on any planet in the universe, "join the workforce, may the force be with you". Bring all the best fruits from planet Earth produced by human workers that the company recruited in planet Earth.
 
-Align all the workers in all the planets in the Solar System in perfect order, perfect command. Try to read properly every stars on the sky to create efficient route into another galaxy, in order to recruit more workers into the company.
+Align all the workers in all the planets in the Solar System in perfect order, perfect command. Try to read properly every stars on the sky to create efficient route into another galaxy, to recruit more workers into the company.
 
 EVERY 50,000 YEARS
 ---
-By this time, Masjidil Al-Aqsa in Jerusalem must be secured by the company, by all the workers recruited by the company, there must be at least one worker recruited from all the universe who have the knowledge to create the perfect route from Masjidil Al-Aqsa into the heaven. Bring back all the angels from the heaven to be the workers in the company. The throne of the company, all the kingdoms and the governments, must be completed, in perfect order, in perfect arrangement by this time.
+By this time, Masjidil Al-Aqsa in Jerusalem must be secured by the company, by all the workers recruited by the company, there must be at least one worker recruited from all the universe who know to create the perfect route from Masjidil Al-Aqsa into the heaven. Bring back all the angels from the heaven to be the workers in the company. The throne of the company, all the kingdoms and the governments, must be completed, in perfect order, in perfect arrangement by this time.
 
 <a name="references"></a>
 ## 2. Official references websites. <br />
