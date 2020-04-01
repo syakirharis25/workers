@@ -132,7 +132,7 @@ Align all the workers in all the planets in the Solar System in perfect order, p
 
 EVERY 50,000 YEARS
 ---
-By this time, Masjidil Al-Aqsa in Jerusalem must be fully secured by the company, by all the workers recruited by the company, there must be at least one worker recruited from all the universe who know to create the perfect route from Masjidil Al-Aqsa into the heaven. Bring back all the angels from heaven to be the workers in the company. The throne of the company, all the kingdoms and the governments in all of the universe must be in perfect order, in perfect command, in the perfect arrangement by this time, the activities to recruit more workers must go on, there is always a room, a place for every creature on the universe in the company.
+By this time, Masjidil Al-Aqsa in Jerusalem must be fully secured by the company, in all of the workers recruited by the company, there must be at least one worker recruited from all the universe who know to create the perfect route from Masjidil Al-Aqsa into the heaven. Bring back all the angels from heaven to be the workers in the company. The throne of the company, all the kingdoms and the governments in all of the universe must be in perfect order, in perfect command, in the perfect arrangement by this time, the activities to recruit more workers must go on, there is always a room, a place for every creature on the universe in the company.
 <br /><br />
 *** There is always a room for improvement for every human being, they just need a good education and the time of their own to be a better person, everything begins inside the inner working of human minds, what he or she does will define him or her in the future.
 
