@@ -269,50 +269,54 @@ Commodity used in this mission
 ---
  1:  accomodation
  2:  air transportation
- 3:  baguette
- 4:  bath
- 5:  bread
- 6:  brioche
- 7:  buckwheat
- 8:  cattle
- 9:  cavendish banana
-10:  chicken
-11:  chocolate
-12:  citrus
-13:  cow
-14:  dinner plate
-15:  drink
-16:  engineering book
-17:  fish
-18:  fougasse
-19:  fruit
-20:  gold
-21:  guava
-22:  house
-23:  hydraulic system
-24:  indoor gym
-25:  land
-26:  land transportation
-27:  meat
-28:  michetta
-29:  millet
-30:  papaya
-31:  personal library
-32:  pineapple
-33:  rice
-34:  rice 
-35:  salt 
-36:  sauna
-37:  sea transportation
-38:  soap
-39:  swimming pool
-40:  tea 
-41:  toilet paper
-42:  toothpaste
-43:  vegetable
-44:  water
-45:  watermelon
-46:  wild rice
+ 3:  apple
+ 4:  baguette
+ 5:  banana
+ 6:  bath
+ 7:  bread
+ 8:  brioche
+ 9:  buckwheat
+10:  cattle
+11:  cavendish banana
+12:  chicken
+13:  chocolate
+14:  citrus
+15:  cow
+16:  diamond
+17:  dinner plate
+18:  drink
+19:  engineering book
+20:  fish
+21:  flower
+22:  fougasse
+23:  fruit
+24:  gold
+25:  guava
+26:  house
+27:  hydraulic system
+28:  indoor gym
+29:  land
+30:  land transportation
+31:  meat
+32:  michetta
+33:  millet
+34:  papaya
+35:  personal library
+36:  pineapple
+37:  rice
+38:  rice 
+39:  salt 
+40:  sauna
+41:  sea transportation
+42:  soap
+43:  swimming pool
+44:  tea 
+45:  toilet paper
+46:  toothpaste
+47:  vegetable
+48:  water
+49:  watermelon
+50:  wild rice
 ```
 
 <a name="github"></a>
