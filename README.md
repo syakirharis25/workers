@@ -107,13 +107,13 @@ A secure, protected home state of government for the workers that already reache
 
 EVERY 100 YEARS
 ---
-Produce a well-crafted hardcover grand book that consists of at least 25,000 words with all the **Rex** developed by the company, that owned and ruled the governments, kingdoms around the world with at least 500,000 workers in a single **Rex** rulership around the universe with the master plan set up by the company, gather all the success stories, the challenges it takes to defeat the company main benchmark, the total number of the current biggest employer on planet Earth, `United States Armed Forces`(almost near to 10,000,000 workers) which holds the current superpower status on planet Earth.
+Produce a well-crafted hardcover grand book that consists of at least 25,000 words with all the **Rex** developed by the company, that owned and ruled the governments, kingdoms around the world with at least 500,000 workers in a single **Rex** rulership around the universe with the master plan set up by the company, gather all the success stories, the challenges it takes to defeat the company main benchmark, the total number of the current biggest employer on planet Earth, United States Department of Defense (DoD, USDOD, or DOD) who is currently managing `United States Armed Forces`(almost near to 10,000,000 workers), who is also holds the current superpower status on planet Earth.
 
 Count all the assets of the company on land, sea, water, space and company statistics before produce that grand book of 100 years of company achievement in producing as many Rex as possible to rule the governments around the world, and also to hire as many workers as possible around the world.
 
 Minimum : 10,000,000 / 500,000 = 20 Rex / Government / Kingdom
 
-As a reference, currently `United States Armed Forces` owned at least 561,975 fasilities on over 4,800 areas, over 25 million acres of land, owned at least 250,000 land vehicles, at least 5,285 aircrafts, at least 293 sea ships and bilions of global supply chain for their workers and their international operations around the clock.
+As a reference, currently `United States Armed Forces` under United States Department of Defense (DoD, USDOD, or DOD) owned at least 561,975 facilities on over 4,800 areas, over 25 million acres of land, owned at least 250,000 land vehicles, at least 5,285 aircraft, at least 293 sea ships and billions of global supply chain for their workers and their international operations around the clock.
 
 *** There is always a room for improvement for every human beings, they just need a good education and the time of their own to be a better person, everything begins inside the inner working of human minds, what he or she do or did will define him or her in the future.
 
