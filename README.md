@@ -115,11 +115,11 @@ Minimum : 10,000,000 / 500,000 = 20 Rex / Government / Kingdom
 
 As a reference, currently `United States Armed Forces` under United States Department of Defense (DoD, USDOD, or DOD) owned at least 561,975 facilities on over 4,800 areas, over 25 million acres of land, owned at least 250,000 land vehicles, at least 5,285 aircrafts, at least 293 sea ships and billions of global supply chain for their workers and their international operations around the clock.
 
-*** There is always a room for improvement for every human beings, they just need a good education and the time of their own to be a better person, everything begins inside the inner working of human minds, what he or she do or did will define him or her in the future.
-
 EVERY 1,000 YEARS
 ---
 Explore new planet to recruit more workers into the company. Tell any creature I found on any planet in this world "join the workforce, may the force be with you". Bring all the best fruits from planet Earth produced by humans that company recruited in planet Earth, there are at least 416 families, approximately 13,000 known genera and 300,000 known species that can produce fruits around the world on planet Earth, there are at least 7,500 types of apples all across the world, each is different according to their natives, there are at least 1,600 types of bananas alone. Do farming activities on that planet, so there will always be enough fruits for every human who want need to explore all the planets in the Solar System. 
+
+*** There is always a room for improvement for every human beings, they just need a good education and the time of their own to be a better person, everything begins inside the inner working of human minds, what he or she do or did will define him or her in the future.
 
 <a name="references"></a>
 ## 2. Official references websites. <br />
