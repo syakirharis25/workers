@@ -105,6 +105,14 @@ A secure, protected home state of government for the workers that already reache
 * A promise of full backup, protection, help from other Legions and Tribes of the company, from all over the part of this world to help and assist him or her, anytime he or she is in trouble in his lifetime, that will reach his home state of government within 100 hours or within 6,000 minutes, or within 360,000 seconds, by all the means they will come to him or her either by air, by sea, by land, by flying, by swimming, by running, by walking, by crawling
 * At least 1 diamond of 25 karat, finest quality unbreakable diamond, for every home state of government of that worker, after that worker completed his or her service for the company for at least more than 50 years, they may use the diamond to do the trades with another human being in almost all part of the planet Earth to complete their other needs and desires since it is treasured by the humans in more than 3,000 years, and it is also the hardest and toughest ever material on planet Earth
 
+EVERY 100 YEARS
+---
+Produce a well-crafted hardcover grand book that consists of at least 25,000 words with all the **Rex** developed by the company, that owned and ruled the governments, kingdoms around the world with at least 500,000 workers in a single **Rex** rulership around the universe with the master plan set up by the company, gather all the success stories, the challenges it takes to defeat the company benchmark, the total number of the current biggest employer in the world, `United States Armed Forces`(almost near to 10,000,000 workers) which holds the current superpower status on planet Earth.
+
+Count all the assets of the company on land, sea, water, space and company statistics before produce that grand book of 100 years of company achievement in producing as many Rex as possible to rule the governments around the world, and also to hire as many workers as possible around the world.
+
+Minimum : 10,000,000 / 500,000 = 20 Rex / Government / Kingdom
+
 *** There is always a room for improvement for every human beings, they just need a good education and the time of their own to be a better person, everything begins inside the inner working of human minds, what he or she do or did will define him or her in the future.
 
 <a name="references"></a>
