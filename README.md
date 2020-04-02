@@ -240,9 +240,25 @@ EVERY FULL MOON REVISION
 ---
 For the workers who already completed at least one month in the company, but suddenly left the company, maybe for a reason of not feeling a sense of belonging to the company, they will always be part of the family. Every time I see a full moon appears on the sky, if they come back to be the workers in the company, there is always a place for them to start over again, they will receive as same as other workers, they must receive at least 1 gantang Negeri of rice, which equals to 2.751 kg of rice following the rules in my mother tongue language "ada padi semua kerja jadi, ada beras semua kerja deras".
 
+EVERY FULL MOON REVISION (AFTER 4 INITIAL YEARS)
+---
 For the event every leap year on Gregorian Calendar, on every 29 February, which happens only every 4 years on this earth. The workers who are assigned tasks to raise the livestock, especially the cows, will be given 50% share of the ownership of all the calf produced by all the cows (100% owned by the company), so they can feel a sense of belonging to all the cows and calves under their care, to produce more cows and calves for the company in their service to the company.
 
 Normally cows that produced milk for humans often give birth every 400 days or more. They are highly motivated to look for food and forage for 6 to 10 hours a day, grass and concentrates may only provide enough energy for the cows to produce 5,000 litres of milk of production per year. Gestation, the process or period of developing inside the womb between conception and birth, does vary by breed and by sex of the calf, the ranges from 279 to 287 days are normal for the cows that didn't produce milk for humans. For most breeds, 283 days would be common. Cows carrying bull calves, male calves, tend to have a slightly longer gestation compared to cows carrying heifer calves, female calves.
+
+```
+Calculation example
+---
+
+1 Year = 365 days (according to Gregorian calendar)
+
+First Year : 10 cows :: (PARENT : 5 males + 5 females) 
+Second Year : 10 cows :: (PARENT : 5 males + 5 females) 
+Third Year : 14 cows :: (PARENT : 5 males + 5 females) + (CHILDREN : 2 males + 2 females)
+Fourth Year : 18 cows :: (PARENT : 5 males + 5 females) + (CHILDREN : 4 males + 4 females)
+
+Therefore: 14 cows owned by the company (10 PARENT cows + 4 CHILDREN cows), while another 4 cows (4 CHILDREN cows) fully owned by the workers to create a sense of belonging for their daily works for the company
+```
 
 EVERY 25 YEARS REVISION
 ---
