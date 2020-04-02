@@ -14,20 +14,6 @@ In a mission to hire at least 500,000 workers around the world.
 8. [GitHub notes.](#github)
 9. [GitHub repository calculation.](#calculation)
 
-<a name="belonging"></a>
-## 5. Sense of Belonging & Belongingness & Belonging.
-From a psychological perspective, a **sense of belonging** is a basic human need, with many psychologists discussing this need as being at the level of importance of that as food, water, and shelter. A sense of belonging can be so powerful that it can create both value in life and the ability to learn healthy coping skills when experiencing intensive and painful emotions. The importance of a sense of belonging can be traced back to infancy, where researchers have studied skin-to-skin contact between babies and their parents. What researchers have found is that when this is combined with a strong emotional engagement, a baby's developmental growth and its recognition of self increases significantly.
-<br /><br />
-**Belongingness** is the human emotional need to be an accepted member of a group. Whether it is family, friends, co-workers, a religion, or something else, people tend to have an 'inherent' desire to belong and be an important part of something greater than themselves. This implies a relationship that is greater than simple acquaintance or familiarity. The need to belong is the need to give and receive attention to and from others.
-<br /><br />
-**Belonging** is a strong and inevitable feeling that exists in human nature. To belong or not to belong can occur due to choices of one's self, or the choices of others. Not everyone has the same life and interests, hence not everyone belongs to the same thing or person. Without belonging, one cannot identify themselves as clearly, thus having difficulties communicating with and relating to their surroundings.
-<br /><br />
-Abraham Harold Maslow, an American psychologist who was best known for creating Maslow's hierarchy of needs, suggested that the need to belong was a major source of human motivation. He thought that it was one of 5 human needs in his hierarchy of needs, along with physiological needs, safety, self-esteem, and self-actualization. These needs are arranged on a hierarchy and must be satisfied in order. After physiological and safety needs are met an individual can then work on meeting the need to belong and be loved. According to Maslow, if the first two needs are not met, then an individual cannot completely love someone else.
-<br /><br />
-The need to belong is especially evident in the workplace. Employees want to fit in at work as much as students want to fit in at school. They seek the approval and acceptance of leaders, bosses, and other employees. Charismatic leaders are especially known to show off organizational citizenship behaviors such as helping and compliance if they feel a sense of belongingness with their work group. Researchers found that charisma and belongingness increased cooperative behavior among employees. Charismatic leaders influence followers by bringing awareness to the collective unit and strengthening the feeling of belonging, and that enhances employees’ compliance.
-<br /><br />
-
-
 <a name="goals"></a>
 ## 1. Goals.
 
