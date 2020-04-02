@@ -140,6 +140,10 @@ Always observe properly what the workers recruited by the company are doing duri
 <br /><br />
 *** There is always a room for improvement for every human being, they just need a good education and the time of their own to be a better person, everything begins inside the inner working of human minds, what he or she does will define him or her in the future.
 
+EVERY 500,000 YEARS
+---
+Just keep on hiring more workers into the company, keep on creating more opportunities for others, solve as many problem as possible, try to make everything easier for everyone. Tell any creature I found on any planet in the universe, "join the workforce, may the force be with you". Bring all the best fruits from planet Earth produced by human workers and all other creatures that the company recruited in planet Earth and all of the universe. If someone ask, why you are doing this for 500,000 years then tell them my life philosophy in my own mother tongue language, `hidup kayu berbuah, hidup manusia biar berjasa`.
+
 <a name="references"></a>
 ## 2. Official references websites. <br />
 
