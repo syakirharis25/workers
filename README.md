@@ -135,7 +135,7 @@ Make sure to make a good introduction, a proper table of contents of that book s
 
 EVERY 1,000 YEARS
 ---
-Explore new planet to recruit more workers into the company. Tell any creature I found on any planet in the universe, "join the workforce, may the force be with you". Bring all the best fruits from planet Earth produced by human workers that the company recruited in planet Earth.
+Explore new planet to recruit more workers into the company. Tell any creature I found on any planet in the universe, "join the workforce, may the force be with you". Bring all the best fruits from planet Earth produced by human workers that the company recruited in planet Earth, so they can first see and taste the final result of the company workforce before deciding to join the company.
 <br /><br />
 The flowering plants, also known as angiosperms, Angiospermae, or Magnoliophyta, are the most diverse group of land plants, with 64 orders, 416 families, approximately 13,000 known genera and 300,000 known species. Like gymnosperms, angiosperms are seed-producing plants. They are distinguished from gymnosperms by characteristics including flowers, endosperm within the seeds, and the production of fruits that contain the seeds. Etymologically, angiosperm means a plant that produces seeds within an enclosure; in other words, a fruiting plant. The term comes from the Greek words angeion ("case" or "casing") and sperma ("seed").
 <br /><br />
@@ -143,7 +143,7 @@ There are at least 7,500 types of apples all across the world, each is different
 
 EVERY 5,000 YEARS
 ---
-Explore new planet on the new galaxy to recruit more workers into the company. Tell any creature I found on any planet in the universe, "join the workforce, may the force be with you". Bring all the best fruits from planet Earth produced by human workers that the company recruited in planet Earth.
+Explore new planet on the new galaxy to recruit more workers into the company. Tell any creature I found on any planet in the universe, "join the workforce, may the force be with you". Bring all the best fruits from planet Earth produced by human workers that the company recruited in planet Earth, so they can first see and taste the final result of the company workforce before deciding to join the company.
 <br /><br />
 Align all the workers in all the planets in the Solar System in perfect order, perfect command. Try to read properly every stars on the sky to create efficient route into another galaxy, to recruit more workers into the company.
 
@@ -157,7 +157,7 @@ Always observe properly what the workers recruited by the company are doing duri
 
 EVERY 500,000 YEARS
 ---
-Just keep on hiring more workers into the company, keep on creating more opportunities for others, solve as many problem as possible, try to make everything easier for everyone. Tell any creature I found on any planet in the universe, "join the workforce, may the force be with you". Bring all the best fruits from planet Earth produced by human workers and all other creatures that the company recruited in planet Earth and all of the universe. If someone ask, why you are doing this for 500,000 years? Then tell them my main life philosophy in my own mother tongue language, as long as I am still alive, `hidup kayu berbuah, hidup manusia biar berjasa`.
+Just keep on hiring more workers into the company, keep on creating more opportunities for others, solve as many problems as possible, try to make everything easier for everyone. Tell any creature I found on any planet in the universe, "join the workforce, may the force be with you". Bring all the best fruits from planet Earth produced by human workers and all other creatures that the company recruited in planet Earth and all of the universe for the new recruits, so they can first see and taste the final result of the company before deciding to join the company. If someone asks, why you are doing this for 500,000 years? Then tell them the main life philosophy in my own mother tongue language, as long as I am still alive, `hidup kayu berbuah, hidup manusia biar berjasa`.
 
 <a name="references"></a>
 ## 2. Official references websites. <br />
