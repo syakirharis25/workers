@@ -224,8 +224,20 @@ There are on average about 250 human babies born every minute, more than 130 mil
 
 *** Nothing is really impossible in the world of engineering, the word engineer (Latin : ingeniator) is derived from the Latin words ingeniare ("to create, generate, contrive, devise") and ingenium ("cleverness"). If the worker, he or she really want to rise to be the **Rex**, to rule his or her own kingdom, his or her own government, nothing is really impossible if he or she really believe that he or she can do it in his or her lifetime. <br />
 
+## 5. Sense of Belonging & Belongingness & Belonging.
+From a psychological perspective, a **sense of belonging** is a basic human need, with many psychologists discussing this need as being at the level of importance of that as food, water, and shelter. A sense of belonging can be so powerful that it can create both value in life and the ability to learn healthy coping skills when experiencing intensive and painful emotions. The importance of a sense of belonging can be traced back to infancy, where researchers have studied skin-to-skin contact between babies and their parents. What researchers have found is that when this is combined with a strong emotional engagement, a baby's developmental growth and its recognition of self increases significantly.
+<br /><br />
+**Belongingness** is the human emotional need to be an accepted member of a group. Whether it is family, friends, co-workers, a religion, or something else, people tend to have an 'inherent' desire to belong and be an important part of something greater than themselves. This implies a relationship that is greater than simple acquaintance or familiarity. The need to belong is the need to give and receive attention to and from others.
+<br /><br />
+**Belonging** is a strong and inevitable feeling that exists in human nature. To belong or not to belong can occur due to choices of one's self, or the choices of others. Not everyone has the same life and interests, hence not everyone belongs to the same thing or person. Without belonging, one cannot identify themselves as clearly, thus having difficulties communicating with and relating to their surroundings.
+<br /><br />
+Abraham Harold Maslow, an American psychologist who was best known for creating Maslow's hierarchy of needs, suggested that the need to belong was a major source of human motivation. He thought that it was one of 5 human needs in his hierarchy of needs, along with physiological needs, safety, self-esteem, and self-actualization. These needs are arranged on a hierarchy and must be satisfied in order. After physiological and safety needs are met an individual can then work on meeting the need to belong and be loved. According to Maslow, if the first two needs are not met, then an individual cannot completely love someone else.
+<br /><br />
+The need to belong is especially evident in the workplace. Employees want to fit in at work as much as students want to fit in at school. They seek the approval and acceptance of leaders, bosses, and other employees. Charismatic leaders are especially known to show off organizational citizenship behaviors such as helping and compliance if they feel a sense of belongingness with their work group. Researchers found that charisma and belongingness increased cooperative behavior among employees. Charismatic leaders influence followers by bringing awareness to the collective unit and strengthening the feeling of belonging, and that enhances employees’ compliance.
+<br /><br />
+
 <a name="unit"></a>
-## 5. Unit of measurement.
+## 6. Unit of measurement.
 A unit of measurement is a definite magnitude of a quantity, defined and adopted by convention or by law, that is used as a standard for measurement of the same kind of quantity. Any other quantity of that kind can be expressed as a multiple of the unit of measurement. Measurement is a process of determining how large or small a physical quantity is as compared to a basic reference quantity of the same kind.
 <br /><br />
 The definition, agreement, and practical use of units of measurement have played a crucial role in human endeavour from early ages up to the present. A multitude of systems of units used to be very common. Now there is a global standard, the International System of Units (SI), the modern form of the metric system.
@@ -314,7 +326,7 @@ Unit of measurement used in this mission.
 ```
 
 <a name="commodity"></a>
-## 6. Commodity.
+## 7. Commodity.
 The word commodity came into use in English in the 15th century, from the French commodité, "amenity, convenience". Going further back, the French word derives from the Latin commoditas, meaning "suitability, convenience, advantage". The Latin word commodus (from which English gets other words including commodious and accommodate) meant variously "appropriate", "proper measure, time, or condition", and "advantage, benefit". In short, commodity means **_a useful or valuable thing_**.
 
 ```
@@ -373,7 +385,7 @@ Commodity used in this mission
 ```
 
 <a name="github"></a>
-## 7. GitHub notes.
+## 8. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/workers.git
@@ -383,7 +395,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 8. GitHub repository calculation.
+## 9. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
