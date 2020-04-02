@@ -226,25 +226,24 @@ There are on average about 250 human babies born every minute, more than 130 mil
 
 <a name="belonging"></a>
 ## 5. Sense of Belonging & Belongingness & Belonging.
-
 From a psychological perspective, a **sense of belonging** is a basic human need, with many psychologists discussing this need as being at the level of importance of that as food, water, and shelter. A sense of belonging can be so powerful that it can create both value in life and the ability to learn healthy coping skills when experiencing intensive and painful emotions. The importance of a sense of belonging can be traced back to infancy, where researchers have studied skin-to-skin contact between babies and their parents. What researchers have found is that when this is combined with a strong emotional engagement, a baby's developmental growth and its recognition of self increases significantly.
-<br /><br />
+
 **Belongingness** is the human emotional need to be an accepted member of a group. Whether it is family, friends, co-workers, a religion, or something else, people tend to have an 'inherent' desire to belong and be an important part of something greater than themselves. This implies a relationship that is greater than simple acquaintance or familiarity. The need to belong is the need to give and receive attention to and from others.
-<br /><br />
+
 **Belonging** is a strong and inevitable feeling that exists in human nature. To belong or not to belong can occur due to choices of one's self, or the choices of others. Not everyone has the same life and interests, hence not everyone belongs to the same thing or person. Without belonging, one cannot identify themselves as clearly, thus having difficulties communicating with and relating to their surroundings.
-<br /><br />
+
 Abraham Harold Maslow, an American psychologist who was best known for creating Maslow's hierarchy of needs, suggested that the need to belong was a major source of human motivation. He thought that it was one of 5 human needs in his hierarchy of needs, along with physiological needs, safety, self-esteem, and self-actualization. These needs are arranged on a hierarchy and must be satisfied in order. After physiological and safety needs are met an individual can then work on meeting the need to belong and be loved. According to Maslow, if the first two needs are not met, then an individual cannot completely love someone else.
-<br /><br />
+
 The need to belong is especially evident in the workplace. Employees want to fit in at work as much as students want to fit in at school. They seek the approval and acceptance of leaders, bosses, and other employees. Charismatic leaders are especially known to show off organizational citizenship behaviors such as helping and compliance if they feel a sense of belongingness with their work group. Researchers found that charisma and belongingness increased cooperative behavior among employees. Charismatic leaders influence followers by bringing awareness to the collective unit and strengthening the feeling of belonging, and that enhances employees’ compliance.
-<br /><br />
+
 EVERY FULL MOON REVISION
 ---
 For the workers who already completed at least one month in the company, but suddenly left the company, maybe for a reason of not feel a sense of belonging to the company, they will always be part of the family. Every time I see a full moon appears on the sky, if they come back to be the workers in the the company, there is always a place for them to start over again, then will receive as same as other workers, they must receive at least 1 gantang Negeri of rice, which is equals to 2.751 kg of rice following the rules in my own mother tongue language "ada padi semua kerja jadi, ada beras semua kerja deras".
-<br /><br />
+
 For the event every leap year on Gregorian Calendar, on every 29 February, which happens only every 4 years on this earth. The workers who are assigned tasks to raise the livestock, especially the cows, will be given 50% share of the ownership of all the calf produced by all the cows (100% owned by the company), so they can feel a sense of belonging to all the cows and calves under their care, to produce more cows and calves for the company in their service to the company.
-<br /><br />
+
 Normally cows that produced milk for humans often give birth every 400 days or more. They are highly motivated to look for food and forage for 6 to 10 hours a day, grass and concentrates may only provide enough energy for the cows to produce 5,000 litres of milk of production per year. Gestation, the process or period of developing inside the womb between conception and birth, does vary by breed and by sex of the calf, the ranges from 279 to 287 days is normal for the cows that didn't produce milk for humans. For most breeds, 283 days would be common. Cows carrying bull calves, male calves, tend to have a slightly longer gestation compared to cows carrying heifer calves, female calves.
-<br /><br />
+
 EVERY 25 YEARS REVISION
 ---
 For the Lords and Rex level of workers, those commanding at least 5,000 men or women under them, for everything they found on land, and sea will be divided equally, 50% will belong to them, while other 50% will belong to the company as a whole to create a sense of belonging to all their works in their territory, their area of interest, except diamonds, which they may choose one of the best diamond every single year for them and their men or women under their command, and other diamonds found will belong to the company, this is to make all the civil engineering related works easier for everyone, to build a city, to cut the stone, to cut the big tree, to do the mining, almost every single civil engineering related works will take a lot longer, longer route, longer path, longer time, more effort if cannot get the best equipment, best tools to do the works.
