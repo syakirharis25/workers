@@ -213,10 +213,10 @@ There are on average about 250 human babies born every minute, more than 130 mil
 **_LEVEL_** <br />
 **[ Fresh Worker ]** --> **[ Centurion ]** --> **[ Lord ]** --> **[ Rex ]**  <br />
 
-**_RATIO_** <br />
+**_RATIO_** (FIRST PRIORITY) <br />
 **[ 1:1 ]** --> **[ 1:100 ]** --> **[ 1:5,000 ]** --> **[ 1:500,000 ]**  <br />
 
-**_DURATION_** <br />
+**_DURATION_** (SECOND PRIORITY) <br />
 **[ 0 -> 13 months ]** --> **[ 13 months -> 25 years ]** --> **[ 25 years -> 50 years ]** --> **[ 50 years -> infinity ]**  <br />
 
 **_REALM_**  <br />
