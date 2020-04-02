@@ -226,6 +226,7 @@ There are on average about 250 human babies born every minute, more than 130 mil
 
 <a name="belonging"></a>
 ## 5. Sense of Belonging & Belongingness & Belonging.
+
 From a psychological perspective, a **sense of belonging** is a basic human need, with many psychologists discussing this need as being at the level of importance of that as food, water, and shelter. A sense of belonging can be so powerful that it can create both value in life and the ability to learn healthy coping skills when experiencing intensive and painful emotions. The importance of a sense of belonging can be traced back to infancy, where researchers have studied skin-to-skin contact between babies and their parents. What researchers have found is that when this is combined with a strong emotional engagement, a baby's developmental growth and its recognition of self increases significantly.
 <br /><br />
 **Belongingness** is the human emotional need to be an accepted member of a group. Whether it is family, friends, co-workers, a religion, or something else, people tend to have an 'inherent' desire to belong and be an important part of something greater than themselves. This implies a relationship that is greater than simple acquaintance or familiarity. The need to belong is the need to give and receive attention to and from others.
