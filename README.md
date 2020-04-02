@@ -51,7 +51,7 @@ Make sure to count everything is enough for every worker, make use of the unit o
 
 EVERY 7 DAYS
 ---
-At least 24 hours enough sleep and rest every single week, continuously without any interruption or any disturbance, having very strong mental health, in a very good state of mind, in every beginning of the month in the Gregorian calendar.
+At least 24 hours enough sleep and rest every single week, continuously without any interruption or any disturbance, having very strong mental health, in a very good state of mind, at every beginning of the month in the Gregorian calendar. The worker who already exceed 100 working hours in a single week, automatically will be given at least 24 hours uninterrupted rest.
 
 At least 5 hours break for Friday prayer, starting from 12pm to 5pm.
 
