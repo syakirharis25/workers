@@ -53,7 +53,7 @@ EVERY 5 DAYS
 ---
 The workers that already exceed 100 working hours in every 5 days, automatically will be given at least 24 hours uninterrupted rest. 
 
-Human workers that did not have enough sleep is very risky for the company because they will have :
+Human workers that did not have enough sleep, enough rest are very risky for the company because they will have :
 * anxiety
 * unstable mood
 * drowsiness
