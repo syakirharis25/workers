@@ -173,6 +173,9 @@ The United Nations Children's Fund : https://www.unicef.org <br />
 **_planet references_** <br />
 Diamond Planet Found—Part of "Whole New Class?" by National Geographic : https://www.nationalgeographic.com/news/2012/10/121011-diamond-planet-space-solar-system-astronomy-science/ <br />
 
+**_metal references_** <br />
+Gold, Silver, Platinum and Palladium Live Spot Prices : https://www.moneymetals.com/precious-metals-charts <br />
+
 **_Legion references_** <br />
 Legion Entrangere : https://www.legion-etrangere.com <br />
 French Foreign Legion recruitment official website : https://en.legion-recrute.com <br />
