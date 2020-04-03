@@ -274,6 +274,8 @@ The name platinum is derived from the Spanish word platina “little silver", th
 
 The platinum metals have many useful catalytic properties. They are highly resistant to wear and tarnish, making platinum, in particular, well suited for fine jewellery. Other distinctive properties include resistance to chemical attack, excellent high-temperature characteristics, high mechanical strength, good ductility, and stable electrical properties. Apart from their application in jewellery, platinum metals are also used in anticancer drugs, industries, dentistry, electronics, and vehicle exhaust catalysts (VECs). VECs contain solid platinum (Pt), palladium (Pd), and rhodium (Rh) and are installed in the exhaust system of vehicles to reduce harmful emissions, such as carbon monoxide (CO), by converting them into less harmful emissions.
 
+Palladium in the platinum-group metals for example acts as an excellent catalyst, and helps turn some of the polluting compounds expelled as part of an internal combustion engine into less harmful components. These compounds – such as hydrocarbons and nitrogen – are highly damaging to humans and the environment, and have been subject to strict regulations in recent years.
+
 <a name="unit"></a>
 ## 6. Unit of measurement.
 A unit of measurement is a definite magnitude of a quantity, defined and adopted by convention or by law, that is used as a standard for measurement of the same kind of quantity. Any other quantity of that kind can be expressed as a multiple of the unit of measurement. Measurement is a process of determining how large or small a physical quantity is as compared to a basic reference quantity of the same kind.
