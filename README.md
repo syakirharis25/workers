@@ -244,7 +244,7 @@ The need to belong is especially evident in the workplace. Employees want to fit
 
 EVERY FULL MOON REVISION
 ---
-For the workers who already completed at least one month in the company, but suddenly left the company, maybe for a reason of not feeling a sense of belonging to the company, they will always be part of the family. Every time I see a full moon appears on the sky, if they come back to be the workers in the company, there is always a place for them to start over again, they will receive as same as other workers, they must receive at least 1 gantang Negeri of rice, which equals to 2.751 kg of rice following the rules in my mother tongue language "ada padi semua kerja jadi, ada beras semua kerja deras".
+For the workers who already be with the company for at least **pars minuta prima** or equivalent to 1 minute or equivalent to ‪60,000‬ milliseconds  or equivalent to ‪60,000,000‬ microseconds, but suddenly left the company, maybe for a reason of not feeling a sense of belonging to the company, they will always be part of the family. Every time I see a full moon appears on the sky, if they come back to be the workers in the company, there is always a place for them to start over again, they will receive as same as other workers, they must receive at least 1 gantang Negeri of rice, which equals to 2.751 kg of rice following the rules in my mother tongue language "ada padi semua kerja jadi, ada beras semua kerja deras".
 
 EVERY FULL MOON REVISION (AFTER 4 INITIAL YEARS)
 ---
