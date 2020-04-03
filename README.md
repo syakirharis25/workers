@@ -52,6 +52,8 @@ Make sure to count everything is enough for every worker, make use of the unit o
 
 Spend at most 1 hour of reading some books or reading materials that are related to workers productivity and engineering-related knowledge, try to ask at most 1 question, when finished reading the books in 1 hour, to sharpen my mind, try to solve it within 24 hours, try to discipline myself do not exceed more than 1 hour every 2 days because time is limited, prioritize the daily, weekly planning works first, finish all the main tasks first, try to read some books or reading materials that are related to workers productivity and engineering-related knowledge in more than 30 minutes to develop a proper chain of thought, the connections that link the various parts of an event or argument together. Duration of reading any books is between 30 minutes to 60 minutes (1 hour), the main objective of reading the books is always on how to do less while achieving more, how to make life easier for everyone around me and also to myself.
 
+Always remind my self that yesterday is 24 hours, tomorrow must plan at most for 24 hours, today spend 1 hour properly, as every hour in every workers lifetime in the company is so valuable, time is limited, 1 day, either yesterday or today or tomorrow only consist of at most 24 hours.
+
 EVERY 5 DAYS
 ---
 The workers that already exceed 100 working hours every 5 days, automatically will be given at least 24 hours uninterrupted rest. 
