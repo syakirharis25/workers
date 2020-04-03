@@ -170,6 +170,9 @@ Haramain : https://www.haramain.com, http://www.haramain.info <br />
 UNICEF State of Palestine : https://www.unicef.org/sop/ <br />
 The United Nations Children's Fund : https://www.unicef.org <br />
 
+**_planet references_** <br />
+Diamond Planet Found—Part of "Whole New Class?" by National Geographic : https://www.nationalgeographic.com/news/2012/10/121011-diamond-planet-space-solar-system-astronomy-science/ <br />
+
 **_Legion references_** <br />
 Legion Entrangere : https://www.legion-etrangere.com <br />
 French Foreign Legion recruitment official website : https://en.legion-recrute.com <br />
