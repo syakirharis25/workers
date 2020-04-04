@@ -104,15 +104,17 @@ Make sure to make a good introduction, a proper table of contents of that book s
 
 EVERY 10 YEARS
 ---
-Establish school of engineering for the workers who want to become a **Legion** of the company. Fully open for 24-hours per day but after every 7 hours, give time for the cleaning and re-arranging service to take place, so everybody can do their works with a clear mind and less interruption from others. Focusing on civil engineering discipline with government administration studies.
+Establish school of engineering for the workers who want to become a **Legion** of the company. Fully open for 24-hours per day but after every 7 hours, give 1 hour time for the cleaning and re-arranging service to take place, so everybody can do their works with a clear mind and less interruption from others. Focusing on civil engineering discipline with government administration studies.
 
-The school must consist at least 5,000 students with their own working area of at least 2 square meters, so if any pandemic occurs, they still can go to school, at least 50 teachers with their own working area following the Australian Army Slow Time that is 70 paces per minute with a 75cm pace, of at least 10,000 steps per day.
+The school must consist at least 5,000 students with their working area of at least 2 square meters, so if any pandemic occurs, they still can go to school, at least 50 teachers with their working area following the Australian Army Slow Time that is 70 paces per minute with a 75cm pace, of at least 10,000 steps per day.
 
 Library following the standard of The House of Commons Library of the lower house of the British Parliament, that can consist at least 30,000 books majoring in history, topography, literature, biography and politics, as well as the official papers of the House, consisting 4 large rooms, every 40 feet by 25 feet and some 20 feet high.
 
+The company will build a continuously flowing water system, visible and not visible hydraulic water system to be used by the teachers and the students in the school. Water is the source of life and the main motivation for human beings to stay alive. Water is an important strategic source for all countries of the world without exception and is far-reaching and is now a major cause of many conflicts and political conflicts. There are several international conventions on water, such as the United Nations Convention to Combat Desertification, the Marbol Convention for the Prevention of Pollution from Ships and the Ramsar Convention on the Conservation and Sustainable Use of Wetlands. To make sure this as a constant reminder, then the main office of the school will have their own ship on the water so they can see clearly what is always happening to the water system of the school build by the company. 
+
 The school of engineering that will be establish by the company in every 10 years is at least 47,504,876.8 centimetres x 47,504,876.8 centimetres x 300 centimetres, or equivalent to 475,048.768 meter x 475,048.768 meter x 3 meter.
 
-The method that will be used in the project is fully open-source so that anyone in this world can contribute, any donation can be done by donating as small as 1¢ cent or 1p penny coin, so everyone in this world can donate and contribute for the school of engineering project, anyone in this world also can enrol in this class free of any charge, fully sponsored by the company, at least 7 hours in their lifetime before cleaning and re-arranging service takes place in the school of engineering.
+The method that will be used in the project is fully open-source so that anyone in this world can contribute, any donation can be done by donating as small as 1¢ cent or 1p penny coin, so everyone in this world can donate and contribute for the school of engineering project, anyone in this world also can enrol in this class free of any charge, fully sponsored by the company, at least 7 hours in their lifetime before cleaning and re-arranging service takes place in the school of engineering. Those coming from outside of the company, when they make even a single step into the school, then invite them to be the worker of the company. The hiring process must always go on, hire as many workers as possible into the company.
 
 EVERY 25 YEARS
 ---
@@ -185,6 +187,12 @@ Haramain : https://www.haramain.com, http://www.haramain.info <br />
 **_Masjidil Aqsa related references_** <br />
 UNICEF State of Palestine : https://www.unicef.org/sop/ <br />
 The United Nations Children's Fund : https://www.unicef.org <br />
+
+**_water references_** <br />
+United Nations Convention to Combat Desertification (UNCCD) : https://www.unccd.int/convention/about-convention <br />
+The International Convention for the Prevention of Pollution from Ships (MARPOL) : http://www.imo.org/en/About/Conventions/ListOfConventions/Pages/International-Convention-for-the-Prevention-of-Pollution-from-Ships-(MARPOL).aspx <br />
+What is the Ramsar
+Convention on Wetlands?  : https://www.ramsar.org/sites/default/files/documents/library/info2007-02-e.pdf <br />
 
 **_library references_** <br />
 House of Commons Library : https://www.parliament.uk/commons-library <br />
