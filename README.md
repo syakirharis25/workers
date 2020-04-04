@@ -308,6 +308,8 @@ The platinum metals have many useful catalytic properties. They are highly resis
 
 Palladium in the platinum-group metals, for example, acts as an excellent catalyst, and helps turn some of the polluting compounds expelled as part of an internal combustion engine into less harmful components. These compounds – such as hydrocarbons and nitrogen – are highly damaging to humans and the environment, and have been subject to strict regulations in recent years.
 
+Currently, the biggest suppliers of the six platinum-group metals, the ruthenium, rhodium, palladium, osmium, iridium, and platinum, comes from African regions, Russia and North America. By hook or by crook, must try to learn their language, cultures and interests, also what is happening inside their politics and government administrations, to make all civil engineering related works to flow without any interruption, hire as many people as possible into the company, from all kind of backgrounds to ease all chain of supplies.
+
 <a name="unit"></a>
 ## 6. Unit of measurement.
 A unit of measurement is a definite magnitude of a quantity, defined and adopted by convention or by law, that is used as a standard for measurement of the same kind of quantity. Any other quantity of that kind can be expressed as a multiple of the unit of measurement. Measurement is a process of determining how large or small a physical quantity is as compared to a basic reference quantity of the same kind.
