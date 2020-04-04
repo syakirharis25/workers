@@ -118,7 +118,7 @@ The method that will be used in the project is fully open-source so that anyone 
 
 A teacher to students ratio shall not exceed 1 teacher to every 100 students, 1:100 in a single class, in order to make sure every teacher in that school has a good healthy mind if it needs to exceed that ratio, then need to ask the teacher can accept more students into their class or not, so they can do their teaching works with a full heart. The school will always remain as a non-profit organization to make the education accessible as many people as possible, any profit gain from selling the teachers own hand-writing will be given back to the teacher wrote that book, 100% ownership of their book writing for the students in the company school.
 
-Any students or teachers that already completed 25,000 hours in the company school, invite them to write at least 25,000 words of thesis to improve the school system and what their suggestion to improve the company way works. Give them at least any single (1) best product produced by the company as gratitute for writing the thesis after completing a degree, at least 25,000 hours in the school,
+Any students or teachers that already completed 25,000 hours in the company school, invite them to write at least 25,000 words of a thesis to improve the school system and what their suggestion to improve the company way works. Give them at least any single (1) best product produced by the company as gratitude for writing the thesis after completing a degree, at least 25,000 hours in the school.
 
 EVERY 25 YEARS
 ---
