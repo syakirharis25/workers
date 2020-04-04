@@ -186,6 +186,12 @@ Haramain : https://www.haramain.com, http://www.haramain.info <br />
 UNICEF State of Palestine : https://www.unicef.org/sop/ <br />
 The United Nations Children's Fund : https://www.unicef.org <br />
 
+**_library references_** <br />
+House of Commons Library : https://www.parliament.uk/commons-library <br />
+
+**_army references_** <br />
+Australian Army : https://www.army.gov.au <br />
+
 **_planet references_** <br />
 Diamond Planet Found—Part of "Whole New Class?" by National Geographic : https://www.nationalgeographic.com/news/2012/10/121011-diamond-planet-space-solar-system-astronomy-science/ <br />
 
