@@ -102,6 +102,18 @@ Produce a well-crafted hardcover book that consists of at least 25,000 words wit
 
 Make sure to make a good introduction, a proper table of contents of that book so it can become a good reference, good guidance for myself and the Centurions. Try to gather all the obstacles and challenges from the Centurions, before writing that hardcover book, in the mission to hire more than 500,000 workers around the world. On every page, on every side of that book, make sure to leave a blank space of at least 1-inch equivalent to 2.54 centimetre, so that everybody who read that book can write down their chain of thought, or leave some brief note about the writings of that book, on every new chapter, leave a full blank space of a single page to ease, clear the reader's mind, taking a new fresh breath, take some brief break, before entering a new chapter of that book.
 
+EVERY 10 YEARS
+---
+Establish school of engineering for the workers who want to become a **Legion** of the company. Fully open for 24-hours per day but after every 7 hours, give time for the cleaning and re-arranging service to take place, so everybody can do their works with a clear mind and less interruption from others. Focusing on civil engineering discipline with government administration studies.
+
+The school must consist at least 5,000 students with their own working area of at least 2 square meters, so if any pandemic occurs, they still can go to school, at least 50 teachers with their own working area following the Australian Army Slow Time that is 70 paces per minute with a 75cm pace, of at least 10,000 steps per day.
+
+Library following the standard of The House of Commons Library of the lower house of the British Parliament, that can consist at least 30,000 books majoring in history, topography, literature, biography and politics, as well as the official papers of the House, consisting 4 large rooms, every 40 feet by 25 feet and some 20 feet high.
+
+The school of engineering that will be establish by the company in every 10 years is at least 47,504,876.8 centimetres x 47,504,876.8 centimetres x 300 centimetres, or equivalent to 475,048.768 meter x 475,048.768 meter x 3 meter.
+
+The method that will be used in the project is fully open-source so that anyone in this world can contribute, any donation can be done by donating as small as 1¢ cent or 1p penny coin, so everyone in this world can donate and contribute for the school of engineering project, anyone in this world also can enrol in this class free of any charge, fully sponsored by the company, at least 7 hours in their lifetime before cleaning and re-arranging service takes place in the school of engineering.
+
 EVERY 25 YEARS
 ---
 Create own financial, monetary system, unit of measurement to be used by the **Lord**, try to ease their path and the flow to become the **Rex**, commanding at least 500,000 men or women under him or her, to be the real **King** of his or her own **Kin**, for his or her rulership on his or her home state of government in the next 25 years of service. Currently, in the United States of America (USA), a gallon, the US gallon is equivalent to 128 fluid ounces or 3.785 litres (American spelling). But in the United Kingdom (UK), a gallon, an Imperial gallon is equivalent to 160 fluid ounces or 4.546 litres (British spelling). A clear vision, backed by definite plans, gives a tremendous feeling of confidence and personal power. A goal without a plan is just a wish.
