@@ -98,7 +98,7 @@ At least 5 days break for Aidil-fitri (2 last days in Ramadhan and 3 first days 
 
 EVERY 5 YEARS
 ---
-Establish school of engineering for the workers who want to become a **Legion** of the company. Fully open for 24-hours per day but after every 7 hours, give 1 hour time for the cleaning and re-arranging service to take place, so everybody can do their works with a clear mind and less interruption from others. Focusing on civil engineering discipline with government administration studies.
+Establish at least one school of engineering for the workers who want to become a **Legion** of the company. Fully open for 24-hours per day but after every 7 hours, give 1 hour time for the cleaning and re-arranging service to take place, so everybody can do their works with a clear mind and less interruption from others. Focusing on civil engineering discipline with government administration studies.
 
 The school must consist at least 5,000 students with their working area of at least 2 square meters, so if any pandemic occurs, they still can go to school, at least 50 teachers with their working area following the Australian Army Slow Time that is 70 paces per minute with a 75cm pace, of at least 10,000 steps per day.
 
