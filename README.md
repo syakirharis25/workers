@@ -98,12 +98,11 @@ At least 5 days break for Aidil-fitri (2 last days in Ramadhan and 3 first days 
 
 EVERY 3 YEARS
 ---
-Develop internal technology roadmap software to make knowledge transfer easier within the company, gathering expert insight to display, document, making diagram that illustrates the technology and tools used by the company. Technology roadmaps are created to help business leaders plan and strategize which, when, and why certain technologies will be onboarded while avoiding expensive mistakes and even planning for technologies becoming obsolete.
+Develop internal technology roadmap software to make knowledge transfer easier within the company, gathering expert insight to display, document, making a diagram that illustrates the technology and tools used by the company. Technology roadmaps are created to help business leaders plan and strategize which, when, and why certain technologies will be onboarded while avoiding expensive mistakes and even planning for technologies becoming obsolete.
 
-An effective technology roadmap should also outline a strategy to reach short- and long-term digital transformation goals, if applicable. A technology roadmap illustrates the technology presently available and emphasizes scheduled improvements. A technology roadmap should also consider which technologies will become obsolete or are scheduled for end of life. For example, a work management software system will show when the previous system will sunset and when the new one will be implemented.
+An effective technology roadmap should also outline a strategy to reach short- and long-term digital transformation goals, if applicable. A technology roadmap illustrates the technology presently available and emphasizes scheduled improvements. A technology roadmap should also consider which technologies will become obsolete or are scheduled for the end of life. For example, a work management software system will show when the previous system will sunset and when the new one will be implemented.
 
-When developing the internal technology roadmap, be clear, realistic, easy to share among all the members in the company.
-
+When developing the internal technology roadmap, be clear, realistic, easy to share among all the members in the company. All the internal software used within the company must have a lifespan of continuous support at least for 3 continuous years.
 
 EVERY 5 YEARS
 ---
