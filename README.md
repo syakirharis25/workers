@@ -96,6 +96,15 @@ At least 5 days break for Aidil-fitri (2 last days in Ramadhan and 3 first days 
 
 *** Every worker that reached the level of the **Centurion**, successfully managed their own 100 men or women, ask him or her, if he or she is interested in becoming a **Legion** for at least 25 years of service, commanding at least 5,000 men or women under him or her, grant him or her a title of **Lord** if he or she successfully managed 5,000 men or women under him or her, become the main **Legend** of his or her people, his or her tribe, the real master of food and drink supply chain and its flow for his or her people, his or her tribe, then at the end of his or her 25 years of service for the company, that worker will own some piece of land and building under his or her complete control and authority with a special ceremony by the company will be held for him or her, and a special tribute and respect, from at least, all of his or her minimum 5,000 men or women, under his or her command, supervision, within his or her 25 years of service to the company. 
 
+EVERY 3 YEARS
+---
+Develop internal technology roadmap software to make knowledge transfer easier within the company, gathering expert insight to display, document, making diagram that illustrates the technology and tools used by the company. Technology roadmaps are created to help business leaders plan and strategize which, when, and why certain technologies will be onboarded while avoiding expensive mistakes and even planning for technologies becoming obsolete.
+
+An effective technology roadmap should also outline a strategy to reach short- and long-term digital transformation goals, if applicable. A technology roadmap illustrates the technology presently available and emphasizes scheduled improvements. A technology roadmap should also consider which technologies will become obsolete or are scheduled for end of life. For example, a work management software system will show when the previous system will sunset and when the new one will be implemented.
+
+When developing the internal technology roadmap, be clear, realistic, easy to share among all the members in the company.
+
+
 EVERY 5 YEARS
 ---
 Establish at least one school of engineering for the workers who want to become a **Legion** of the company. Fully open for 24-hours per day but after every 7 hours, give 1 hour time for the cleaning and re-arranging service to take place, so everybody can do their works with a clear mind and less interruption from others. Focusing on civil engineering discipline with government administration studies.
