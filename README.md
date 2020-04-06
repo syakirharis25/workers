@@ -16,18 +16,6 @@ In a mission to hire at least 500,000 workers around the world. <br />
 9. [GitHub notes.](#github)
 10. [GitHub repository calculation.](#calculation)
 
-<a name="timemanagement"></a>
-## 5. Time management.
-Time management is the process of planning and exercising conscious control of time spent on specific activities, especially to increase effectiveness, efficiency, and productivity. Time management is defined as using your time productively and efficiently—but what about when you are working as productively as possible, and you still can’t get everything done? It may be better to think about time management as a combination of working productively and prioritising your time. In other words, people who are good at time management are good at getting on and doing things. They are also, however, better at prioritising, and working out what really needs doing—and then discarding the other things.
-
-Time management may be aided by a range of skills, tools, and techniques used to manage time when accomplishing specific tasks, projects, and goals complying with a due date. Initially, time management referred to just business or work activities, but eventually the term broadened to include personal activities as well. A time management system is a designed combination of processes, tools, techniques, and methods. Time management is usually a necessity in any project development as it determines the project completion time and scope. It is also important to understand that both technical and structural differences in time management exist due to variations in cultural concepts of time.
-
-One thing everyone must remember is that **time is limited**, no matter how you slice it, there are only 24 hours in a day. That applies to you, and to your coworker who only seems able to do half the amount of work you do. Whether you rely on a time-chunking technique or discover the power of list-making, you’ll soon find that a nice side benefit of good time management skills is the ability to make better decisions. Through effective time management, you can eliminate the pressure that comes from feeling like you don’t have enough time. You’ll start to feel more calm and in control. When the time comes to examine options and make a decision, instead of rushing through the process, you can take time to carefully consider each option. And when you’re able to do that, you diminish your chances of making a bad decision.
-
-Time management is the key to success. It allows you to take control of your life rather than just following the flow of others. As you accomplish more each day, make more sound decisions, and feel more in control, people notice. Leaders in your business will come to you when they need to get things done. And that increased exposure helps put you in line for advancement opportunities. When you work more efficiently, you have the time. You can help out with that new product launch your development team’s been working on. The more you learn about your company and your industry, the better your chances of making a positive impression and raise your standard of life and your position within the company, within the tribe, within the legion, within the government you currently working for in the company.
-
-
-
 <a name="goals"></a>
 ## 1. Goals.
 
@@ -299,8 +287,24 @@ There are on average about 250 human babies born every minute, more than 130 mil
 
 *** Nothing is impossible in the world of engineering, the word engineer (Latin : ingeniator) is derived from the Latin words ingeniare ("to create, generate, contrive, devise") and ingenium ("cleverness"). If the worker, he or she want to rise to be the **Rex**, to rule his or her kingdom, his or her government, nothing is impossible if he or she believes that he or she can do it in his or her lifetime. <br />
 
+<a name="timemanagement"></a>
+## 5. Time management.
+Before humans know how to hunt, how to tame the animals, how to do the trades, the basic of their survival is to understand the concept of the sun, moon and stars they saw on the sky, to gather all the edible foods around them, try to understand how long it takes to grow back into fruits, invented their own calendar system, invented their own time management system, those who master their time become the master of their life, thus become the masters of survival. There are at least 107 calendars used in this world. In easy short word, time management is very important for basic survival of a human being, every advanced ancient human civilization on planet Earth was based on an efficient time management system.
+
+Time management is the process of planning and exercising conscious control of time spent on specific activities, especially to increase effectiveness, efficiency, and productivity. Time management is defined as using your time productively and efficiently—but what about when you are working as productively as possible, and you still can’t get everything done? It may be better to think about time management as a combination of working productively and prioritising your time. In other words, people who are good at time management are good at getting on and doing things. They are also, however, better at prioritising, and working out what really needs doing—and then discarding the other things.
+
+Time management may be aided by a range of skills, tools, and techniques used to manage time when accomplishing specific tasks, projects, and goals complying with a due date. Initially, time management referred to just business or work activities, but eventually the term broadened to include personal activities as well. A time management system is a designed combination of processes, tools, techniques, and methods. Time management is usually a necessity in any project development as it determines the project completion time and scope. It is also important to understand that both technical and structural differences in time management exist due to variations in cultural concepts of time.
+
+One thing everyone must remember is that **time is limited**, no matter how you slice it, there are only 24 hours in a day. That applies to you, and to your coworker who only seems able to do half the amount of work you do. Whether you rely on a time-chunking technique or discover the power of list-making, you’ll soon find that a nice side benefit of good time management skills is the ability to make better decisions. Through effective time management, you can eliminate the pressure that comes from feeling like you don’t have enough time. You’ll start to feel more calm and in control. When the time comes to examine options and make a decision, instead of rushing through the process, you can take time to carefully consider each option. And when you’re able to do that, you diminish your chances of making a bad decision.
+
+Time management is the key to success. It allows you to take control of your life rather than just following the flow of others. As you accomplish more each day, make more sound decisions, and feel more in control, people notice. Leaders in your business will come to you when they need to get things done. And that increased exposure helps put you in line for advancement opportunities. When you work more efficiently, you have the time. You can help out with that new product launch your development team’s been working on. The more you learn about your company and your industry, the better your chances of making a positive impression and raise your standard of life and your position within the company, within the tribe, within the legion, within the government you currently working for in the company.
+
+To make sure time is very important in the company, as a constant reminder therefore, on every entrance of the company building especially the school of engineering that will be build by the company, there will be install with an astronomical clock, at the height of at least 33 meters or 108 feet high so it will become visible to everyone entering the school, following the standard of Zimmertoren also known as the Cornelius tower in Belgium, the standard set by Louis Zimmer, an astronomer and clockmaker to the King of Belgium, that consist of the equation of time, the zodiac, the solar cycle and the dominical letter, the week, the globe, the months, the calendar dates, the seasons, the tides, the age of the moon, the phases of the moon, the metonic cycle and the epact.
+
+Every classes in the school of engineering, every rooms in the library will install both analog and digital clock that can count to nanosecond that working in silence, at least at the same level of military submarine. The main office will be located in the center of the school of engineering, with a direct hit of sun light from every direction, to place a visible horizontal sundial, also called a garden sundial, that stands 35 feet or equivalent to 11 metres above the main office and extends 62 feet or equivalent to 19 metres following the standard of The Whitehurst & Son sundial, every class in the school of engineering will start on how to read properly the sun clock, sundial, calendars, analog and digital clock, and to always remember that **punctuality is the politeness of kings**, in order to raise them as a proper **Lord** and **Rex** in the future.
+
 <a name="belonging"></a>
-## 5. Sense of Belonging & Belongingness & Belonging.
+## 6. Sense of Belonging & Belongingness & Belonging.
 From a psychological perspective, a **sense of belonging** is a basic human need, with many psychologists discussing this need as being at the level of importance of that as food, water, and shelter. A sense of belonging can be so powerful that it can create both value in life and the ability to learn healthy coping skills when experiencing intensive and painful emotions. The importance of a sense of belonging can be traced back to infancy, where researchers have studied skin-to-skin contact between babies and their parents. What researchers have found is that when this is combined with a strong emotional engagement, a baby's developmental growth and its recognition of self increases significantly.
 
 **Belongingness** is the human emotional need to be an accepted member of a group. Whether it is family, friends, co-workers, a religion, or something else, people tend to have an 'inherent' desire to belong and be an important part of something greater than themselves. This implies a relationship that is greater than simple acquaintance or familiarity. The need to belong is the need to give and receive attention to and from others.
@@ -348,7 +352,7 @@ Palladium in the platinum-group metals, for example, acts as an excellent cataly
 Currently, the biggest suppliers of the six platinum-group metals, the ruthenium, rhodium, palladium, osmium, iridium, and platinum, comes from African regions, Russia and North America. By hook or by crook, must try to learn their language, cultures and interests, also what is happening inside their politics and government administrations, to make all civil engineering related works to flow without any interruption, hire as many people as possible into the company, from all kind of backgrounds to ease all chain of supplies.
 
 <a name="unit"></a>
-## 6. Unit of measurement.
+## 7. Unit of measurement.
 A unit of measurement is a definite magnitude of a quantity, defined and adopted by convention or by law, that is used as a standard for measurement of the same kind of quantity. Any other quantity of that kind can be expressed as a multiple of the unit of measurement. Measurement is a process of determining how large or small a physical quantity is as compared to a basic reference quantity of the same kind.
 <br /><br />
 The definition, agreement, and practical use of units of measurement have played a crucial role in human endeavour from early ages up to the present. A multitude of systems of units used to be very common. Now there is a global standard, the International System of Units (SI), the modern form of the metric system.
@@ -437,7 +441,7 @@ Unit of measurement used in this mission.
 ```
 
 <a name="commodity"></a>
-## 7. Commodity.
+## 8. Commodity.
 The word commodity came into use in English in the 15th century, from the French commodité, "amenity, convenience". Going further back, the French word derives from the Latin commoditas, meaning "suitability, convenience, advantage". The Latin word commodus (from which English gets other words including commodious and accommodate) meant variously "appropriate", "proper measure, time, or condition", and "advantage, benefit". In short, commodity means **_a useful or valuable thing_**.
 
 ```
@@ -496,7 +500,7 @@ Commodity used in this mission
 ```
 
 <a name="github"></a>
-## 8. GitHub notes.
+## 9. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/workers.git
@@ -506,7 +510,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 9. GitHub repository calculation.
+## 10. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
