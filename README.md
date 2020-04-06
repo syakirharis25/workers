@@ -9,11 +9,24 @@ In a mission to hire at least 500,000 workers around the world. <br />
 2. [Official references websites.](#references)
 3. [Benchmarks.](#benchmarks)
 4. [Worker flow.](#workerflow)
-5. [Sense of Belonging & Belongingness & Belonging](#belonging)
-6. [Unit of measurement.](#unit)
-7. [Commodity.](#commodity)
-8. [GitHub notes.](#github)
-9. [GitHub repository calculation.](#calculation)
+5. [Time management.](#timemanagement)
+6. [Sense of Belonging & Belongingness & Belonging](#belonging)
+7. [Unit of measurement.](#unit)
+8. [Commodity.](#commodity)
+9. [GitHub notes.](#github)
+10. [GitHub repository calculation.](#calculation)
+
+<a name="timemanagement"></a>
+## 5. Time management.
+Time management is the process of planning and exercising conscious control of time spent on specific activities, especially to increase effectiveness, efficiency, and productivity. Time management is defined as using your time productively and efficiently—but what about when you are working as productively as possible, and you still can’t get everything done? It may be better to think about time management as a combination of working productively and prioritising your time. In other words, people who are good at time management are good at getting on and doing things. They are also, however, better at prioritising, and working out what really needs doing—and then discarding the other things.
+
+Time management may be aided by a range of skills, tools, and techniques used to manage time when accomplishing specific tasks, projects, and goals complying with a due date. Initially, time management referred to just business or work activities, but eventually the term broadened to include personal activities as well. A time management system is a designed combination of processes, tools, techniques, and methods. Time management is usually a necessity in any project development as it determines the project completion time and scope. It is also important to understand that both technical and structural differences in time management exist due to variations in cultural concepts of time.
+
+One thing everyone must remember is that **time is limited**, no matter how you slice it, there are only 24 hours in a day. That applies to you, and to your coworker who only seems able to do half the amount of work you do. Whether you rely on a time-chunking technique or discover the power of list-making, you’ll soon find that a nice side benefit of good time management skills is the ability to make better decisions. Through effective time management, you can eliminate the pressure that comes from feeling like you don’t have enough time. You’ll start to feel more calm and in control. When the time comes to examine options and make a decision, instead of rushing through the process, you can take time to carefully consider each option. And when you’re able to do that, you diminish your chances of making a bad decision.
+
+Time management is the key to success. It allows you to take control of your life rather than just following the flow of others. As you accomplish more each day, make more sound decisions, and feel more in control, people notice. Leaders in your business will come to you when they need to get things done. And that increased exposure helps put you in line for advancement opportunities. When you work more efficiently, you have the time. You can help out with that new product launch your development team’s been working on. The more you learn about your company and your industry, the better your chances of making a positive impression and raise your standard of life and your position within the company, within the tribe, within the legion, within the government you currently working for in the company.
+
+
 
 <a name="goals"></a>
 ## 1. Goals.
