@@ -19,7 +19,9 @@ In a mission to hire at least 500,000 workers around the world. <br />
 
 <a name="teman"></a>
 ## 6. [Tools, equipment, materials, environment]
-[ draft ]
+[ draft definition ]
+[ draft challenges ]
+[ draft solution ]
 
 <a name="goals"></a>
 ## 1. Goals.
