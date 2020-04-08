@@ -10,18 +10,11 @@ In a mission to hire at least 500,000 workers around the world. <br />
 3. [Benchmarks.](#benchmarks)
 4. [Worker flow.](#workerflow)
 5. [Time management.](#timemanagement)
-6. [Tools, equipment, materials, environment.](#teman)
-7. [Sense of Belonging & Belongingness & Belonging.](#belonging)
-8. [Unit of measurement.](#unit)
-9. [Commodity.](#commodity)
-10. [GitHub notes.](#github)
-11. [GitHub repository calculation.](#calculation)
-
-<a name="teman"></a>
-## 6. [Tools, equipment, materials, environment]
-[ draft definition ] <br />
-[ draft challenges ] a poor workman always blames his tools, Mauves ovriers ne trovera ja bon hostill. [A bad workman will never find a good tool.] <br />
-[ draft solution ] For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.<br />
+6. [Sense of Belonging & Belongingness & Belonging.](#belonging)
+7. [Unit of measurement.](#unit)
+8. [Commodity.](#commodity)
+9. [GitHub notes.](#github)
+10. [GitHub repository calculation.](#calculation)
 
 <a name="goals"></a>
 ## 1. Goals.
