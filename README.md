@@ -10,11 +10,21 @@ In a mission to hire at least 500,000 workers around the world. <br />
 3. [Benchmarks.](#benchmarks)
 4. [Worker flow.](#workerflow)
 5. [Time management.](#timemanagement)
-6. [Sense of Belonging & Belongingness & Belonging.](#belonging)
-7. [Unit of measurement.](#unit)
-8. [Commodity.](#commodity)
-9. [GitHub notes.](#github)
-10. [GitHub repository calculation.](#calculation)
+6. [Meditation & mindfulness.](#meditation)
+7. [Sense of belonging & belongingness & belonging.](#belonging)
+8. [Unit of measurement.](#unit)
+9. [Commodity.](#commodity)
+10. [GitHub notes.](#github)
+11. [GitHub repository calculation.](#calculation)
+
+<a name="meditation"></a>
+## 6. Meditation & mindfulness.
+[ meditation definition ]
+[ mindfulness definition ]
+[ human brain architecture ]
+[ human brain activities ]
+[ challenges ]
+[ solution]
 
 <a name="goals"></a>
 ## 1. Goals.
@@ -313,7 +323,7 @@ The main office of the school of engineering will have its subdivision that will
 After completing the first semester, after the first 6 months in the school of engineering built by the company, the students will be sent to either within the company own farm or any other affiliate farms, at least within The Commonwealth realm, to make sure the highest security and safety for the students can always be applied, although the main focus of the school is about civil engineering discipline with government administration studies, they must first master their own time from those who already become the master of the time, from all the successful farmers, successful business farm and estate owners around the entire universe, to gather as much intelligence from the surrounding area, to study well nature, to study the soil and its properties, how to read the surrounding, how to communicate properly with the superiors and the existing co-workers, how to feed an entire nation, to become a well-developed person who always knows how to handle his or her own time, and having a vision on what kind of nation under his or her administration and government he or she wants to look like in his or her future life. Civil engineering is a high-risk business. Neither nature or man is readily predictable and its therefore inevitable that the tasks fulfilling that aim are beset with hazard. The great utilities provided by civil engineering are almost always subject to the limitation of time and budget. They are constructed for impatient clients from imperfect materials and often by less-perfect humans. The profession is frequently at the forefront of knowledge, applying advanced technology to achieve the previously impossible without the benefit of gradual evolution. Mistakes and failures cannot be hidden, and attract subjective public and, or political reaction out of proportion to their consequences, always remember in mind that `an ounce of prevention is worth a pound of cure`.
 
 <a name="belonging"></a>
-## 6. Sense of Belonging & Belongingness & Belonging.
+## 6. Sense of belonging & belongingness & belonging.
 From a psychological perspective, a **sense of belonging** is a basic human need, with many psychologists discussing this need as being at the level of importance of that as food, water, and shelter. A sense of belonging can be so powerful that it can create both value in life and the ability to learn healthy coping skills when experiencing intensive and painful emotions. The importance of a sense of belonging can be traced back to infancy, where researchers have studied skin-to-skin contact between babies and their parents. What researchers have found is that when this is combined with a strong emotional engagement, a baby's developmental growth and its recognition of self increases significantly.
 
 **Belongingness** is the human emotional need to be an accepted member of a group. Whether it is family, friends, co-workers, a religion, or something else, people tend to have an 'inherent' desire to belong and be an important part of something greater than themselves. This implies a relationship that is greater than simple acquaintance or familiarity. The need to belong is the need to give and receive attention to and from others.
