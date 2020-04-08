@@ -20,7 +20,7 @@ In a mission to hire at least 500,000 workers around the world. <br />
 <a name="teman"></a>
 ## 6. [Tools, equipment, materials, environment]
 [ draft definition ]
-[ draft challenges ]
+[ draft challenges ] a poor workman always blames his tools, Mauves ovriers ne trovera ja bon hostill. [A bad workman will never find a good tool.] 
 [ draft solution ]
 
 <a name="goals"></a>
