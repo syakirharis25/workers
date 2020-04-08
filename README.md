@@ -10,21 +10,11 @@ In a mission to hire at least 500,000 workers around the world. <br />
 3. [Benchmarks.](#benchmarks)
 4. [Worker flow.](#workerflow)
 5. [Time management.](#timemanagement)
-6. [Meditation & mindfulness.](#meditation)
-7. [Sense of belonging & belongingness & belonging.](#belonging)
-8. [Unit of measurement.](#unit)
-9. [Commodity.](#commodity)
-10. [GitHub notes.](#github)
-11. [GitHub repository calculation.](#calculation)
-
-<a name="meditation"></a>
-## 6. Meditation & mindfulness.
-[ meditation definition ]
-[ mindfulness definition ]
-[ human brain architecture ]
-[ human brain activities ]
-[ challenges ]
-[ solution]
+6. [Sense of belonging & belongingness & belonging.](#belonging)
+7. [Unit of measurement.](#unit)
+8. [Commodity.](#commodity)
+9. [GitHub notes.](#github)
+10. [GitHub repository calculation.](#calculation)
 
 <a name="goals"></a>
 ## 1. Goals.
