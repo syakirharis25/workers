@@ -21,7 +21,7 @@ In a mission to hire at least 500,000 workers around the world. <br />
 ## 6. [Tools, equipment, materials, environment]
 [ draft definition ] <br />
 [ draft challenges ] a poor workman always blames his tools, Mauves ovriers ne trovera ja bon hostill. [A bad workman will never find a good tool.] <br />
-[ draft solution ] <br />
+[ draft solution ] For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.<br />
 
 <a name="goals"></a>
 ## 1. Goals.
