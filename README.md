@@ -10,7 +10,7 @@ In a mission to hire at least 500,000 workers around the world. <br />
 3. [Benchmarks.](#benchmarks)
 4. [Worker flow.](#workerflow)
 5. [Time management.](#timemanagement)
-6. [Command & Control and CIA triad.](command)
+6. [Command & Control and CIA triad.](#command)
 7. [Sense of belonging & belongingness & belonging.](#belonging)
 8. [Unit of measurement.](#unit)
 9. [Commodity.](#commodity)
