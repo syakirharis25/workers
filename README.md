@@ -10,11 +10,12 @@ In a mission to hire at least 500,000 workers around the world. <br />
 3. [Benchmarks.](#benchmarks)
 4. [Worker flow.](#workerflow)
 5. [Time management.](#timemanagement)
-6. [Sense of belonging & belongingness & belonging.](#belonging)
-7. [Unit of measurement.](#unit)
-8. [Commodity.](#commodity)
-9. [GitHub notes.](#github)
-10. [GitHub repository calculation.](#calculation)
+6. [Command & Control and CIA triad.](command)
+7. [Sense of belonging & belongingness & belonging.](#belonging)
+8. [Unit of measurement.](#unit)
+9. [Commodity.](#commodity)
+10. [GitHub notes.](#github)
+11. [GitHub repository calculation.](#calculation)
 
 <a name="goals"></a>
 ## 1. Goals.
@@ -312,8 +313,46 @@ The main office of the school of engineering will have its subdivision that will
 
 After completed the first semester, after the first 6 months in the school of engineering built by the company, the students will be sent to either within the company own farm or any other affiliate farms, at least within The Commonwealth realm that consist of 54 member states with at least 29,958,050 square kilometres of land and sea area territories, for the first time application, to deal with, to do business with The Foreign and Commonwealth Office (FCO), commonly called the Foreign Office British Foreign Office, one of a department of the Government of the United Kingdom, where the main office is located in King Charles Street, London, United Kingdom, the whole process can take up to 6 weeks or equivalent to 42 days or equivalent to 1,008 hours or equivalent to 60,480 minutes or equivalent to ‭‪3,628,800‬‬ seconds or equivalent to ‭‪3,628,800,000‬‬ milliseconds or equivalent to 3,628,800,000,000‬‬ microseconds to ensure to make sure the highest security and safety for the students can always be applied during their practical training to master their time management, although the main focus of the school is about civil engineering discipline with government administration studies, they must first master their own time from those who already become the master of the time, from all the successful farmers, successful business farm and estate owners around the entire universe, to gather as much intelligence from the surrounding area, to study well nature, to study the soil and its properties, how to read the surrounding, how to communicate properly with the superiors and the existing co-workers, how to feed an entire nation, to become a well-developed person who always knows how to handle his or her own time, and having a vision on what kind of nation under his or her administration and government he or she wants to look like in his or her future life. Civil engineering is a high-risk business. Neither nature or man is readily predictable and its therefore inevitable that the tasks fulfilling that aim are beset with hazard. The great utilities provided by civil engineering are almost always subject to the limitation of time and budget. They are constructed for impatient clients from imperfect materials and often by less-perfect humans. The profession is frequently at the forefront of knowledge, applying advanced technology to achieve the previously impossible without the benefit of gradual evolution. Mistakes and failures cannot be hidden, and attract subjective public and, or political reaction out of proportion to their consequences, always remember in mind that `an ounce of prevention is worth a pound of cure`.
 
+6. [Command & Control and CIA triad.](command)
+
+`It takes a village to raise a child` is an African proverb that means that an entire community of people must interact with children for those children to experience and grow in a safe and healthy environment. A king or a leader must know how to command, to have or excercise direct authority in order to raise child in their community to in a safe and healthy environment, those who know to command or commit is called a "commander". Control means the power to influence or direct people's behaviour or the course of events, to exercise restraining or directing influence over, from Anglo-Norman French `contreroller` ‘keep a copy of a roll of accounts’, from medieval Latin `contrarotulare`, from `contrarotulus` ‘copy of a roll’, from contra- ‘against’ + rotulus ‘a roll’, by the meaning of `control` itself, it means those who want to be in control must know at least to have basic understanding of mathematics, must know how to read properly, take a good care on whatever that he or she feel important in his own posession.
+
+The US Department of Defense Dictionary of Military and Associated Terms, a compendium of terminology used by the United States Department of Defense (DOD), defines command and control as: "The exercise of authority and direction by a properly designated commander over assigned and attached forces in the accomplishment of the mission. Also called C2. Source: JP 1". A 1988 NATO definition is that command and control is the exercise of authority and direction by a properly designated individual over assigned resources in the accomplishment of a common goal. An Australian Defence Force definition, similar to that of NATO, emphasises that C2 is the system empowering designated personnel to exercise lawful authority and direction over assigned forces for the accomplishment of missions and tasks. British Maritime Doctrine (2004) defines Command as the authority granted to an individual to direct, coordinate and control military forces. Control is the actual process through which the Commander organizes, directs and coordinates the activities of forces allocated to him. US Air Force Doctrine Document says that Command and Control is the exercise of authority and direction by a properly designated commander over assigned and attached forces in the accomplishment of the mission. It adds that the process of command and control includes the planning, directing, coordinating, and controlling of forces and operations, whereas the system of command and control includes the personnel, equipment, communications, facilities, and procedures employed by a commander.
+
+Command is a tool that allows the organization to make a structure.  Then there are functional leaders within that structure.  The pilot is a commander and the functional leader comes from that.  The designated leader is the commander and appointed by authority to make decisions. The functional leader is the leader for the time-specific event. Leadership is not a position; it is a means of influence.  Command is a position. A good leader had a clear vision of where they need to go and they inspire others to get there so people will rise to the occasion.  If the leader in the command structure does not trust then the command structure breaks down. The command structure allows for effective flow of information.  Leaders can over ride the people and goes beyond their training and their ability to obey.  Managers will micromanage as they are good at the command function but are poor leaders.
+
+In contrast, Control is the process used to establish and provide structure in order to deal with uncertainties. Visions normally produce change, which in turn produce tension. These uncertainties cause tensions that leaders must deal with so they do not impede the organization. This is far different from most peoples' conception in which they think of control as controlling others. Command communicates the vision or goal to the best people who can implement it. Throughout the process, it adjusts to new knowledge and refines the vision. Control looks for opportunities to reduce risks, which in turn makes the process more efficient.
+
+As a military concept, command places primacy on mission accomplishment. Definitions of command do not include ‘leading’. Nor do
+definitions of command mention the influencing of others, which is a vital component of leadership. In this sense, the essence of command is legal authority to order subordinates to pursue assigned tasks.
+
+Command requires organisational structure and obedience from subordinates. Command is a war-fighting enabler, which must be unambiguous, flexible and efficient. Yet, command is not repressive, and it recognises - besides the moral obligations which people owe to Defence - the moral obligation which individuals owe to themselves. Leadership amplifies command authority. Leaders acknowledge the moral equality of all who serve, and build a climate of mutual respect. In a command position, a leader will not treat people carelessly or off-handedly. Leaders demonstrate consideration and respect for others, which moderates command formality without compromising military effectiveness. Leadership is the core of command success. In positions of command, leaders should personify the ideals of the profession of arms and impress themselves in the consciousness of others as ethical people. Loyalty, trust and dedication are inspired by leadership, not by impersonal command authority. In positions of command and making decisions from a command perspective, leaders trust their judgement, and do the right thing in the right way as they see it. By doing this, leaders meet command responsibilities in good conscience.
+
+Among considerations when applying command and conquer concept in structuring, organizing a company are :
+* If you do not know how to administer, your innovation may not be of any use, it may be too idealistic. An innovative idea detached from pragmatism of administration, is likely to turn into chaos rather than a success.
+* If you cannot efficiently and effectively maintain something, there is no point in developing it as you will soon lose control over it and may not get the desired benefit. It may actually turn into havoc by developing in undesired directions.
+* Becoming people focused is useless if you cannot design and run a good system which channelizes the skills and expertise of your people towards achievement of a common goal. An ineffective system which wastes peoples’ skills soon leads them to demotivation which no amount of people-focus can compensate.
+* If you are unable to control and evaluate the activity for which you inspire your people, the failure to achieve desired results will frustrate your people and destroy that inspiration. They will not get inspired for any activity in future.
+* If you have the long range perspective but lack the skills required for a short range view of details, the moment you take the first step towards the long range perspective, you are beaten back by immediate hurdles which you did not foresee as you were too busy in setting the long range goals. After all, every step of a ladder counts towards reaching the top of the wall.
+* If you do not have the skills of executing and implementing a thing in the right way till its completion, there is no point in determining the right things. Right things will soon go down the drain if not handled in a right and logical manner.
+
+Where poor organizations see and expect different roles from their people, great organizations demand complete leadership role from every position, at different levels, and expect every manager to act as contributor towards forward movement. Their managers are not mere administrators, maintainers, controllers, system-oriented and locked to short range perspective, but innovators, developers, people-oriented and far-sighted as well. The result is a complete harmony resulting in a synergetic movement towards great heights. Where poor organizations blame ‘other’ factors for their failure, great organizations succeed on their inner strength.
+
+Australian Department of Defence book on Leadership (2007) says that although the terms of Command, Leadership and Management are closely related, each has a common purpose, which is accomplished in different ways. It adds that Command does not equate to Leadership and is wholly different from corporate Management. It says that Command is the authority bestowed on an appointment which provides legal authority to achieve a task, and that Leadership and Management are the two means through which the task is completed. It explains that Leadership involves inspiring and motivating people, while management deals with resources and processes necessary to plan organize, direct and control action. It adds that Management can be actioned without leadership; however, without leadership management becomes routine processes and administration, Management, of itself, does not motivate. The doctrine concludes that proficiency in all three functions will create success on the battlefield and a poor performance in any of the three functions could lead to failure.
+
+Confidentiality, integrity and availability, also known as the CIA triad, is a model designed to guide policies for information security within an organization. The model is also sometimes referred to as the AIC triad (availability, integrity and confidentiality) to avoid confusion with the Central Intelligence Agency. The elements of the triad are considered the three most crucial components of security.
+
+Confidentiality is roughly equivalent to privacy. Measures undertaken to ensure confidentiality are designed to prevent sensitive information from reaching the wrong people, while making sure that the right people can, in fact, get it: Access must be restricted to those authorized to view the information in question. Integrity involves maintaining the consistency, accuracy, and trustworthiness of data and information over its entire life cycle. Information must not be changed in transit, and steps must be taken to ensure that information cannot be altered by unauthorized people. Availability is best ensured by rigorously maintaining all hardware, performing hardware repairs immediately when needed and maintaining a correctly functioning operating system environment that is free of software conflicts. It’s also important to keep current with all necessary system upgrades.
+
+To understand how the CIA triad works in practice, consider the example of a bank automated teller machine (ATM), which can offer users access to bank balances and other information. An ATM has tools that cover all three principles of the triad:
+* It provides confidentiality by requiring two-factor authentication (both a physical card and a PIN code) before allowing access to data.
+* The ATM and bank software enforce data integrity by ensuring that any transfers or withdrawals made via the machine are reflected in the accounting for the user's bank account
+* The machine provides availability because it's in a public place and is accessible even when the bank branch is closed.
+
+The best way to ensure that your data, information is available is to keep all your systems up and running, and make sure that they're able to handle expected network loads. This entails keeping hardware up-to-date, monitoring bandwidth usage, and providing failover and disaster recovery capacity if systems go down.
+
 <a name="belonging"></a>
-## 6. Sense of belonging & belongingness & belonging.
+## 7. Sense of belonging & belongingness & belonging.
 From a psychological perspective, a **sense of belonging** is a basic human need, with many psychologists discussing this need as being at the level of importance of that as food, water, and shelter. A sense of belonging can be so powerful that it can create both value in life and the ability to learn healthy coping skills when experiencing intensive and painful emotions. The importance of a sense of belonging can be traced back to infancy, where researchers have studied skin-to-skin contact between babies and their parents. What researchers have found is that when this is combined with a strong emotional engagement, a baby's developmental growth and its recognition of self increases significantly.
 
 **Belongingness** is the human emotional need to be an accepted member of a group. Whether it is family, friends, co-workers, a religion, or something else, people tend to have an 'inherent' desire to belong and be an important part of something greater than themselves. This implies a relationship that is greater than simple acquaintance or familiarity. The need to belong is the need to give and receive attention to and from others.
@@ -361,7 +400,7 @@ Palladium in the platinum-group metals, for example, acts as an excellent cataly
 Currently, the biggest suppliers of the six platinum-group metals, the ruthenium, rhodium, palladium, osmium, iridium, and platinum, comes from African regions, Russia and North America. By hook or by crook, must try to learn their language, cultures and interests, also what is happening inside their politics and government administrations, to make all civil engineering related works to flow without any interruption, hire as many people as possible into the company, from all kind of backgrounds to ease all chain of supplies.
 
 <a name="unit"></a>
-## 7. Unit of measurement.
+## 8. Unit of measurement.
 A unit of measurement is a definite magnitude of a quantity, defined and adopted by convention or by law, that is used as a standard for measurement of the same kind of quantity. Any other quantity of that kind can be expressed as a multiple of the unit of measurement. Measurement is a process of determining how large or small a physical quantity is as compared to a basic reference quantity of the same kind.
 <br /><br />
 The definition, agreement, and practical use of units of measurement have played a crucial role in human endeavour from early ages up to the present. A multitude of systems of units used to be very common. Now there is a global standard, the International System of Units (SI), the modern form of the metric system.
@@ -450,7 +489,7 @@ Unit of measurement used in this mission.
 ```
 
 <a name="commodity"></a>
-## 8. Commodity.
+## 9. Commodity.
 The word commodity came into use in English in the 15th century, from the French commodité, "amenity, convenience". Going further back, the French word derives from the Latin commoditas, meaning "suitability, convenience, advantage". The Latin word commodus (from which English gets other words including commodious and accommodate) meant variously "appropriate", "proper measure, time, or condition", and "advantage, benefit". In short, commodity means **_a useful or valuable thing_**.
 
 ```
@@ -509,7 +548,7 @@ Commodity used in this mission
 ```
 
 <a name="github"></a>
-## 9. GitHub notes.
+## 10. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/workers.git
@@ -519,7 +558,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 10. GitHub repository calculation.
+## 11. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
