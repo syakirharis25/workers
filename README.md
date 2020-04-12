@@ -235,6 +235,9 @@ Convention on Wetlands?  : https://www.ramsar.org/sites/default/files/documents/
 **_library references_** <br />
 House of Commons Library : https://www.parliament.uk/commons-library <br />
 
+**_ocean references_** <br />
+Key Physical Variables in the Ocean: Temperature, Salinity, and Density by The Nature Education : https://www.nature.com/scitable/knowledge/library/key-physical-variables-in-the-ocean-temperature-102805293/ <br />
+
 **_army references_** <br />
 Australian Army : https://www.army.gov.au <br />
 
