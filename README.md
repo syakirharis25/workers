@@ -157,7 +157,7 @@ For supercomputer project with an efficient cooling system, to house the company
 
 School Learning Flow Level : [ Time Master ] -> [ Well Rounded Commander ] -> [ Civil Engineering Apprentice ] -> [ Degree of Master Mason ]
 
-School Learning Flow Duration : [ 6 months + 3 months ] -> [ 6 months + 3 months ] -> [ 6 months + 6 months ] -> [ infinity ] | completed 25,000 hours in the company school, then publish a book to receive a degree, will be archieve in the school library for others future reference
+School Learning Flow Duration : [ 6 months + 3 months ] -> [ 6 months + 3 months ] -> [ 6 months + 6 months ] -> [ infinity ] | completed 25,000 hours in the company school, then publish a book to receive a degree, will be archieved in the school library for others future reference
 
 EVERY 25 YEARS
 ---
@@ -381,7 +381,7 @@ For the student of the school of engineering who already completed their first s
 
 School Learning Flow Level : [ Time Master ] -> [ Well Rounded Commander ] -> [ Welcome to the world of engineering ! ]
 
-School Learning Flow Duration : [ 6 months + 3 months ] -> [ 6 months + 3 months ] -> [ infinity ] | completed 25,000 hours in the company school, then publish a book to receive a degree, will be archieve in the school library for others future reference
+School Learning Flow Duration : [ 6 months + 3 months ] -> [ 6 months + 3 months ] -> [ infinity ] | completed 25,000 hours in the company school, then publish a book to receive a degree, will be archieved in the school library for others future reference
 
 <a name="belonging"></a>
 ## 7. Sense of belonging & belongingness & belonging.
