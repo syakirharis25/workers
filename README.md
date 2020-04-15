@@ -49,6 +49,8 @@ For every worker who needs to move more than 1 miles, at least more than 5,000 s
 
 Every night, before 11 pm, do a daily check-up on the kitchens and bathrooms, make sure everything is working fine, in good order, in a good arrangement, clean and tidy, without any mess. If everything is strange or broken, take some simple notes of it, try to fix it within 24 hours, the clean working environment creates a clean mind for everyone, easy to reach meaning easier access for everyone.
 
+Spend at most 1 hours, every 8 hours to communicate with the workers, try to understand more about workers behaviours. Design at least a solution, better workflow for the workers within 24 hours of time after each conversation. Eliminate anything that does not add value to the workers, work systematically and continuously to create more value for the workers. Define, visualize, optimize, and manage the entire organizational value stream as one value-generating system. Make decisions that optimize the entire organization’s ability to deliver value to the workers, not just one team or department.
+
 EVERY 2 DAYS
 ---
 Make sure everyone can get at least 8 hours sleep and rest, do a rotation of workers if any of them is not enough of rest. Allocate enough resources for at least 5 substitute workers for one week of work, in any case of emergencies occurs.
