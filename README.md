@@ -117,6 +117,10 @@ At least 5 days break for Aidil-fitri (2 last days in Ramadhan and 3 first days 
 
 *** Every worker that reached the level of the **Centurion**, successfully managed their own 100 men or women, ask him or her, if he or she is interested in becoming a **Legion** for at least 25 years of service, commanding at least 5,000 men or women under him or her, grant him or her a title of **Lord** if he or she successfully managed 5,000 men or women under him or her, become the main **Legend** of his or her people, his or her tribe, the real master of food and drink supply chain and its flow for his or her people, his or her tribe, then at the end of his or her 25 years of service for the company, that worker will own some piece of land and building under his or her complete control and authority with a special ceremony by the company will be held for him or her, and a special tribute and respect, from at least, all of his or her minimum 5,000 men or women, under his or her command, supervision, within his or her 25 years of service to the company. 
 
+EVERY 2 YEARS
+---
+Host company grand presentation, focusing on the complex logistics operation, solving other major issues like "Peter Principle"; an observation that the tendency in most organizational hierarchies, such as that of a corporation, is for every employee to rise in the hierarchy through promotion until they reach a level of respective incompetence. Revise the skill training for workers receiving a promotion, and to ensure the training is appropriate for the position to which they have been promoted.
+
 EVERY 3 YEARS
 ---
 Develop internal technology roadmap software to make knowledge transfer easier within the company, gathering expert insight to display, document, making a diagram that illustrates the technology and tools used by the company. Technology roadmaps are created to help business leaders plan and strategize which, when, and why certain technologies will be onboarded while avoiding expensive mistakes and even planning for technologies becoming obsolete.
