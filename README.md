@@ -105,6 +105,10 @@ One of the most important qualities a good chef has is building intelligence, th
 
 Chefs also have the responsibilities of planning menus, help and supervise the preparation of dishes as well as developing recipes. The chefs order supplies and receive them in the kitchen. It is also a duty of the chefs to maintain cleanliness in the kitchen.
 
+EVERY 12 MONTHS
+---
+Invent a solution on how to make all the food and drinks can last for at least another 12 months, take notes of the expiry date, make sure all the food and drink supply is always enough for all workers in the next full year, 12 months.
+
 EVERY 13 MONTHS
 ---
 At least 5 days break for Aidil-fitri (2 last days in Ramadhan and 3 first days in Shawwal, from 29 Ramadhan to 3 Shawwal following at-taqwīm al-hijrī calendar), at least 7 days break for Aidil-Adha (from 8 Zulhijjah to 14 Zulhijjah following at-taqwīm al-hijrī calendar), 20 days break from 23 December to 11 January every 13 months. 25 days break for yearly travel and pilgrimage of Israk Mi'raj, to travel with the workers and family members to Masjidil Haram in Mecca and Masjidil Aqsa in Palestine, travel by land, air and sea, mostly by walking on land when already arrived on Masjidil Haram in Mecca and Masjidil Aqsa in Palestine land area, starting from 22 Rejab to 17 Sha'ban following at-taqwīm al-hijrī calendar, must arrive on Masjidil Haram in Mecca before Subuh, before 5 am on 25 Rejab, must arrive on Masjidil Aqsa before the Maghrib, before 6 pm on 27 Rejab, must arrive on Masjidil Haram in Mecca before Subuh, before 5 am on 15 Sha'ban. Annual break for every 13 months must be at least 37 days or equivalent to 888 hours, or equivalent to 53,280 minutes, or equivalent to 53,280 minutes, ‪or equivalent to 3,196,800‬ seconds, or equivalent to ‪3,196,800,000‬ milliseconds, or equivalent to ‭‪3,196,800,000,000‬‬ microseconds, combining the breaks in the months of Ramadhan, Shawwal, Zulhijjah, Rejab and Sha'ban following at-taqwīm al-hijrī calendar.
