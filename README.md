@@ -1,6 +1,6 @@
 # workers
 In a mission to hire at least 500,000 workers around the world. <br />
-`If you are grateful, thankful, showing an appreciation for something you received. I will surely increase you in greatness, highness, the quality of being high... [14:7]`
+`If you are grateful, thankful, showing an appreciation for something you received. I will surely increase you in greatness, highness, the quality of being high... [14:7]` | curently on 19 April 2020, at least over 600,650,000 humans on planet Earth still live in extreme poverty, lack of the means necessary to meet basic personal needs, such as food, clothing and shelter, not even a single human escaped extreme poverty in a day, within 24 hours duration.
 
 <img src="work-hard.jpg" height="200"> 
 
@@ -246,6 +246,9 @@ Haramain : https://www.haramain.com, http://www.haramain.info <br />
 **_Masjidil Aqsa related references_** <br />
 UNICEF State of Palestine : https://www.unicef.org/sop/ <br />
 The United Nations Children's Fund : https://www.unicef.org <br />
+
+**_poverty references_** <br />
+World Poverty Clock : https://worldpoverty.io <br />
 
 **_air references_** <br />
 Ambient (outdoor) air pollution by World Health Organization (WHO) : https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health <br />
