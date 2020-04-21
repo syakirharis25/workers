@@ -420,7 +420,7 @@ For the workers who already be with the company for at least **pars minuta prima
 
 EVERY FULL MOON REVISION (AFTER 4 INITIAL YEARS)
 ---
-For the event every leap year on Gregorian Calendar, on every 29 February, which happens only every 4 years on this earth. The workers who are assigned tasks to raise the livestock, especially the cows, will be given 50% share of the ownership of all the calf produced by all the cows (100% owned by the company), so they can feel a sense of belonging to all the cows and calves under their care, to produce more cows and calves for the company in their service to the company.
+For the event every leap year on Gregorian Calendar, on every 29 February, which happens only every 4 years on this earth. The workers who are assigned tasks to raise the livestock, especially the cows, will be given 50% share of the ownership of all the calf produced by all the cows (100% owned by the company), so they can feel a sense of belonging to all the cows and calves under their care, to produce more cows and calves for the company in their service to the company. When the worker becomes a leader of a tribe, meaning a leader of 100 workers, he or she will receive another 25% share of the ownership of all the calf produced by all the cows (100% owned by the company). On the first and second year of the worker service to the company, the company will own 100% of all the cows, and the third and fourth year will follow 50%-50% ownership rule to give enough chance and time for cows to reproduce, to make sure all the cows are always enough for every single worker in the company.
 
 Normally cows that produced milk for humans often give birth every 400 days or more. They are highly motivated to look for food and forage for 6 to 10 hours a day, grass and concentrates may only provide enough energy for the cows to produce 5,000 litres of milk of production per year. Gestation, the process or period of developing inside the womb between conception and birth, does vary by breed and by sex of the calf, the ranges from 279 to 287 days are normal for the cows that didn't produce milk for humans. For most breeds, 283 days would be common. Cows carrying bull calves, male calves, tend to have a slightly longer gestation compared to cows carrying heifer calves, female calves.
 
@@ -435,7 +435,13 @@ Second Year : 10 cows :: (PARENT : 5 males + 5 females)
 Third Year : 14 cows :: (PARENT : 5 males + 5 females) + (CHILDREN : 2 males + 2 females)
 Fourth Year : 18 cows :: (PARENT : 5 males + 5 females) + (CHILDREN : 4 males + 4 females)
 
-Therefore: 14 cows owned by the company (10 PARENT cows + 4 CHILDREN cows), while another 4 cows (4 CHILDREN cows) fully owned by the workers to create a sense of belonging for their daily works for the company
+Therefore: 14 cows owned by the company (10 PARENT cows + 4 CHILDREN cows), while another 4 cows (4 CHILDREN cows) fully owned by the workers to create a sense of belonging for their daily works for the company.
+
+[ The worker finally become a leader of his or her tribe, become a Centurion, a leader of 100 men or women ]
+Fifth Year
+...
+(PARENT : 5 males + 5 females) + (CHILDREN : 4 males + 4 females) => (GRANDCHILDREN : 10 males + 10 females)
+(PARENT [ ALL COWS 100% owned by the company ] + (CHILDREN : 4 cows owned by the workers, 4 cows owned by the company) + (GRANDCHILDREN : 15 cows owned by the  workers, 5 cows owned by the company)
 ```
 
 EVERY 25 YEARS REVISION
