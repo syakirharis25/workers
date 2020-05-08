@@ -84,8 +84,10 @@ At least 5 hours break for Friday prayer, starting from 12 pm to 5 pm.
 
 1) FREE Salt (1 US tablespoon equivalent to 14.7868 millilitres, per capita)
 2) FREE Citrus (1 citrus of at least  3 centimetres in diameter, per capita)
+3) FREE Alcohol (500 mililitres, must be at least pH 6 to make it as safe as possible, per capita)
 
 * There are at least 110 species of citrus on planet Earth to choose from for the workers, to make sure they are always in a good health every weekend to do their daily works. Every week make sure to check their teeth and tongue, give them at least 1 citrus if found anything strange on their teeth and tongue, and give them rest of at least 24 hours, 1 full day off, to give them enough time for health recovery.
+* Alcohol is mainly made from potatoes as it is highly available, typically takes about 10 weeks after planting for most potato varieties to produce tubers large enough to eat, safe for human consumption, there are at least 5,000 potato varieties worldwide. Alcohol made from potatoes generally is safe for human consumption, better it is over pH 6, power of hydrogen or potential for hydrogen that is avoid the scale of 6 to avoid any possibility that it can turn into poison if the worker put the alcohol made from potatoes into any metal-made cup or container. Alcohol-based handrub is the gold standard of care for hand hygiene practice in healthcare settings, whereas handwashing is reserved for situations when hands are visibly soiled, or when gloves have not been worn. The use of alcohol-based solutions containing emollients causes less skin irritation and dryness and requires less time than washing hands with soap or other disinfectants.
 
 Make sure to count everything is enough for every worker, make use of the unit of measurement and commodity used for the mission, always make calculation on the differences of the supply, take notes of anything happening in the supply chain. Plot a simple weekly graph and do simple statistics about it to read what is happening to it.
 
