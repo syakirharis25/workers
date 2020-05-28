@@ -27,7 +27,7 @@ The reason why kupang is selected as the currency for freshly recruited company 
 
 Fresh workers training ratio : **[1:1]** -> **[1:10]** -> **[1:60]** <br />
 Fresh workers training duration : **[2 months]** -> **[30 months]** -> **[2 months]** | about 3 years <br />
-Training objective : financial freedom for each individual workers, understand concept of logistics, fit properly with company culture <br />
+Training objective : financial freedom for each individual workers, understand logistics, fit properly with company culture <br />
 
 <a name="goals"></a>
 ## 2. Goals.
