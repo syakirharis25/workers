@@ -31,6 +31,8 @@ Fresh workers training, mentoring, advising ratio : **[1:1]** -> **[1:10]** -> *
 Fresh workers training, mentoring, advising duration : **[2 months]** -> **[30 months]** -> **[2 months]** | about 3 years <br />
 Training objectives : financial freedom for each individual workers, understand logistics, fit properly with company culture <br />
 
+Next mission plan revision date : **21 June 2020**, during the "ring of fire" eclipse, it will be visible to the normal human eyes when they look up to the sky from most of Asia, much of Africa,  southeast Europe, with a partial eclipse visible in northern Australia. An annular solar eclipse happens when the Moon covers the Sun's center, leaving the Sun's visible outer edges to form a “ring of fire” or annulus around the Moon. It is also known as Annular Solar Eclipse, the name “annular” comes from the Latin word for ring, “annulus.” These eclipses are named for their darkest, or maximum, point even if it only lasts less than a second. <br />
+
 <a name="goals"></a>
 ## 2. Goals.
 
