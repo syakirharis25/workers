@@ -30,6 +30,7 @@ In the next stage, when the workers, the group of 10 workers agreed, made an off
 Fresh workers training, mentoring, advising ratio : **[1:1]** -> **[1:10]** -> **[1:60]** <br />
 Fresh workers training, mentoring, advising duration : **[2 months]** -> **[30 months]** -> **[2 months]** | about 3 years <br />
 Training objectives : financial freedom for each individual workers, understand logistics, fit properly with company culture <br />
+Workers recruitment priority : workers within the same region, state, country government, to ease all the trade activities in the area, to give them maximum protection and security that originally under protection, care of their government, their own trusted people
 
 Poor class definition : following the common international poverty line (IPL) historical definition, income less than US$1 per day <br />
 
