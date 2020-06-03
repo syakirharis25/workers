@@ -35,8 +35,8 @@ Workers recruitment priority : workers within the same region, state, country go
 
 Poor class definition : following the common international poverty line (IPL) historical definition, income less than US$1 per day <br />
 
-Mission duration period : for the first phase, it will take **at least 11 years**; case study based on Microsoft Corporation <br />
-Mission provision period : sustainable; do not expect any profit for **at least 5 years**; case study based on Amazon.com <br />
+Mission duration period : for the first phase, it will take **at least 11 years** <br />
+Mission provision period : sustainable, able to survive; do not expect any profit for **at least 5 years** <br />
 Mission main principle : never trust, always verify; **Zero Trust = Authentication + Authorization + Encryption** <br />
 Mission main idealogy : anything is possible in this world but one thing for sure to accomplish the mission, **WORK HARD !!!** <br />
 
