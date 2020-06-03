@@ -35,8 +35,8 @@ Workers recruitment priority : workers within the same region, state, country go
 
 Poor class definition : following the common international poverty line (IPL) historical definition, income less than US$1 per day <br />
 
-Mission duration period : for the first phase it will take **at least 11 years**; company case study based on Microsoft Corporation <br />
-Mission provision period : sustainable for **at least 5 years**, do not expect any profit for at least 5 years; company case study Amazon.com <br />
+Mission duration period : for the first phase it will take **at least 11 years**; case study based on Microsoft Corporation <br />
+Mission provision period : sustainable, do not expect any profit for at least 5 years **at least 5 years**; case study based on Amazon.com <br />
 Mission main idealogy : anything is possible in this world but one thing for sure to accomplish the mission, **WORK HARD !!!** <br />
 
 Next mission plan revision date : **21 June 2020**, during the "ring of fire" eclipse, it will be visible to the normal human eyes when they look up to the sky from most of Asia, much of Africa,  southeast Europe, with a partial eclipse visible in northern Australia. An annular solar eclipse happens when the Moon covers the Sun's center, leaving the Sun's visible outer edges to form a “ring of fire” or annulus around the Moon. It is also known as Annular Solar Eclipse, the name “annular” comes from the Latin word for ring, “annulus.” These eclipses are named for their darkest, or maximum, point even if it only lasts less than a second <br />
