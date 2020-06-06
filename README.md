@@ -31,7 +31,7 @@ Fresh workers training, mentoring, advising ratio : **[1:1]** -> **[1:10]** -> *
 Fresh workers training, mentoring, advising duration : **[2 months]** -> **[30 months]** -> **[2 months]** | about 3 years <br />
 Training objectives : financial freedom for each individual workers, understand logistics, fit properly with company culture <br />
 
-Finance education training currency flow structure : **[ 10 kupang / assarius : 1 deni / penny ]** -> **[ 12 deni / denarius / penny / pence : 1 shilling ]** -> **[ 20 shillings : 1 pound / £ 1 ]** == **[ 240 deni / denarius / penny / pence : 1 pound / £ 1 ]** representing 24 hours in a single day | using promissory notes system; specific promise to pay along with the steps and timeline for repayment as well as consequences if repayment fails
+Finance education training currency flow structure : **[ 10 kupang / assarius / assarii : 1 deni / penny ]** -> **[ 12 deni / denarius / penny / pence : 1 shilling ]** -> **[ 20 shillings : 1 pound / £ 1 ]** == **[ 240 deni / denarius / penny / pence : 1 pound / £ 1 ]** representing 24 hours in a single day | using promissory notes system; specific promise to pay along with the steps and timeline for repayment as well as consequences if repayment fails
 
 there were 20 shillings per pound and 12 pence per shilling, and thus there were 240 pence in a pound. 
 
