@@ -17,7 +17,7 @@ In a mission to hire at least 500,000 workers around the world. <br />
 10. [Commodity.](#commodity)
 11. [GitHub notes.](#github)
 12. [GitHub repository calculation.](#calculation)
-
+<br /><br />
 13. [Business, enterprise, company and methodologies. (DRAFT, need to gain more experience, more observations before writing about this subject).](#draft)
 
 <a name="mission"></a>
