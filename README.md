@@ -18,7 +18,7 @@ In a mission to hire at least 500,000 workers around the world. <br />
 11. [GitHub notes.](#github)
 12. [GitHub repository calculation.](#calculation)
 <br /><br />
-13. [Business, enterprise, company and methodologies. (DRAFT, need to gain more experience, more observations before writing about this subject).](#draft)
+13. [Business, enterprise, company and methodologies. (DRAFT, need to gain more experience, more observations before writing about this subject).](#draft) -- schedule to publish before Thursday, 20 April 2023, during total solar eclipse, a solar eclipse occurs when the Moon passes between Earth and the Sun, thereby totally or partly obscuring the image of the Sun for a viewer on Earth, a total solar eclipse occurs when the Moon's apparent diameter is larger than the Sun's, blocking all direct sunlight, turning day into darkness.
 
 <a name="mission"></a>
 ## 1. Mission introduction.
