@@ -18,6 +18,8 @@ In a mission to hire at least 500,000 workers around the world. <br />
 11. [GitHub notes.](#github)
 12. [GitHub repository calculation.](#calculation)
 
+13. [Business, enterprise, company and methodologies. (DRAFT, need to gain more experience, more observations before writing about this subject).](#draft)
+
 <a name="mission"></a>
 ## 1. Mission introduction.
 
