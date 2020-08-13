@@ -503,6 +503,8 @@ Palladium in the platinum-group metals, for example, acts as an excellent cataly
 
 Currently, the biggest suppliers of the six platinum-group metals, the ruthenium, rhodium, palladium, osmium, iridium, and platinum, comes from African regions, Russia and North America. By hook or by crook, must try to learn their language, cultures and interests, also what is happening inside their politics and government administrations, to make all civil engineering related works to flow without any interruption, hire as many people as possible into the company, from all kind of backgrounds to ease all chain of supplies.
 
+*** This also applies when you are working for others, with the company trade partners, the main property, the trees never belong to you, unless that property produces some profit, that tree produces some fruits, then some of it can belong to you when you ask it first from the owner under mutual agreement from both parties, normally humans will share some of their belongings to those who work well, treat them good but in the first place, you must always remember that property, like the trees, or any livestocks belongs to them, not you. Work hard until people fully believe in you, then maybe one day, people acknowledge you.
+
 <a name="unit"></a>
 ## 9. Unit of measurement.
 A unit of measurement is a definite magnitude of a quantity, defined and adopted by convention or by law, that is used as a standard for measurement of the same kind of quantity. Any other quantity of that kind can be expressed as a multiple of the unit of measurement. Measurement is a process of determining how large or small a physical quantity is as compared to a basic reference quantity of the same kind.
