@@ -17,8 +17,9 @@ In a mission to hire at least 500,000 workers around the world. <br />
 10. [Commodity.](#commodity)
 11. [GitHub notes.](#github)
 12. [GitHub repository calculation.](#calculation)
+13. [Workers registration requirements.](#requirements)
 <br /><br />
-13. [Business, enterprise, company and methodologies. (DRAFT).](#draft) -- schedule to publish before Thursday, 20 April 2023, during total solar eclipse, a solar eclipse occurs when the Moon passes between Earth and the Sun, thereby totally or partly obscuring the image of the Sun for a viewer on Earth, a total solar eclipse occurs when the Moon's apparent diameter is larger than the Sun's, blocking all direct sunlight, turning day into darkness.
+14. [Business, enterprise, company and methodologies. (DRAFT).](#draft) -- schedule to publish before Thursday, 20 April 2023, during total solar eclipse, a solar eclipse occurs when the Moon passes between Earth and the Sun, thereby totally or partly obscuring the image of the Sun for a viewer on Earth, a total solar eclipse occurs when the Moon's apparent diameter is larger than the Sun's, blocking all direct sunlight, turning day into darkness.
 
 <a name="mission"></a>
 ## 1. Mission introduction.
@@ -675,3 +676,8 @@ Markdown                         1              5              0             26
 -------------------------------------------------------------------------------
 ```
 Refer to: https://github.com/syakirharis25/cloc
+
+<a name="requirements"></a>
+## 13. Workers registration requirements.
+
+Every worker must at least completed their state government senior year, twelfth grade, year 12 or grade 12, in some country like Norway, the senior year as what most countries called the twelfth grade does not exist as the education system in Norway is only compulsory until 10th grade. As long as the state government published their official certificate of attendance, certificate of completion of the state government secondary education system for the worker who wishes to register into the company. Then they are eligible to enlist themself into any missions in the company. That's it, there is no age limit or other requirements, just finish your secondary state government school system to make all the process involving with the state government easier to accomplish your missions, works and jobs with the company.
