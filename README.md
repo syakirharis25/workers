@@ -374,6 +374,17 @@ There are on average about 250 human babies born every minute, more than 130 mil
 **_REALM_**  <br />
 **[ Person ]** --> **[ Tribe ]** --> **[ Legion ]** --> **[ Government ]**  <br />
 
+--- SPILLED BY BLOOD FLOW ---
+
+**_RATIO_** (FIRST PRIORITY) <br />
+**[ 1:1 ]** --> **[ 1:100,000 ]** --> **[ 1:500,000 ]**  <br />
+
+**_DURATION_** (SECOND PRIORITY) <br />
+**[ 0 -> 36 months ]** --> **[ 36 months -> 25 years ]** --> **[ 25 years -> infinity ]**  <br />
+
+**_REALM_**  <br />
+**[ Person ]** --> **[ Legion ]** --> **[ Government ]**  <br />
+
 *** Nothing is impossible in the world of engineering, the word engineer (Latin : ingeniator) is derived from the Latin words ingeniare ("to create, generate, contrive, devise") and ingenium ("cleverness"). If the worker, he or she want to rise to be the **Rex**, to rule his or her kingdom, his or her government, nothing is impossible if he or she believes that he or she can do it in his or her lifetime. <br />
 
 *** If within a year, no one can recruit more than 100 workers to be in his or her group of workers, and there are enough 100 workers inside the company, then there will be an election to elect the leader in the level of Centurion, candidacy will be based on his or her performance, mission accomplishment drafted on the cumulative frequency chart, so every worker in the company can make better decision to choose their leader to lead them for tasks and missions on the following year during their service to the company.
