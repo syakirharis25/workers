@@ -374,7 +374,9 @@ There are on average about 250 human babies born every minute, more than 130 mil
 **_REALM_**  <br />
 **[ Person ]** --> **[ Tribe ]** --> **[ Legion ]** --> **[ Government ]**  <br />
 
---- SPILLED BY BLOOD FLOW ---
+--- SPILLED BY BLOOD FLOW | at least 100 Centurions must exist first ---
+**_LEVEL_** <br />
+**[ Fresh Worker ]** --> **[ Lord ]** --> **[ Rex ]**  <br />
 
 **_RATIO_** (FIRST PRIORITY) <br />
 **[ 1:1 ]** --> **[ 1:100,000 ]** --> **[ 1:500,000 ]**  <br />
