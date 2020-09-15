@@ -738,7 +738,7 @@ For the first 6 months, all you need to do is just to practice to be punctual on
 
 Second semester, another 6 months, the first month -> Decimation | Tooth-to-tail ratio |There were 10 contubernia (8 men) each led by a decanu. 
 
-10 - 1 -> group of 20 -> group of 8 | office take over
+10 - 1 -> group of 20 -> group of 8 | office take over | scenario in assisting a battalion, a group of 1,000 fighting men / women
 
 The flow of competency level when the company school of engineering is fully established in the future : [ Time Master ] -> [ Well Rounded Commander ] -> [ Civil Engineering Apprentice ] -> [ Degree of Master Mason ]
 
