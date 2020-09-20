@@ -744,6 +744,8 @@ The letter “k” was chosen to denote the verbal prefix “kilo”, which orig
 
 The flow of competency level when the company school of engineering is fully established in the future : [ Time Master ] -> [ Well Rounded Commander ] -> [ Civil Engineering Apprentice ] -> [ Degree of Master Mason ]
 
+Masons work in the construction industry. They are typically responsible for the construction of the foundation and walls of buildings and lay the blocks and bricks used for these structures. Masonry work must be highly durable, and masons work with sturdy construction materials, including cement, brick, stone, and concrete block. It can be a physically demanding role with a lot of heavy lifting and manual.
+
 First experimental supercomputer launch date : 8 September 2040 during planetary alignment of Mercury, Venus, Mars, Jupiter, Saturn and the crescent Moon, planets will be close to the horizon as darkness is falling.
 
 
