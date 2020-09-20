@@ -746,6 +746,6 @@ The flow of competency level when the company school of engineering is fully est
 
 Masons work in the construction industry. They are typically responsible for the construction of the foundation and walls of buildings and lay the blocks and bricks used for these structures. Masonry work must be highly durable, and masons work with sturdy construction materials, including cement, brick, stone, and concrete block. It can be a physically demanding role with a lot of heavy lifting and manual.
 
+When it comes to building and construction, masons have one of the most important and difficult jobs. They build structures, sometimes enormous buildings, from individual blocks or units. Because masonry usually forms a structure from the base up, it’s vital that each unit be perfectly level and plumb. Going out of level, even the smallest amount, can result in instability for the rest of the structure. So, it’s important that a mason have the right tools on the job site to help ensure that each project they tackle is sound. From plumb bobs to lasers, masons have a variety of tools to choose from, but the one that gets the most use, and is almost always at hand, is the level. A good, accurate level will ensure that each stage of the structure is plumb, level and structurally sound.
+
 First experimental supercomputer launch date : 8 September 2040 during planetary alignment of Mercury, Venus, Mars, Jupiter, Saturn and the crescent Moon, planets will be close to the horizon as darkness is falling.
-
-
