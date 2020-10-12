@@ -2,6 +2,13 @@
 In a mission to hire at least 500,000 workers around the world. <br />
 `If you are grateful, thankful, showing an appreciation for something you received. I will surely increase you in greatness, highness, the quality of being high... [14:7]` | curently on 19 April 2020, at least over 600,650,000 humans on planet Earth still live in extreme poverty, lack of the means necessary to meet basic personal needs, such as food, clothing and shelter, not even a single human able to escape extreme poverty in a second.
 
+```
+CURRENT BENCHMARK
+---
+United States Department of Defense | Government | United States of America : over 9.5 million workers, founded 18 September 1947; 73 years ago
+Walmart Inc. | Private | United States of America : over 2.2 million workers, founded 2 July 1962; 58 years ago
+```
+
 <img src="work-hard.jpg" height="200"> 
 
 ## Table of Contents
