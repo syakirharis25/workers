@@ -11,6 +11,8 @@ Walmart Inc. | Private | United States of America : over 2.2 million workers, fo
 
 <img src="work-hard.jpg" height="200"> 
 
+Normally, it will take years to develop the proper, precise and accurate logistic system, `amateurs strategy, professionals talk logistics`, always try to be grateful with whatever you currently have right now, either you love it, or you hate it, everything must arrive from all parts of the world in perfect order, at the right time, at the right location, or you can't make the final product, The Nobel Prize winner of **1976 Prize in Economic Sciences** explains about this in a very good detail explanation, it is not all about the money, it is all about the ease of doing all the trade, the transfer of goods or services from one person or entity to another.
+
 ## Table of Contents
 1. [Mission introduction.](#mission)
 2. [Goals.](#goals)
