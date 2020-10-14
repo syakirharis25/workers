@@ -11,7 +11,7 @@ Walmart Inc. | Private | United States of America : over 2.2 million workers, fo
 
 <img src="work-hard.jpg" height="200"> 
 
-`amateurs strategy, professionals talk logistics`, everything must arrive from all parts of the world in perfect order, in perfect shape, at the right time, at the right location, to the right person, refer to the explanation of The Nobel Prize winner of **1976 Prize in Economic Sciences**, ease; absence of rigidity or discomfort; freedom from worries or problems; the trades, the transfer of goods and services from one person or entity to another.
+`Amateurs talk strategy. Professionals talk logistics`, everything must arrive from all parts of the world in perfect order, in perfect shape, at the right time, at the right location, to the right person, refer to the explanation of The Nobel Prize winner of **1976 Prize in Economic Sciences**, ease; absence of rigidity or discomfort; freedom from worries or problems; the trades, the transfer of goods and services from one person or entity to another.
 
 ## Table of Contents
 1. [Mission introduction.](#mission)
