@@ -3,10 +3,11 @@ In a mission to hire at least 500,000 workers around the world. <br />
 `If you are grateful, thankful, showing an appreciation for something you received. I will surely increase you in greatness, highness, the quality of being high... [14:7]` | curently on 19 April 2020, at least over 600,650,000 humans on planet Earth still live in extreme poverty, lack of the means necessary to meet basic personal needs, such as food, clothing and shelter, not even a single human able to escape extreme poverty in a second.
 
 ```
-CURRENT BENCHMARK
+CURRENT BENCHMARK | MAIN GOAL
 ---
-United States Department of Defense | Government | United States of America : over 9.5 million workers, founded 18 September 1947; 73 years ago
-Walmart Inc. | Private | United States of America : over 2.2 million workers, founded 2 July 1962; 58 years ago
+United States Department of Defense | United States of America : over 9.5 million workers, founded 18 September 1947; 73 years ago
+
+The Department of Defense budget encompasses the majority of the National Defense Budget of approximately $716.0 billion in discretionary spending and $10.8 billion in mandatory spending for a $726.8 billion total. Of the total, $708.1 billion falls under the jurisdiction of the House Committee on Armed Services and Senate Armed Services Committee and is subject to authorization by the annual National Defense Authorization Act (NDAA). The remaining $7.9 billion falls under the jurisdiction of other congressional committees.
 ```
 
 <img src="work-hard.jpg" height="200"> 
