@@ -7,11 +7,11 @@ CURRENT BENCHMARK | CURRENT MAIN GOAL
 ---
 United States Department of Defense | United States of America : over 9.5 million workers, founded 18 September 1947
 
-The Department of Defense budget encompasses the majority of the National Defense Budget of approximately $716.0 billion 
-in discretionary spending and $10.8 billion in mandatory spending for a $726.8 billion total. Of the total, $708.1 billion 
-falls under the jurisdiction of the House Committee on Armed Services and Senate Armed Services Committee and is subject to 
-authorization by the annual National Defense Authorization Act (NDAA). The remaining $7.9 billion falls under the jurisdiction 
-of other congressional committees.
+The Department of Defense budget encompasses the majority of the National Defense Budget of approximately 
+$716.0 billion in discretionary spending and $10.8 billion in mandatory spending for a $726.8 billion total. 
+Of the total, $708.1 billion falls under the jurisdiction of the House Committee on Armed Services and Senate 
+Armed Services Committee and is subject to authorization by the annual National Defense Authorization Act (NDAA). 
+The remaining $7.9 billion falls under the jurisdiction of other congressional committees.
 ```
 
 <img src="work-hard.jpg" height="200"> 
