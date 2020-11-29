@@ -767,7 +767,7 @@ Before forming a **Legion**, you will form a **Brigade** as a bridge, a well pre
 
 **_Training grouping level : [ Person | P-1 ] -> [ Squad | S-10 ] -> [ Battalion | B-300 ] -> [ Regiment | R-1.5K ] -> [ Brigade | B-3K ] -> [ Legion | L-5K ] -> [ Division | D-10K ] -> [ Corpus | C-50K ] -> [ Armée | A-100K ] -> [ Front Armée | FA-250K ] -> [ Grande Armée | GA-500K ] -> [ Region Armée | GA-1M ]_-> [ Theater Armée | TA-2M ]_**
 
-**_Training title level : [ Mister / Mistress ] -> [ Commander ] -> [ Lieutenant ] -> [ Colonel ] -> [ Brigadier ] -> [ Lord ] -> [ Major ] ->  [ Director ] -> [ Frontier ] -> [ Rex ] -> [ Regent ] -> [ Emperor / Empress ]
+**_Training title level : [ Mister / Mistress ] -> [ Commander ] -> [ Lieutenant ] -> [ Colonel ] -> [ Brigadier ] -> [ Lord ] -> [ Major ] ->  [ Director ] -> [ Frontier ] -> [ Rex ] -> [ Regent ] -> [ Emperor / Empress ]_**
 
 Setting a theater is supposed to be a continuous, long-term process that creates situational understanding and helps to shape conditions for the success of Armée, joint, and combined operations. This understanding, in turn, should facilitate the successful opening and closing of the joint operations area in support of activities across the range of military operations. The joint force must be able to execute a wide range of operations promptly and sustainably in support of national interests and the geographic combatant command (GCC) objectives. To do this, planners cannot wait until a crisis occurs to set the theater. It must be an ongoing process in which one ultimately ensures critical capabilities are already in place to respond to crises and support operations.
 
