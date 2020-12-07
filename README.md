@@ -33,8 +33,9 @@ falls under the jurisdiction of other congressional committees.
 11. [GitHub notes.](#github)
 12. [GitHub repository calculation.](#calculation)
 13. [Workers registration requirements.](#requirements)
+14. [Leader, worker, follower definition.](#definition)
 <br /><br />
-14. [Business, enterprise, company and methodologies. (DRAFT).](#draft) -- schedule to publish before Thursday, 20 April 2023, during total solar eclipse, a solar eclipse occurs when the Moon passes between Earth and the Sun, thereby totally or partly obscuring the image of the Sun for a viewer on Earth, a total solar eclipse occurs when the Moon's apparent diameter is larger than the Sun's, blocking all direct sunlight, turning day into darkness.
+15. [Business, enterprise, company and methodologies. (DRAFT).](#draft) -- schedule to publish before Thursday, 20 April 2023, during total solar eclipse, a solar eclipse occurs when the Moon passes between Earth and the Sun, thereby totally or partly obscuring the image of the Sun for a viewer on Earth, a total solar eclipse occurs when the Moon's apparent diameter is larger than the Sun's, blocking all direct sunlight, turning day into darkness.
 
 <a name="mission"></a>
 ## 1. Mission introduction.
@@ -792,3 +793,16 @@ Every 15 years, there will be financial allocation of at least 15% of average ac
 First experimental supercomputer launch date : 8 September 2040 during planetary alignment of Mercury, Venus, Mars, Jupiter, Saturn and the crescent Moon, planets will be close to the horizon as darkness is falling. At least on par or above the level of supercomputers owned by the state of Texas government in the United States of America (USA), especially the supercomputers developed by `The University of Texas System (UT System)`, an American government entity of the state of Texas that includes 14 higher educational institutions throughout the state including eight universities and six health institutions.
 
 The minimum internet connection speed for the company workers, starting from the **Centurion** level, broadband and mobile connection speed will be at least 100 megabits per second, 24 hours every single day, non-stop connection to ease all the company operations.
+
+<a name="definition"></a>
+## 14. Leader, worker, follower definition.
+
+A leader is the person who leads or commands a group, organization, or country. A Leader is someone who can see how things can be improved and who rallies people to move toward that better vision. Leaders can work toward making their vision a reality while putting people first. Just being able to motivate people isn’t enough, leaders need to be empathetic and connect with people to be successful. Leaders don’t have to come from the same background or follow the same path. Future leaders will actually be more diverse, which brings a variety of perspectives. The most important thing is that organizations are united internally with their definition of leadership.
+
+A shared leadership definition within the organization can keep everyone on the same page and help prepare certain types of leaders for the future. Organizations also need to have leadership filters so that the right people end up in positions to lead. If the shared leadership definition of an organization revolves around humble leaders acting as servants, that fuels the leadership filters and helps ensure leaders who fit those characteristics are developed and promoted.
+
+A worker is a person who does a specified type of work or who works in a specified way. A worker wants and needs a boss to tell him or her exactly what to do and how to do it. Every organization needs workers.
+
+A follower is someone who has chosen a leader. A follower may begin his or her career as a worker. A follower will learn as much as possible from his or her good and bad bosses while continuously searching for a leader of his or her choice. A follower is determined to develop a satisfying and successful career. No matter what it takes, a follower will find a leader of his or her choice. The follower will boldly take risks and exercise his or her initiative to help the leader succeed without fear and with confidence of the leader’s support.
+
+A follower wants a boss who is a leader. A follower thrives on risks and the freedom to use his or her own initiative and creativity. Only leaders attract followers. If there is a leader, there will be followers. If there are no followers, there is no leader.
