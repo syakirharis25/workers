@@ -774,7 +774,7 @@ Before forming a **Legion**, you will form a **Brigade** as a bridge, a well pre
 
 **_Training duration expectancy : [ 1 day | P-1 ] -> [ 1 week | D-2 ] -> [ 1 month | T-5 ] -> [ 6 months | S-10 ] -> [ 1 year | P-100 ] -> [ 2 years | B-300 ] -> [ 3 years| R-1.5K ] -> [ 4 years | B-3K ] -> [ 5 years| L-5K ] -> [ 6 years | D-10K ] ->  [ 7 years | C-50K ] -> [ 8 years | A-100K ] -> [ 9 years | FA-250K ] -> [ 10 years | GA-500K ] -> [ 11 years | RA-1M ] -> [ 12 years | TA-2M ] -> [ 13 years | T-3M ]_**
 
-**_Training supervision level : [ School of Centurion | P-100 ] -> [ House of Lords | L-5K ] -> [ State of Governments | GA-500K ] -> [ Vir Triumphalis | T-3M ]_**
+**_Training supervision level : [ School of Centurions | P-100 ] -> [ House of Lords | L-5K ] -> [ State of Governments | GA-500K ] -> [ Vir Triumphalis | T-3M ]_**
 
 Historically **Vir triumphalis** means "man of triumph", later known as a triumphator to Rome's mythical and semi-mythical past. In effect, the general was close to being "king for a day", and possibly close to divinity. Rome's earliest "triumphs" were probably simple victory parades, celebrating the return of a victorious general and his army to the city, along with the fruits of his victory, and ending with some form of dedication to the gods. This is probably so for the earliest legendary and later semi-legendary triumphs of Rome's regal era, when the king functioned as Rome's highest magistrate and war-leader. As Rome's population, power, influence, and territory increased, so did the scale, length, variety, and extravagance of its triumphal processions.
 
