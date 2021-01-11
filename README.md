@@ -831,6 +831,13 @@ Anybody in this world can join the club, even a newborn human baby can join the 
 
 First experimental supercomputer launch date : 8 September 2040 during planetary alignment of Mercury, Venus, Mars, Jupiter, Saturn and the crescent Moon, planets will be close to the horizon as darkness is falling. At least on par or above the level of supercomputers owned by the state of Texas government in the United States of America (USA), especially the supercomputers developed by `The University of Texas System (UT System)`, an American government entity of the state of Texas that includes 14 higher educational institutions throughout the state including eight universities and six health institutions.
 
+3 main disciplines that will have the involvement of the supercomputers developed by the company are;
+1) Actuarial science
+2) Quantitative research
+3) Climate risk and natural disaster management
+
+Actuarial science is the discipline that applies mathematical and statistical methods to assess risk in insurance, finance, and other industries and professions. More generally, actuaries apply rigorous mathematics to model matters of uncertainty. Quantitative research is a research strategy that focuses on quantifying the collection and analysis of data. The objective of quantitative research is to develop and employ mathematical models, theories, and hypotheses pertaining to phenomena. The process of measurement is central to quantitative research because it provides the fundamental connection between empirical observation and mathematical expression of quantitative relationships. Climate risk management is a generic term referring to an approach to climate-sensitive decision making. The approach seeks to promote sustainable development by reducing the vulnerability associated with climate risk. A natural disaster is a major adverse event resulting from natural processes of the Earth; examples include floods, hurricanes, tornadoes, volcanic eruptions, earthquakes, tsunamis, storms, and other geologic processes. A natural disaster can cause loss of life or damage property, and typically leaves some economic damage in its wake, the severity of which depends on the affected population's resilience and on the infrastructure available.
+
 The minimum internet connection speed for the company workers, starting from the **Centurion** level, broadband and mobile connection speed will be at least 100 megabits per second, 24 hours every single day, non-stop connection to ease all the company operations.
 
 <a name="definition"></a>
