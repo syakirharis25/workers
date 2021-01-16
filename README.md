@@ -912,7 +912,7 @@ his or her pension will starts at the age of 45 years.
 = 2.5 grams is pure gold) x 4 = 12,000 electrum coins (30,000 grams of pure gold)
 
 The company will allocates at least £579,000 for his or her weekly pension 
-(carry on from the level of House of Lords), 
+(carry on from the level of `House of Lords`), 
 111,000 grams of silver in form of `toilet service` as his or her annual pension,
 and at least 12,000 electrum coins that consists of at least 30,000 grams of pure gold 
 as his or her pension for every 10 years
@@ -925,10 +925,12 @@ or in full words in French language "Laissez-nous faire" meaning "Leave it to us
 
 All the below below level pension scheme will follows
 
-The company will allocates at least £579,000 for his or her weekly pension, 
+The company will allocates at least £579,000 for his or her weekly pension
+(carry on from the level of House of Lords), 
 111,000 grams of silver in form of `toilet service` as his or her annual pension,
 and at least 12,000 electrum coins that consists of at least 30,000 grams of pure gold 
 as his or her pension for every 10 years
+(carry on from the level of `State of Governments`),
 
 + (plus) whatever the Emperor or Empress and the Triumph pension scheme plans
 ```
