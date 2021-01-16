@@ -34,7 +34,7 @@ falls under the jurisdiction of other congressional committees.
 12. [GitHub repository calculation.](#calculation)
 13. [Workers registration requirements.](#requirements)
 14. [Leader, worker, follower definition.](#definition)
-15. [Pension calculation, life expectancy and financial risk management.](#pension) -- on going
+15. [Pension calculation, life expectancy and financial risk management.](#pension)
 <br /><br />
 16. [Business, enterprise, company and methodologies. (DRAFT).](#draft) -- schedule to publish before Thursday, 20 April 2023, during total solar eclipse, a solar eclipse occurs when the Moon passes between Earth and the Sun, thereby totally or partly obscuring the image of the Sun for a viewer on Earth, a total solar eclipse occurs when the Moon's apparent diameter is larger than the Sun's, blocking all direct sunlight, turning day into darkness.
 
@@ -868,7 +868,7 @@ An ambitious leader desires power and influence. He or she may adapt his or her 
 
 The willingness of a leader to blur his or her message also depends critically on the importance of acting in accordance with others. When cohesion; the action or fact of forming a united whole; is important, followers emphasize the adoption of a commonly understood course of action: they pay more attention to clearer speakers and, reacting to this, leaders may communicate more clearly. The followers who focus on conformity, thus ensuring that all activists are singing from the same hymn sheet, also develop a better understanding of the ideal course of action.
 
-<a name="mission"></a>
+<a name="pension"></a>
 ## 15. Pension calculation, life expectancy and financial risk management.
 
 A pension word comes from Latin pensiō meaning "payment", it is a fund into which a sum of money is added during an employee's employment years and from which payments are drawn to support the person's retirement from work in the form of periodic payments. A pension may be a "defined benefit plan", where a fixed sum is paid regularly to a person, or a "defined contribution plan", under which a fixed sum is invested that then becomes available at retirement age. Pensions should not be confused with severance pay; severance pay package is pay and benefits that employees may be entitled to receive when they leave employment at a company unwillfully; the former is usually paid in regular installments for life after retirement, while the latter is typically paid as a fixed amount after involuntary termination of employment prior to retirement.
