@@ -888,7 +888,7 @@ Company workers pension financial allocation varies, depending on the last regio
 For the company workers under the supervision of `House of Lords`:
 ```
 Assuming he or she starts working for the company at the age of 20 years old,
-his or her pension will starts at the age of 45 years.
+his or her pension will starts at the age of 45 years old.
 
 82 years (current life expectancy for the United Kingdom people) - 45 years = 37 years
 
@@ -902,7 +902,7 @@ The company will allocates at least £579,000 for his or her weekly pension
 For the company workers under the supervision of `State of Governments`:
 ```
 Assuming he or she starts working for the company at the age of 20 years old,
-his or her pension will starts at the age of 45 years.
+his or her pension will starts at the age of 45 years old.
 
 82 years (current life expectancy for the United Kingdom people) - 45 years = 37 years
 
@@ -920,6 +920,9 @@ as his or her pension for every 10 years
 
 For the company workers under the supervision of `Vir Triumphalis`:
 ```
+Assuming he or she starts working for the company at the age of 20 years old,
+his or her pension will starts at the age of 45 years old.
+
 Since in this stage is adopting Laissez-faire management style 
 or in full words in French language "Laissez-nous faire" meaning "Leave it to us"
 
