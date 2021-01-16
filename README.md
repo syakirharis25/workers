@@ -908,7 +908,8 @@ his or her pension will starts at the age of 45 years.
 
 37 years x 3,000 grams of silver = 111,000 grams of silver
 
-3,000 electrum coins (each coins is 5 grams, consist of at least 50% of pure gold = 2.5 grams is pure gold) x 4 = 12,000 electrum coins (30,000 grams of pure gold)
+3,000 electrum coins (each coins is 5 grams, consist of at least 50% of pure gold 
+= 2.5 grams is pure gold) x 4 = 12,000 electrum coins (30,000 grams of pure gold)
 
 The company will allocates at least at least £579,000 for his or her weekly pension (carry on from the level of House of Lords), 
 111,000 grams of silver in form of `toilet service` as his or her annual pension,
