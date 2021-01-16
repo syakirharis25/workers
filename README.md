@@ -915,7 +915,7 @@ The company will allocates at least at least £579,000 for his or her weekly pen
 (carry on from the level of House of Lords), 
 111,000 grams of silver in form of `toilet service` as his or her annual pension,
 and at least 12,000 electrum coins that consists of at least 30,000 grams of pure gold 
-as his or her every 10 years annual pension
+as his or her pension for every 10 years
 ```
 
 For the company workers under the supervision of `Vir Triumphalis`:
@@ -928,7 +928,7 @@ All the below below level pension scheme will follows
 The company will allocates at least at least £579,000 for his or her weekly pension, 
 111,000 grams of silver in form of `toilet service` as his or her annual pension,
 and at least 12,000 electrum coins that consists of at least 30,000 grams of pure gold 
-as his or her every 10 years pension
+as his or her pension for every 10 years
 
 + (plus) whatever the Emperor or Empress and the Triumph pension scheme plans
 ```
