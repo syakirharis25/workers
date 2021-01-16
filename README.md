@@ -34,8 +34,9 @@ falls under the jurisdiction of other congressional committees.
 12. [GitHub repository calculation.](#calculation)
 13. [Workers registration requirements.](#requirements)
 14. [Leader, worker, follower definition.](#definition)
+15. [Pension calculation and financial risk management.](#pension) -- on going
 <br /><br />
-15. [Business, enterprise, company and methodologies. (DRAFT).](#draft) -- schedule to publish before Thursday, 20 April 2023, during total solar eclipse, a solar eclipse occurs when the Moon passes between Earth and the Sun, thereby totally or partly obscuring the image of the Sun for a viewer on Earth, a total solar eclipse occurs when the Moon's apparent diameter is larger than the Sun's, blocking all direct sunlight, turning day into darkness.
+16. [Business, enterprise, company and methodologies. (DRAFT).](#draft) -- schedule to publish before Thursday, 20 April 2023, during total solar eclipse, a solar eclipse occurs when the Moon passes between Earth and the Sun, thereby totally or partly obscuring the image of the Sun for a viewer on Earth, a total solar eclipse occurs when the Moon's apparent diameter is larger than the Sun's, blocking all direct sunlight, turning day into darkness.
 
 <a name="mission"></a>
 ## 1. Mission introduction.
