@@ -34,16 +34,18 @@ falls under the jurisdiction of other congressional committees.
 12. [GitHub repository calculation.](#calculation)
 13. [Workers registration requirements.](#requirements)
 14. [Leader, worker, follower definition.](#definition)
-15. [Pension calculation and financial risk management.](#pension) -- on going
+15. [Pension calculation, life expectancy and financial risk management.](#pension) -- on going
 <br /><br />
 16. [Business, enterprise, company and methodologies. (DRAFT).](#draft) -- schedule to publish before Thursday, 20 April 2023, during total solar eclipse, a solar eclipse occurs when the Moon passes between Earth and the Sun, thereby totally or partly obscuring the image of the Sun for a viewer on Earth, a total solar eclipse occurs when the Moon's apparent diameter is larger than the Sun's, blocking all direct sunlight, turning day into darkness.
 
 <a name="mission"></a>
-## 15. Pension calculation and financial risk management.
+## 15. Pension calculation, life expectancy and financial risk management.
 
 A pension word comes from Latin pensiō meaning "payment", it is a fund into which a sum of money is added during an employee's employment years and from which payments are drawn to support the person's retirement from work in the form of periodic payments. A pension may be a "defined benefit plan", where a fixed sum is paid regularly to a person, or a "defined contribution plan", under which a fixed sum is invested that then becomes available at retirement age. Pensions should not be confused with severance pay; severance pay package is pay and benefits that employees may be entitled to receive when they leave employment at a company unwillfully; the former is usually paid in regular installments for life after retirement, while the latter is typically paid as a fixed amount after involuntary termination of employment prior to retirement.
 
 Financial risk is any of various types of risk associated with financing, including financial transactions that include company loans in risk of default. Often it is understood to include only downside risk, meaning the potential for financial loss and uncertainty about its extent. Financial risks include rising inflation, fluctuating interest rates, stock market volatility, and poorly performing retirement plans.
+
+According to data from the World Health Organization, global life expectancy rates at birth have been steadily increasing for decades. Overall, the rates have risen from 66.5 in 2000 to 72.0 in 2016. African countries have experienced the greatest increase in that time period, gaining 10.4 years (50.8 to 61.2), compared with the Eastern Mediterranean region which saw the least amount of growth, at just 3.6 years (65.5 to 69.1). In China, life expectancy as of 2015 is 76.2, up from 72.1 in 2000, placing it among the top third of countries across the globe. Demographic patterns are also exerting pressure on governments to spend more on pensions or alter benefits. In Canada, where life expectancy is at a high of 82.2 as of 2015, the retirement age is expected to hold steady at 65. In the Netherlands, where life expectancy stands at 81.9 years (up 2.5 years from a decade ago), the retirement age is expected to increase from age 66 to 67 by 2022.
 
 <a name="mission"></a>
 ## 1. Mission introduction.
