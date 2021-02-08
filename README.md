@@ -35,7 +35,7 @@ falls under the jurisdiction of other congressional committees.
 13. [Workers registration requirements.](#requirements)
 14. [Leader, worker, follower definition.](#definition)
 15. [Pension calculation, life expectancy and financial risk management.](#pension)
-<br /><br />
+<br />
 16. [Life insurance, ground cemetery allocation, burial club and service. (DRAFT).](#life) -- schedule to publish before Thursday, 20 April 2023, during total solar eclipse, a solar eclipse occurs when the Moon passes between Earth and the Sun, thereby totally or partly obscuring the image of the Sun for a viewer on Earth, a total solar eclipse occurs when the Moon's apparent diameter is larger than the Sun's, blocking all direct sunlight, turning day into darkness.
 <br />
 17. [Business, enterprise, company and methodologies. (DRAFT).](#business) -- schedule to publish before Thursday, 20 April 2023, during total solar eclipse, a solar eclipse occurs when the Moon passes between Earth and the Sun, thereby totally or partly obscuring the image of the Sun for a viewer on Earth, a total solar eclipse occurs when the Moon's apparent diameter is larger than the Sun's, blocking all direct sunlight, turning day into darkness.
